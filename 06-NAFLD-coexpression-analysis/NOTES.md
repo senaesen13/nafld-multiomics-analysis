@@ -3,7 +3,7 @@
 This folder contains a coexpression analysis of the 139 genes that are significantly
 dysregulated in both Dataset 1 (GSE162694, discovery) and Dataset 2 (GSE135251,
 validation). These 139 genes are the primary output of the cross-cohort comparison in
-`../results/pairwise_comparison.md` (Comparison C).
+`../04-NAFLD-cross-cohort-comparison/results/pairwise_comparison.md` (Comparison C).
 
 The goal is to ask: among these 139 genes, which ones move together across samples?
 Genes that co-vary across patients likely share regulatory programs or cell-of-origin.

@@ -23,6 +23,7 @@ platform, or cohort composition?
 | `03-NAFLD-second-validation-GSE130970/` | GSE130970 | Bulk RNA-seq | 4 / 74 | Second validation |
 | `04-NAFLD-cross-cohort-comparison/` | — | Analysis | — | Pairwise overlap + pathway concordance |
 | `05-NAFLD-scRNA-seq-GSE136103/` | GSE136103 | scRNA-seq | 5 donors | Cell-type resolution |
+| `06-NAFLD-coexpression-analysis/` | — | Analysis | — | Coexpression modules from 139 shared genes |
 
 ---
 
@@ -111,6 +112,14 @@ network analysis. These 139 shared genes are used as input for the next analysis
     plots/                          UMAP, dotplots, feature plots (TREM2, SPP1, GPNMB)
     results/                        Cell-type composition, within-cluster DE
     NOTES.md                        Methods, cell-type annotation, key findings
+
+06-NAFLD-coexpression-analysis/
+    scripts/coexpression_analysis.R VST normalisation → Pearson correlation → hierarchical clustering
+    results/vst_matrix_139genes.csv VST expression of 139 genes × 143 samples
+    results/correlation_matrix.csv  139 × 139 Pearson correlation matrix
+    results/module_assignments.csv  Gene → module mapping (k = 7)
+    plots/coexpression_heatmap.png  Correlation heatmap ordered by module
+    NOTES.md                        Methods, M1/M2 module characterisation, key gene report
 ```
 
 ---

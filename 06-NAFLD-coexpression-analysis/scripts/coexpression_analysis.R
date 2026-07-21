@@ -1,7 +1,7 @@
 ## ============================================================
 ## Coexpression Analysis: 139 shared NAFLD genes (Dataset 1 × Dataset 2)
 ## Expression data: GSE162694 (Dataset 1, n=143, VST-normalised)
-## Run from: 04-NAFLD-cross-cohort-comparison/coexpression-analysis/
+## Run from: 06-NAFLD-coexpression-analysis/
 ## ============================================================
 
 suppressPackageStartupMessages({
@@ -24,8 +24,8 @@ cat("Working directory:", getwd(), "\n")
 dir.create("results", showWarnings = FALSE)
 dir.create("plots",   showWarnings = FALSE)
 
-d1_dir <- "../../01-NAFLD-discovery-cohort-GSE162694"
-d2_dir <- "../../02-NAFLD-validation-cohort-GSE135251"
+d1_dir <- "../01-NAFLD-discovery-cohort-GSE162694"
+d2_dir <- "../02-NAFLD-validation-cohort-GSE135251"
 
 # ============================================================
 # STEP 1 — Compute the 139-gene overlap
