@@ -2,7 +2,7 @@
 
 Transcriptomic characterisation of Non-Alcoholic Fatty Liver Disease (NAFLD) across
 three independent bulk RNA-seq cohorts and one single-cell RNA-seq dataset, with
-cross-cohort validation and spatial/metabolomics dataset planning for the next phase.
+cross-cohort validation and cell-type resolution.
 
 ---
 
@@ -22,8 +22,7 @@ platform, or cohort composition?
 | `02-NAFLD-validation-cohort-GSE135251/` | GSE135251 | Bulk RNA-seq | 10 / 206 | Primary validation |
 | `03-NAFLD-second-validation-GSE130970/` | GSE130970 | Bulk RNA-seq | 4 / 74 | Second validation |
 | `04-NAFLD-cross-cohort-comparison/` | — | Analysis | — | Pairwise overlap + pathway concordance |
-| `05-NAFLD-dataset-candidates-reference/` | — | Reference | — | Spatial + metabolomics candidates |
-| `06-NAFLD-scRNA-seq-GSE136103/` | GSE136103 | scRNA-seq | 5 donors | Cell-type resolution |
+| `05-NAFLD-scRNA-seq-GSE136103/` | GSE136103 | scRNA-seq | 5 donors | Cell-type resolution |
 
 ---
 
@@ -107,10 +106,7 @@ network analysis. These 139 shared genes are used as input for the next analysis
     results/lfc_corr_*.png          LFC scatter plots for each pairing
     NOTES.md                        Summary tables, why Comparison C was chosen
 
-05-NAFLD-dataset-candidates-reference/
-    NOTES.md                        Candidate datasets for spatial + metabolomics phases
-
-06-NAFLD-scRNA-seq-GSE136103/
+05-NAFLD-scRNA-seq-GSE136103/
     scripts/                        Seurat pipeline: QC → clustering → annotation
     plots/                          UMAP, dotplots, feature plots (TREM2, SPP1, GPNMB)
     results/                        Cell-type composition, within-cluster DE
