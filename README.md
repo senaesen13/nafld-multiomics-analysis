@@ -1,16 +1,20 @@
 # NAFLD Multi-Omics Analysis
 
-Transcriptomic characterisation of Non-Alcoholic Fatty Liver Disease (NAFLD) across
-three independent bulk RNA-seq cohorts and one single-cell RNA-seq dataset, with
-cross-cohort validation and cell-type resolution.
+Transcriptomic and metabolomic characterisation of Non-Alcoholic Fatty Liver Disease
+(NAFLD) across three independent bulk RNA-seq cohorts, one single-cell RNA-seq dataset,
+and one plasma metabolomics cohort, with cross-cohort validation and cell-type resolution.
 
 ---
 
-## Research Question
+## Research Questions
 
-What are the reproducible transcriptional signatures of NAFLD across independent human
-liver cohorts, and which genes are robustly dysregulated regardless of fibrosis stage,
-platform, or cohort composition?
+1. What are the reproducible transcriptional signatures of NAFLD across independent human
+   liver cohorts, and which genes are robustly dysregulated regardless of fibrosis stage,
+   platform, or cohort composition?
+
+2. Which plasma metabolites rise significantly and consistently across the Control → NAFL
+   → NASH disease spectrum, and do they converge on the same biological pathways as the
+   gene-level findings?
 
 ---
 
@@ -24,6 +28,7 @@ platform, or cohort composition?
 | `04-NAFLD-cross-cohort-comparison/` | — | Analysis | — | Pairwise overlap + pathway concordance |
 | `05-NAFLD-scRNA-seq-GSE136103/` | GSE136103 | scRNA-seq | 5 donors | Cell-type resolution |
 | `06-NAFLD-coexpression-analysis/` | — | Analysis | — | Coexpression modules from 139 shared genes |
+| `07-NAFLD-plasma-metabolomics-Ji2022/` | — | Plasma metabolomics | 86 subjects (25 / 42 / 19) | Metabolite markers of NAFL → NASH progression |
 
 ---
 
@@ -120,6 +125,13 @@ network analysis. These 139 shared genes are used as input for the next analysis
     results/module_assignments.csv  Gene → module mapping (k = 7)
     plots/coexpression_heatmap.png  Correlation heatmap ordered by module
     NOTES.md                        Methods, M1/M2 module characterisation, key gene report
+
+07-NAFLD-plasma-metabolomics-Ji2022/
+    data/Table_S1_Metabolite_Levels.csv       Group means, SDs, KW p-values for 79 metabolites
+    scripts/ji2022_metabolomics_analysis.py   QC → Kruskal-Wallis + BH-FDR → trend → plots
+    plots/                                    Bar plots, Z-score heatmap, volcano plot
+    results/                                  Full statistics, ranked metabolites, MetaboAnalyst input
+    README.md                                 Methods, key result table, limitations
 ```
 
 ---
