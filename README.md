@@ -16,6 +16,9 @@ and one plasma metabolomics cohort, with cross-cohort validation and cell-type r
    → NASH disease spectrum, and do they converge on the same biological pathways as the
    gene-level findings?
 
+3. Which metabolites in the human metabolic network (Human-GEM 2.0) are most enriched
+   with significantly dysregulated enzyme-coding genes in NAFLD?
+
 ---
 
 ## Datasets
@@ -29,6 +32,7 @@ and one plasma metabolomics cohort, with cross-cohort validation and cell-type r
 | `05-NAFLD-scRNA-seq-GSE136103/` | GSE136103 | scRNA-seq | 5 donors | Cell-type resolution |
 | `06-NAFLD-coexpression-analysis/` | — | Analysis | — | Coexpression modules from 139 shared genes |
 | `07-NAFLD-plasma-metabolomics-Ji2022/` | — | Plasma metabolomics | 86 subjects (25 / 42 / 19) | Metabolite markers of NAFL → NASH progression |
+| `08-NAFLD-reporter-metabolites-GEM/` | — | GEM analysis | Human-GEM 2.0 (38,527 edges) | Reporter metabolites from NAFLD gene expression |
 
 ---
 
@@ -132,6 +136,14 @@ network analysis. These 139 shared genes are used as input for the next analysis
     plots/                                    Bar plots, Z-score heatmap, volcano plot
     results/                                  Full statistics, ranked metabolites, MetaboAnalyst input
     README.md                                 Methods, key result table, limitations
+
+08-NAFLD-reporter-metabolites-GEM/
+    data/human_gem_topology_network.csv       Pre-parsed Human-GEM 2.0 (38,527 edges)
+    scripts/reporter_metabolites.R            Patil & Nielsen algorithm (R; verified correct)
+    scripts/reporter_metabolites.py           Patil & Nielsen algorithm (Python; BH-FDR corrected)
+    results/gem_reporter_metabolites_summary.csv  2,378 nodes: Reporter Z, Padj, mean log2FC
+    plots/gem_reporter_metabolites_zscores.png    Top 20 reporter metabolites bar chart
+    README.md                                 Method explanation, top results, verification note
 ```
 
 ---
