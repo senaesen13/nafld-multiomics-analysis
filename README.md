@@ -33,6 +33,7 @@ and one plasma metabolomics cohort, with cross-cohort validation and cell-type r
 | `06-NAFLD-coexpression-analysis/` | — | Analysis | — | Coexpression modules from 139 shared genes |
 | `07-NAFLD-plasma-metabolomics-Ji2022/` | — | Plasma metabolomics | 86 subjects (25 / 42 / 19) | Metabolite markers of NAFL → NASH progression |
 | `08-NAFLD-reporter-metabolites-GEM/` | — | GEM analysis | Human-GEM 2.0 (38,527 edges) | Reporter metabolites from NAFLD gene expression |
+| `09-NAFLD-drug-repositioning-CMap/` | — | Drug repositioning | CMap/LINCS L1000 | Signature reversal candidates from GSE130970 DEGs |
 
 ---
 
@@ -144,6 +145,14 @@ network analysis. These 139 shared genes are used as input for the next analysis
     results/gem_reporter_metabolites_summary.csv  2,378 nodes: Reporter Z, Padj, mean log2FC
     plots/gem_reporter_metabolites_zscores.png    Top 20 reporter metabolites bar chart
     README.md                                 Method explanation, top results, verification note
+
+09-NAFLD-drug-repositioning-CMap/
+    scripts/drug_repositioning_cmap.R         Gene list extraction + .grp files + bar chart
+    results/cmap_up_genes.grp                 Top 150 NAFLD upregulated genes (CMap-ready)
+    results/cmap_down_genes.grp               Top 150 NAFLD downregulated genes (CMap-ready)
+    results/drug_repositioning_candidates.csv 8 compounds with simulated Tau scores
+    plots/lincs_drug_repositioning_tau_scores.png  Bar chart coloured by mechanism of action
+    README.md                                 CMap method, honest note on simulated Tau scores
 ```
 
 ---
@@ -156,3 +165,4 @@ network analysis. These 139 shared genes are used as input for the next analysis
 - **org.Hs.eg.db / biomaRt** — gene ID mapping
 - **Seurat** — scRNA-seq processing and clustering
 - **ggplot2 / ggrepel / enrichplot** — visualisation
+- **clue.io / LINCS L1000** — Broad CMap portal for drug connectivity queries
