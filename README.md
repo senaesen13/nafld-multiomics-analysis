@@ -1,8 +1,9 @@
 # NAFLD Multi-Omics Analysis
 
 Transcriptomic and metabolomic characterisation of Non-Alcoholic Fatty Liver Disease
-(NAFLD) across three independent bulk RNA-seq cohorts, one single-cell RNA-seq dataset,
-and one plasma metabolomics cohort, with cross-cohort validation and cell-type resolution.
+(NAFLD / MASLD) across three independent bulk RNA-seq cohorts, one single-cell RNA-seq
+dataset, one plasma metabolomics cohort, and one spatial transcriptomics dataset, with
+cross-cohort validation, cell-type resolution, and spatial tissue mapping.
 
 ---
 
@@ -34,6 +35,7 @@ and one plasma metabolomics cohort, with cross-cohort validation and cell-type r
 | `07-NAFLD-plasma-metabolomics-Ji2022/` | — | Plasma metabolomics | 86 subjects (25 / 42 / 19) | Metabolite markers of NAFL → NASH progression |
 | `08-NAFLD-reporter-metabolites-GEM/` | — | GEM analysis | Human-GEM 2.0 (38,527 edges) | Reporter metabolites from NAFLD gene expression |
 | `09-NAFLD-drug-repositioning-CMap/` | — | Drug repositioning | CMap/LINCS L1000 | Signature reversal candidates from GSE130970 DEGs |
+| `10-NAFLD-spatial-transcriptomics-Vu2025/` | UQeSpace 10.48610/e95155f | Spatial transcriptomics | 33 biopsies / 8 arrays / 13,239 spots | Spatial domain mapping in MASLD liver (F0–F4) |
 
 ---
 
@@ -153,6 +155,13 @@ network analysis. These 139 shared genes are used as input for the next analysis
     results/drug_repositioning_candidates.csv 8 compounds with simulated Tau scores
     plots/lincs_drug_repositioning_tau_scores.png  Bar chart coloured by mechanism of action
     README.md                                 CMap method, honest note on simulated Tau scores
+
+10-NAFLD-spatial-transcriptomics-Vu2025/
+    umap_clusters_and_arrays.png              UMAP of 13,239 spots: 24 clusters + by array
+    celltype_scores_heatmap_by_cluster.png    Cell-type activity (17 types) across 24 clusters
+    qc_summary.csv                            Per-array spot counts and QC metrics
+    cluster_sizes.csv                         Spot count per spatial domain cluster
+    README.md                                 Dataset, method, key result, fibrosis-mapping limitation
 ```
 
 ---
