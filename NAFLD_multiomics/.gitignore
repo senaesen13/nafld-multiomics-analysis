@@ -1,0 +1,15 @@
+.DS_Store
+
+# Raw downloaded data - large, and reproducible from code/00_download/.
+# Unanchored (**/) so these also match the same file types one level
+# deeper inside backup_data/ (archived cohorts keep the same internal
+# data/RNAseq/<id>/ layout as the active ones).
+**/quant_files/
+**/*.tar
+**/*RAW*
+**/*.gz
+**/raw/
+**/*.zip
+
+# Large intermediate R objects
+**/*.rds

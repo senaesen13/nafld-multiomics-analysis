@@ -1,0 +1,2217 @@
+"metabolite","n_neighbours","mean_log2FC","reporter_z","pvalue","padj"
+"sn-glycerol-3-phosphate",12,-0.188,4.186,1.421e-05,0.009086
+"1-acylglycerol-3P-10,13,16,19-doco",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-10,13,16-docosa",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-10-heptade",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-11,14,17-eico",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-11,14-eicosa",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-11-docose",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-11-eico",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-12,15,18,21-tetra",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-13,16,19-doco",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-13,16-docosa",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-13-docose",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-13-eicose",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-13-octade",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-15-tetra",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-4,7,10,13,16,19-doco",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-4,7,10,13,16-docosa",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-5,8,11,14,17-eico",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-5,8,11-eico",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-5-tetrade",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-6,9,12,15,18,21-tetra",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-6,9,12,15,18-tetraco",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-6,9,12,15-octa",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-6,9-octa",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-7,10,13,16,19-docosa",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-7,10,13,16-docosa",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-7-hexade",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-7-octade",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-7-tetrade",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-8,11,14,17-eico",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-8,11-eico",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-9,12,15,18,21-tetra",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-9,12,15,18-tetraco",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-9-eicose",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-9-heptade",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-9-octade",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-9-tetrade",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-arach",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-cis-vac",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-dihomo-gamma",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-docosa",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-eico",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-gamma-lin",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-heneico",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-heptade",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-hexacosa",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-hexecose",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-laur",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-lin",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-linolen",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-myrist",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-nanode",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-ol",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-palm",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-palmn",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-pentade",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-stea",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-tetraco",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-trico",3,-0.096,3.485,0.000246,0.009086
+"1-acylglycerol-3P-tridec",3,-0.096,3.485,0.000246,0.009086
+"3-Oxo-Cis-9-Octadecenoyl Coenzyme A",4,0.684,3.318,0.0004537,0.01648
+"linoleoyl-CoA",41,0.263,3.229,0.0006219,0.02223
+"trans,trans,cis-geranyl-geranyl-pp",3,0.52,3.061,0.001104,0.03883
+"chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S), degradation product 2",7,0.264,3.054,0.00113,0.03913
+"lanosterol",3,1.454,3.03,0.001224,0.04173
+"heparan sulfate, precursor 9",5,0.063,2.953,0.001573,0.05281
+"4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol",3,1.014,2.934,0.001671,0.05445
+"4,4-dimethyl-5alpha-cholesta-8,14-dien-3-beta-ol",3,1.014,2.934,0.001671,0.05445
+"Acetaminophen glucuronide",4,1.035,2.878,0.002002,0.0643
+"3-methoxy-acetaminophen",3,1.232,2.862,0.002104,0.06567
+"glucuronide-conjugate of 3-methoxy-acetaminophen",3,1.232,2.862,0.002104,0.06567
+"3,3-diiodo-L-thyronine",25,0.186,2.686,0.003614,0.1112
+"isocaproic-aldehyde",3,1.829,2.653,0.003988,0.1176
+"TAG-VLDL pool",6,0.661,2.645,0.004087,0.1176
+"TAG-chylomicron pool",6,0.661,2.645,0.004087,0.1176
+"VLDL",6,0.661,2.645,0.004087,0.1176
+"chylomicron",6,0.661,2.645,0.004087,0.1176
+"oleoyl-CoA",45,0.242,2.588,0.004821,0.137
+"hypoxanthine",4,-0.05,2.565,0.005158,0.1447
+"dihomo-gamma-linolenoyl-CoA",34,0.248,2.56,0.005231,0.1449
+"alpha-tocopherol",7,0.299,2.551,0.005367,0.1455
+"glycophosphatidylinositol-(GPI)-anchored-protein-precursor",5,0.405,2.538,0.005582,0.1455
+"gpi_sig",5,0.405,2.538,0.005582,0.1455
+"m3gacpail_prot heparan sulfate",5,0.405,2.538,0.005582,0.1455
+"mem2emgacpail_prot heparan sulfate",5,0.405,2.538,0.005582,0.1455
+"isopentenyl-pPP",7,0.656,2.485,0.006473,0.1651
+"1-acylglycerol-VLDL pool",4,0.906,2.47,0.006749,0.1651
+"fatty acid-VLDL pool",4,0.906,2.47,0.006749,0.1651
+"2Fe2S iron-sulfur cluster",12,-0.069,2.42,0.007766,0.1651
+"10-hydroxy-octadec-(12Z)-enoate-9-beta-D-glucuronide",14,0.375,2.403,0.00812,0.1651
+"12-O-D-glucuronoside-13-hydroxyoctadec-(9Z)-enoate",14,0.375,2.403,0.00812,0.1651
+"12-hydroxy-13-O-D-glucuronoside-octadec-(9Z)-enoate",14,0.375,2.403,0.00812,0.1651
+"13-cis-retinoyl-beta-D-glucuronide",14,0.375,2.403,0.00812,0.1651
+"13-cis-retinoyl-glucuronide",14,0.375,2.403,0.00812,0.1651
+"3,3,5-triiodo-L-thyronine-beta-D-glucuronoside",14,0.375,2.403,0.00812,0.1651
+"3,3-diiodo-L-thyronine-beta-D-glucuronoside",14,0.375,2.403,0.00812,0.1651
+"3,5,3,5-tetraiodo-L-thyronine-beta-D-glucuronoside",14,0.375,2.403,0.00812,0.1651
+"3,5,3-triiodo-L-thyronine-beta-D-glucuronoside",14,0.375,2.403,0.00812,0.1651
+"3,5-diiodo-L-thyronine-beta-D-glucuronoside",14,0.375,2.403,0.00812,0.1651
+"4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol glucuronide",14,0.375,2.403,0.00812,0.1651
+"4-hydroxy-all-trans-retinyl-acetate",14,0.375,2.403,0.00812,0.1651
+"4-oxo-9-cis-retinoyl-beta-glucuronide",14,0.375,2.403,0.00812,0.1651
+"9-cis-retinoyl-beta-D-glucuronide",14,0.375,2.403,0.00812,0.1651
+"9-hydroxy-10-O-D-glucuronoside-(12Z)-octadecenoate",14,0.375,2.403,0.00812,0.1651
+"NNAL-N-glucuronide",14,0.375,2.403,0.00812,0.1651
+"rac-4-hydroxy-4-O-(beta-D-glucuronide)-all-trans-retinoate",14,0.375,2.403,0.00812,0.1651
+"rac-4-hydroxy-4-O-(beta-D-glucuronide)-all-trans-retinyl-acetate",14,0.375,2.403,0.00812,0.1651
+"rac-5,6-epoxy-retinoyl-beta-D-glucuronide",14,0.375,2.403,0.00812,0.1651
+"trichloroethanol glucuronide",14,0.375,2.403,0.00812,0.1651
+"(alpha-D-Glucosyl)-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)",5,-0.029,2.39,0.00843,0.1698
+"bilirubin-bisglucuronoside",19,0.191,2.362,0.00909,0.1815
+"em2emgacpail_prot heparan sulfate",6,0.249,2.346,0.009497,0.1862
+"gpi_prot heparan sulfate",6,0.249,2.346,0.009497,0.1862
+"4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol",20,0.37,2.278,0.01137,0.221
+"dUMP",8,0.326,2.269,0.01164,0.2243
+"trans-4-hydroxy-L-proline",9,0.059,2.265,0.01176,0.2247
+"gamma-linolenoyl-CoA",38,0.217,2.252,0.01217,0.2305
+"dimethylallyl-PP",4,0.324,2.242,0.01249,0.2346
+"linolenoyl-CoA",29,0.292,2.237,0.01263,0.2352
+"decanoic acid",18,0.17,2.233,0.01279,0.2362
+"6-phospho-D-gluconate",4,0.153,2.212,0.01347,0.2378
+"sulfate",27,0.274,2.205,0.01372,0.2378
+"3,5-diiodo-L-thyronine",17,0.337,2.198,0.01399,0.2378
+"but-2-enoyl-[ACP]",3,0.602,2.195,0.01407,0.2378
+"(R)-mevalonate",3,0.362,2.185,0.01443,0.2378
+"2-Hydroxyamino-3,8-Dimethylimidazo[4,5-F]Quinoxaline",10,0.549,2.183,0.01452,0.2378
+"2-Hydroxyamino-Meiqx-N2-(Beta-1-Glucosiduronyl)-2-Hydroxyamino-3,8-Dimethylimidazo[4,5-F]Quinoxaline",10,0.549,2.183,0.01452,0.2378
+"3,3,5-Triiodothyroacetate",10,0.549,2.183,0.01452,0.2378
+"3,3,5-Triiodothyroacetate-Beta-D-Glucuronoside",10,0.549,2.183,0.01452,0.2378
+"3,5,3,5-Tetraiodothyroacetate",10,0.549,2.183,0.01452,0.2378
+"3,5,3,5-Tetraiodothyroacetate-Beta-D-Glucuronoside",10,0.549,2.183,0.01452,0.2378
+"3,5,3-Triiodothyroacetate",10,0.549,2.183,0.01452,0.2378
+"3,5,3-Triiodothyroacetate-Beta-D-Glucuronoside",10,0.549,2.183,0.01452,0.2378
+"3,5-Diiodothyroacetate",10,0.549,2.183,0.01452,0.2378
+"3,5-Diiodothyroacetate-Beta-D-Glucuronoside",10,0.549,2.183,0.01452,0.2378
+"PRPP",10,-0.074,2.181,0.0146,0.2378
+"D-glyceraldehyde 3-phosphate",8,0.35,2.175,0.01481,0.2378
+"myristoyl-CoA",40,0.167,2.175,0.01481,0.2378
+"lactaldehyde",15,0.39,2.163,0.01526,0.2433
+"AKG",52,0,2.149,0.01583,0.2499
+"PEP",9,0.2,2.147,0.0159,0.2499
+"thymidine",13,0.288,2.14,0.01616,0.2522
+"thiamin",3,-0.348,2.117,0.01712,0.2647
+"12,13-hydroxyoctadec-9(z)-enoate",16,0.348,2.113,0.01732,0.2647
+"9,10-hydroxyoctadec-12(Z)-enoate",16,0.348,2.113,0.01732,0.2647
+"palmitoleoyl-CoA",38,0.165,2.088,0.0184,0.2793
+"arachidonyl-CoA",50,0.22,2.083,0.01862,0.2807
+"5,6-epoxy-13-cis-retinoate",15,0.329,2.08,0.01876,0.2809
+"CO",3,-0.325,2.061,0.01965,0.2922
+"propane-1,2-diol",10,0.376,2.044,0.02048,0.3026
+"estradiol-17beta 3-glucuronide",19,0.211,2.025,0.02142,0.3143
+"mem2emgacpail heparan sulfate",9,0.338,2.008,0.02232,0.3254
+"pitavastatin-glucuronide",4,0.886,1.956,0.02523,0.3619
+"alpha-CEHC-glucuronide",15,0.353,1.955,0.02531,0.3619
+"gamma-CEHC-glucuronide",15,0.353,1.955,0.02531,0.3619
+"(6Z,9Z)-octadecadienoyl-CoA",40,0.215,1.949,0.02564,0.3637
+"sphingosine",24,0.201,1.946,0.02584,0.3637
+"(7Z)-octadecenoyl-CoA",32,0.165,1.944,0.02593,0.3637
+"5alpha-pregnane-3,20-dione",8,0.349,1.931,0.02673,0.3708
+"butyryl-[ACP]",4,0.49,1.931,0.02677,0.3708
+"chondroitin sulfate A (GalNAc4S-GlcA), degradation product 5",6,0.431,1.906,0.02835,0.3902
+"1,2-dihydronaphthalene-1,2-diol",5,0.475,1.901,0.02864,0.3918
+"lactoneotetraosylceramide",3,-0.006,1.886,0.02962,0.3982
+"allopregnanolone",6,0.598,1.879,0.03015,0.3982
+"DHAP",10,0.205,1.864,0.03114,0.3982
+"5-pp-inspP5",7,0.105,1.863,0.03123,0.3982
+"D-lactaldehyde",19,-0.083,1.863,0.03123,0.3982
+"glyceraldehyde",17,0.265,1.849,0.03225,0.3982
+"(6Z,9Z,12Z,15Z)-octadecatetraenoyl-CoA",42,0.225,1.846,0.03245,0.3982
+"lc3Cer",6,0.468,1.841,0.0328,0.3982
+"myo-inositol-hexakisphosphate",8,0.065,1.84,0.03288,0.3982
+"VLDL remnant",7,0.566,1.838,0.03301,0.3982
+"chylomicron remnant",7,0.566,1.838,0.03301,0.3982
+"proline",40,0.045,1.838,0.03305,0.3982
+"4-hydroxy-all-trans-retinoate",16,0.295,1.829,0.03372,0.3982
+"3-keto-eicosa-8,11,14,17-all-cis-tetraenoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxo-11cis-docosenoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxo-9-cis-eicosenoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxo-docosa-10,13,16,19-all-cis-tetraenoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxo-docosa-13,16,19-all-cis-trienoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxo-docosa-7,10,13,16,19-all-cis-pentaenoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxo-docosa-7,10,13,16-all-cis-tetraenoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxo-docosa-cis,cis,cis-10,13,16-trienoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxo-eicosadienoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxo-tetracosa-12,15,18,21-all-cis-tetraenoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxo-tetracosa-9,12,15,18-all-cis-tetraenoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxodocasa-cis,cis-13,16-dienoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxoeicosa-cis,cis,cis-11,14,17-trienoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxoeicosa-cis,cis-11,14-dienoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"3-oxotricosanoyl-CoA",6,0.474,1.823,0.03414,0.3982
+"cis-vaccenoyl-CoA",38,0.153,1.814,0.03487,0.4046
+"heptadecanoyl-CoA",34,0.153,1.808,0.0353,0.4074
+"4Fe4S iron-sulfur cluster",11,-0.012,1.803,0.03572,0.4101
+"dihydrofolate",5,0.337,1.79,0.03676,0.4197
+"4-oxo-9-cis-retinoate",32,0.265,1.788,0.03693,0.4197
+"(8Z,11Z,14Z,17Z)-eicosatetraenoyl-CoA",38,0.234,1.752,0.03991,0.4512
+"(alpha-D-mannosyl)4-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)",5,-0.04,1.749,0.04018,0.4514
+"reverse triiodthyronine",20,0.191,1.747,0.04033,0.4514
+"naphthalene-1,2-diol",4,0.496,1.732,0.04165,0.4638
+"nLc5Cer",6,0.264,1.721,0.04265,0.4705
+"G10597",3,0.081,1.72,0.04268,0.4705
+"N-acetyl-D-glucosaminyldiphosphodolichol",3,-0.016,1.71,0.04361,0.4784
+"13-cis-retinoate",17,0.309,1.706,0.04405,0.4785
+"9-cis-retinoate",17,0.309,1.706,0.04405,0.4785
+"Mannosyl-3-(Phosphoethanolaminyl-Mannosyl)-Glucosaminyl-Acylphosphatidylinositol-Protein (M4A)",4,0.344,1.681,0.04638,0.5014
+"N-acetylgalactosamine",9,0.462,1.678,0.04667,0.502
+"pravastatin",6,0.003,1.659,0.04859,0.5202
+"L-glutamate 5-semialdehyde",3,0.012,1.655,0.04898,0.5211
+"em2emgacpail heparan sulfate",10,0.299,1.653,0.04915,0.5211
+"(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoyl-CoA",44,0.211,1.629,0.05167,0.5381
+"undecylic acid",14,0.257,1.622,0.05239,0.5381
+"chloride",15,0.352,1.618,0.05284,0.5381
+"prostaglandin D2",5,0.306,1.614,0.05329,0.5381
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 2",5,-0.018,1.603,0.05449,0.5381
+"xanthine",4,-0.137,1.595,0.05537,0.5381
+"(alpha-D-mannosyl)5-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (B1)",4,-0.133,1.59,0.0559,0.5381
+"(alpha-D-mannosyl)5-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (B2)",4,-0.133,1.59,0.0559,0.5381
+"(alpha-D-mannosyl)5-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (C)",4,-0.133,1.59,0.0559,0.5381
+"(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (A)",4,-0.133,1.59,0.0559,0.5381
+"(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (B1)",4,-0.133,1.59,0.0559,0.5381
+"(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (B2)",4,-0.133,1.59,0.0559,0.5381
+"(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein) (C)",4,-0.133,1.59,0.0559,0.5381
+"(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform A (protein)",4,-0.133,1.59,0.0559,0.5381
+"(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform B (protein)",4,-0.133,1.59,0.0559,0.5381
+"(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform C (protein)",4,-0.133,1.59,0.0559,0.5381
+"(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)",4,-0.133,1.59,0.0559,0.5381
+"glucosyl-(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)",4,-0.133,1.59,0.0559,0.5381
+"glucosyl-(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform B (protein)",4,-0.133,1.59,0.0559,0.5381
+"glucosyl-(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform C (protein)",4,-0.133,1.59,0.0559,0.5381
+"tridecylic acid",21,0.221,1.583,0.05676,0.5381
+"chondroitin sulfate A (GalNAc4S-GlcA), degradation product 4",7,0.326,1.582,0.05682,0.5381
+"chondroitin sulfate A (GalNAc4S-GlcA), free chain",7,0.326,1.582,0.05682,0.5381
+"chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S), free chain",7,0.326,1.582,0.05682,0.5381
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), free chain",7,0.326,1.582,0.05682,0.5381
+"14-demethyllanosterol",4,0.223,1.567,0.05855,0.5491
+"4,4-dimethyl-5alpha-cholesta-8-en-3-beta-ol",4,0.223,1.567,0.05855,0.5491
+"3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-27-al",7,0.372,1.562,0.05915,0.5491
+"palmitoyl-CoA",62,0.156,1.561,0.05925,0.5491
+"stearoyl-CoA",47,0.175,1.561,0.0593,0.5491
+"UDP-glucuronate",26,0.267,1.558,0.05958,0.5491
+"prostaglandin H2",11,-0.007,1.554,0.06006,0.5491
+"1,3-bisphospho-D-glycerate",7,0.078,1.553,0.06017,0.5491
+"thyroxine",20,0.193,1.553,0.06025,0.5491
+"1-acylglycerol-3P pool",14,0.07,1.549,0.06071,0.5491
+"deoxyuridine",10,0.437,1.549,0.06065,0.5491
+"4,8-dimethylnonanoylcarnitine",3,0.126,1.546,0.06106,0.5493
+"m3gacpail heparan sulfate",10,0.272,1.543,0.06147,0.5493
+"[pyruvate dehydrogenase (acetyl transferring)]",6,-0.157,1.534,0.06254,0.5493
+"[pyruvate dehydrogenase (acetyl transferring)]-phosphate",6,-0.157,1.534,0.06254,0.5493
+"atorvastatin-acid",11,0.205,1.531,0.06288,0.5493
+"(13Z)-docosenoyl-CoA",30,0.131,1.52,0.0642,0.5493
+"2-phospho-D-glycerate",6,0.454,1.516,0.06472,0.5493
+"cholesterol-ester pool",10,0.454,1.516,0.06473,0.5493
+"methacrylyl-CoA",3,0.047,1.514,0.06505,0.5493
+"4-hydroxyphenylacetate",3,0.72,1.506,0.06604,0.5493
+"methylimidazoleacetic acid",3,0.72,1.506,0.06604,0.5493
+"ribitol",3,0.72,1.506,0.06604,0.5493
+"glycerol",21,0.24,1.484,0.06884,0.5493
+"glycolaldehyde",10,0.398,1.479,0.0696,0.5493
+"4-acetamidobutanoate",6,0.052,1.478,0.06967,0.5493
+"D-glucarate",6,0.052,1.478,0.06967,0.5493
+"D-glucurono-6,3-lactone",6,0.052,1.478,0.06967,0.5493
+"HMG-CoA",6,0.188,1.476,0.07002,0.5493
+"Trans-Delta-2-Heptadecanoyl Coenzyme A",5,0.116,1.473,0.07035,0.5493
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 6",9,0.375,1.468,0.07107,0.5493
+"cytidine",12,0.102,1.466,0.07135,0.5493
+"leukotriene B5",5,0.361,1.455,0.07282,0.5493
+"1D-myo-inositol-1,3,4,5-tetrakisphosphate",9,-0.055,1.451,0.07335,0.5493
+"5-methyl-THF",4,0.04,1.451,0.07338,0.5493
+"adenine",4,0.277,1.451,0.07335,0.5493
+"thiamin-PPP",3,0.475,1.449,0.07363,0.5493
+"(Z,Z,Z)-7,10,13-Hexadecatrienoic Acid",4,0.201,1.443,0.07451,0.5493
+"5,8,11,14,17-Eicosapentenoic Acid",4,0.201,1.443,0.07451,0.5493
+"7Z,10Z-Hexadecadienoic Acid",4,0.201,1.443,0.07451,0.5493
+"Trans-Delta-2-Heptadecanoic Acid",4,0.201,1.443,0.07451,0.5493
+"acetaminophen/paracetamol",8,0.564,1.443,0.07456,0.5493
+"pitavastatin",11,0.138,1.439,0.0751,0.5493
+"1-pyrroline-5-carboxylate",5,0.416,1.438,0.07524,0.5493
+"5beta-cholestane-3alpha,7alpha-diol",5,0.37,1.438,0.07527,0.5493
+"(11Z)-eicosenoyl-CoA",34,0.134,1.433,0.07598,0.5493
+"heparan sulfate, precursor 2",3,0.331,1.432,0.07601,0.5493
+"heparan sulfate, precursor 3",3,0.331,1.432,0.07601,0.5493
+"heparan sulfate, precursor 4",3,0.331,1.432,0.07601,0.5493
+"heparan sulfate, precursor 5",3,0.331,1.432,0.07601,0.5493
+"heparan sulfate, precursor 6",3,0.331,1.432,0.07601,0.5493
+"heparan sulfate, precursor 7",3,0.331,1.432,0.07601,0.5493
+"heparan sulfate, precursor 8",3,0.331,1.432,0.07601,0.5493
+"heparan sulfate, precursor 10",3,-0.209,1.427,0.07683,0.5493
+"(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA",24,0.187,1.426,0.07698,0.5493
+"dTMP",15,0.314,1.423,0.07734,0.5493
+"ferricytochrome B5",7,0.421,1.417,0.07829,0.5493
+"ferrocytochrome B5",7,0.421,1.417,0.07829,0.5493
+"10,11-dihydro-20-dihydroxy-LTB4",4,0.41,1.416,0.07841,0.5493
+"10,11-dihydro-20-trihydroxy-LTB4",4,0.41,1.416,0.07841,0.5493
+"12,20-diHETE",4,0.41,1.416,0.07841,0.5493
+"12-oxo-20-dihydroxy-LTB4",4,0.41,1.416,0.07841,0.5493
+"12-oxo-20-hydroxy-LTB4",4,0.41,1.416,0.07841,0.5493
+"12-oxo-20-trihydroxy-LTB4",4,0.41,1.416,0.07841,0.5493
+"13-carboxy-alpha-tocopherol",4,0.41,1.416,0.07841,0.5493
+"13-carboxy-gamma-tocopherol",4,0.41,1.416,0.07841,0.5493
+"13-carboxy-gamma-tocotrienol",4,0.41,1.416,0.07841,0.5493
+"13-hydroxy-alpha-tocopherol",4,0.41,1.416,0.07841,0.5493
+"13-hydroxy-alpha-tocotrienol",4,0.41,1.416,0.07841,0.5493
+"13-hydroxy-gamma-tocopherol",4,0.41,1.416,0.07841,0.5493
+"13-hydroxy-gamma-tocotrienol",4,0.41,1.416,0.07841,0.5493
+"20-OH-10,11-dihydro-LTB4",4,0.41,1.416,0.07841,0.5493
+"20-OH-hepoxilin A3",4,0.41,1.416,0.07841,0.5493
+"20-dihydroxy-LTB4",4,0.41,1.416,0.07841,0.5493
+"20-hydroxy-5S-HETE",4,0.41,1.416,0.07841,0.5493
+"20-hydroxy-LTB5",4,0.41,1.416,0.07841,0.5493
+"20-trihydroxy-LTB4",4,0.41,1.416,0.07841,0.5493
+"5,12,20-TriHETE",4,0.41,1.416,0.07841,0.5493
+"alpha-tocotrienol",4,0.41,1.416,0.07841,0.5493
+"gamma-tocopherol",4,0.41,1.416,0.07841,0.5493
+"gamma-tocotrienol",4,0.41,1.416,0.07841,0.5493
+"Insulin-(SH)2",6,0.096,1.415,0.07858,0.5493
+"insulin-(SS)",6,0.096,1.415,0.07858,0.5493
+"cerivastatin-M1",4,-0.12,1.405,0.08008,0.5555
+"cerivastatin-M23",4,-0.12,1.405,0.08008,0.5555
+"glucose-1-phosphate",13,0.03,1.404,0.08022,0.5555
+"cocaine",4,0.333,1.4,0.08077,0.5576
+"tetracosanoyl-CoA",34,0.173,1.396,0.08135,0.5589
+"bilirubin",20,0.141,1.395,0.08148,0.5589
+"deamido-NAD",6,-0.066,1.394,0.08171,0.5589
+"triiodothyronine",21,0.179,1.388,0.0826,0.5632
+"ribose",4,0.57,1.383,0.08329,0.5648
+"farnesyl-PP",9,0.308,1.382,0.08347,0.5648
+"selenomethionine",18,0.125,1.381,0.0836,0.5648
+"(15Z)-tetracosenoyl-CoA",29,0.153,1.379,0.08399,0.5657
+"5alpha-androstane-3,17-dione",9,0.311,1.373,0.08493,0.5703
+"mannose-1-phosphate",7,0.136,1.369,0.08553,0.5721
+"docosanoyl-CoA",38,0.157,1.367,0.08586,0.5721
+"3-phospho-D-glycerate",9,0.09,1.366,0.08597,0.5721
+"chondroitin sulfate D (GlcNAc6S-GlcA2S) precursor 2",5,-0.007,1.352,0.08822,0.582
+"nonanoic acid",13,0.244,1.35,0.08853,0.582
+"valeric acid",13,0.244,1.35,0.08853,0.582
+"glycogenin G4G4",4,0.117,1.347,0.08903,0.582
+"glycogenin G7",4,0.117,1.347,0.08903,0.582
+"sphingosylphosphorylcholine",5,0.54,1.347,0.08899,0.582
+"hyodeoxycholate",5,-0.353,1.344,0.08942,0.5828
+"L-1-pyrroline-3-hydroxy-5-carboxylate",4,0.414,1.342,0.08985,0.5839
+"3-methylcrotonyl-CoA",6,-0.291,1.34,0.09017,0.5843
+"heneicosanoyl-CoA",26,0.127,1.325,0.09257,0.5981
+"choline",14,0.124,1.316,0.09407,0.606
+"lactose",5,0.148,1.307,0.09553,0.6136
+"sphinganine",16,0.198,1.3,0.09673,0.6195
+"G10595",5,0.145,1.295,0.09764,0.6235
+"eicosanoyl-CoA",42,0.154,1.292,0.09813,0.624
+"glycogen",4,0.388,1.291,0.09828,0.624
+"butyrate",18,0.195,1.282,0.09995,0.6328
+"IMP",23,0.122,1.278,0.1006,0.6334
+"uridine",16,0.212,1.277,0.1008,0.6334
+"Galactosyl Glucosyl Ceramide",11,0.294,1.276,0.1009,0.6334
+"G10596",6,0.171,1.266,0.1027,0.6418
+"acyl-CoA pool",32,0.077,1.264,0.103,0.6418
+"heptylic acid",14,0.217,1.263,0.1032,0.6418
+"adenylosuccinate",4,0.298,1.262,0.1034,0.6418
+"sulfite",12,0.22,1.253,0.105,0.6499
+"nonadecanoyl-CoA",30,0.13,1.243,0.107,0.6584
+"2-hydroxy-S-ibuprofen",6,-0.234,1.235,0.1085,0.6584
+"3-hydroxy S-ibuprofen",6,-0.234,1.235,0.1085,0.6584
+"3,4-dihydroxymandelate",4,0.61,1.234,0.1087,0.6584
+"homovanillate",4,0.61,1.234,0.1087,0.6584
+"vanillylmandelate",4,0.61,1.234,0.1087,0.6584
+"3-carboxy-alpha-chromanol",39,0.226,1.23,0.1094,0.6584
+"gamma-carboxyethyl-hydroxychroman",39,0.226,1.23,0.1094,0.6584
+"cholestenol",3,0.429,1.223,0.1106,0.6584
+"lathosterol",4,0.647,1.222,0.1109,0.6584
+"succinate",27,0.034,1.222,0.1109,0.6584
+"3-sulfinoalanine",6,-0.352,1.22,0.1113,0.6584
+"hexanoic acid",17,0.241,1.219,0.1114,0.6584
+"Fe3+",9,-0.338,1.218,0.1115,0.6584
+"PS-LD pool",15,0.076,1.218,0.1117,0.6584
+"trans,cis,cis-2,11,14-eicosatrienoyl-CoA",11,0.211,1.218,0.1116,0.6584
+"20-OH-LTB4",10,-0.012,1.217,0.1119,0.6584
+"methylmalonate",7,-0.181,1.217,0.1118,0.6584
+"GD2",5,0.315,1.215,0.1121,0.6584
+"2-methyl-3-oxopropanoate",11,-0.166,1.213,0.1126,0.6584
+"tiglyl-CoA",8,-0.059,1.213,0.1126,0.6584
+"D-alanine",3,0.397,1.206,0.1139,0.6619
+"acrylyl-CoA",8,0.116,1.205,0.1141,0.6619
+"malonyl-CoA",16,0.405,1.203,0.1145,0.6619
+"chondroitin sulfate A (GalNAc4S-GlcA), degradation product 2",7,0.376,1.202,0.1147,0.6619
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 3",7,0.376,1.202,0.1147,0.6619
+"5-methylthioadenosine",3,-0.137,1.198,0.1154,0.6637
+"(2E,7Z,10Z,13Z,16Z)-docosapentaenoyl-CoA",6,0.189,1.196,0.1158,0.6637
+"12,15,18,21-tetracosatetraenoyl-CoA",18,0.08,1.196,0.1159,0.6637
+"oleate",22,0.145,1.192,0.1166,0.6648
+"(11Z,14Z)-eicosadienoyl-CoA",33,0.132,1.191,0.1167,0.6648
+"glycolate",10,0.35,1.187,0.1175,0.6671
+"gpi heparan sulfate",9,0.273,1.187,0.1177,0.6671
+"17alpha-hydroxyprogesterone",4,0.579,1.181,0.1187,0.671
+"Cholic acid-24glucuronide, CA-24G",4,-0.455,1.17,0.121,0.6823
+"sedoheptulose-7-phosphate",5,0.379,1.161,0.1228,0.6907
+"sphinganine-1-phosphate",8,0.247,1.159,0.1233,0.6914
+"trichloroethanol",29,0.054,1.153,0.1244,0.6914
+"3,3-diiodo-L-thyronine-4-O-sulfate",10,-0.102,1.152,0.1246,0.6914
+"octanoic acid",16,0.222,1.151,0.1249,0.6914
+"5-hydroxyindoleacetate",6,-0.115,1.15,0.1251,0.6914
+"acetate",50,0.11,1.148,0.1254,0.6914
+"cerivastatin-M24",3,-0.516,1.141,0.1269,0.6914
+"(10Z)-heptadecenoyl-CoA",22,0.109,1.138,0.1275,0.6914
+"9-heptadecenoyl-CoA",22,0.109,1.138,0.1275,0.6914
+"glucuronate",3,0.317,1.136,0.1279,0.6914
+"guanine",5,-0.074,1.117,0.1319,0.6914
+"2-deoxy-D-ribose-1-phosphate",5,0.54,1.113,0.1329,0.6914
+"alanine",58,0.083,1.105,0.1346,0.6914
+"crotonyl-CoA",15,0.131,1.104,0.1348,0.6914
+"(11Z,14Z,17Z)-eicosatrienoyl-CoA",35,0.139,1.098,0.1361,0.6914
+"L-erythro-4-hydroxyglutamate",3,-0.007,1.098,0.1362,0.6914
+"(11Z,14Z,17Z)-eicosatrienoic acid",19,0.171,1.092,0.1373,0.6914
+"1-Arachidonoyl-Glycero-3-Phosphocholine",5,0.141,1.091,0.1376,0.6914
+"1-Dihomo-Linolenoylglycerophosphocholine (20:3, Delta 8, 11, 14), Lysopc A C20:3",5,0.141,1.091,0.1376,0.6914
+"1-Docosahexaenoylglycerophosphocholine",5,0.141,1.091,0.1376,0.6914
+"1-Docosahexenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16, 19), Sn1-Lpc (22:6)",5,0.141,1.091,0.1376,0.6914
+"1-Docosapentenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16), Sn1-Lpc (22:5)-W6",5,0.141,1.091,0.1376,0.6914
+"1-Docosapentenoylglycerophosphocholine (Delta 7, 10, 13, 16, 19), Sn1-Lpc (22:5)-W3",5,0.141,1.091,0.1376,0.6914
+"1-Docosatetraenoylglycerophosphocholine (Delta 7, 10, 13, 16), Sn1-Lpc (22:4)",5,0.141,1.091,0.1376,0.6914
+"1-Eicosadienoylglycerophosphocholine (Delta 11,14)",5,0.141,1.091,0.1376,0.6914
+"1-Eicosapentenoylglycerophosphocholine (Delta 5, 8, 11, 14, 17), Sn1-Lpc (20:5)",5,0.141,1.091,0.1376,0.6914
+"1-Eicosatetraenoylglycerophosphocholine (Delta 8, 11, 14, 17), Sn1-Lpc (20:4)",5,0.141,1.091,0.1376,0.6914
+"1-Eicosatrienoylglycerophosphocholine (Delta 11, 14, 17)",5,0.141,1.091,0.1376,0.6914
+"1-Eicosenoylglycerophosphocholine (Delta 11) ,Sn1-Lpc (20:1)",5,0.141,1.091,0.1376,0.6914
+"1-Heptadecanoylglycerophosphocholine",5,0.141,1.091,0.1376,0.6914
+"1-Lignocericylglycerophosphocholine (24:0), Lysopc A C24",5,0.141,1.091,0.1376,0.6914
+"1-Linoleoylglycerophosphocholine (Delta 9,12)",5,0.141,1.091,0.1376,0.6914
+"1-Myristoylglycerophosphocholine",5,0.141,1.091,0.1376,0.6914
+"1-Nonadecanoylglycerophosphocholine, Sn1-Lpc (19:0)",5,0.141,1.091,0.1376,0.6914
+"1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 6, 9, 12)",5,0.141,1.091,0.1376,0.6914
+"1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 9, 12, 15)",5,0.141,1.091,0.1376,0.6914
+"1-Oleoylglycerophosphocholine (Delta 9)",5,0.141,1.091,0.1376,0.6914
+"1-Palmitoleoylglycerophosphocholine (Delta 9)",5,0.141,1.091,0.1376,0.6914
+"1-Palmitoylglycerophosphocholine",5,0.141,1.091,0.1376,0.6914
+"1-Pentadecanoylglycerophosphocholine, Sn1-Lpc (15:0)",5,0.141,1.091,0.1376,0.6914
+"1-Stearoylglycerophosphocholine",5,0.141,1.091,0.1376,0.6914
+"2-Linoleoylglycerophosphocholine",5,0.141,1.091,0.1376,0.6914
+"2-Oleoylglycerophosphocholine",5,0.141,1.091,0.1376,0.6914
+"2-Stearoylglycerophosphocholine",5,0.141,1.091,0.1376,0.6914
+"dolichyl-phosphate",21,0.12,1.091,0.1376,0.6914
+"margaric acid",21,0.248,1.091,0.1375,0.6914
+"pentadecylic acid",21,0.248,1.091,0.1375,0.6914
+"(7Z)-tetradecenoyl-CoA",33,0.089,1.09,0.1379,0.6914
+"adenylyl sulfate",3,0.056,1.077,0.1407,0.7038
+"3-methylglutaconyl-CoA",3,-0.233,1.074,0.1415,0.7062
+"3,4-dihydroxyphenylacetate",3,1.099,1.07,0.1423,0.7086
+"N,N-chitobiosyldiphosphodolichol",3,-0.043,1.066,0.1433,0.712
+"7alpha,12alpha-dihydroxy-5beta-cholestan-3-one",5,0.398,1.061,0.1445,0.7148
+"7alpha-hydroxy-5beta-cholestan-3-one",5,0.398,1.061,0.1445,0.7148
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 5",7,0.324,1.057,0.1452,0.7166
+"behenic acid",22,0.204,1.055,0.1458,0.718
+"stearate",25,0.139,1.035,0.1504,0.7343
+"5beta-cholestan-3alpha,7alpha,12alpha-triol",7,0.155,1.034,0.1505,0.7343
+"phenylpyruvate",10,-0.214,1.033,0.1507,0.7343
+"GD3",5,-0.008,1.03,0.1515,0.7343
+"androsterone",9,0.324,1.027,0.1522,0.7343
+"myristic acid",26,0.16,1.027,0.1522,0.7343
+"3-oxo-all-cis-6,9,12,15,18-tetracosapentaenoyl-CoA",10,0.329,1.025,0.1527,0.7343
+"3-oxo-cis-15-tetracosaenoyl-CoA",10,0.329,1.025,0.1527,0.7343
+"3-oxo-hexacosenoyl-CoA",10,0.329,1.025,0.1527,0.7343
+"3-oxohexacosanoyl-CoA",10,0.329,1.025,0.1527,0.7343
+"3-phosphonooxypyruvate",3,0.146,1.023,0.1532,0.7343
+"acetylcholine",6,-0.026,1.018,0.1543,0.7343
+"1D-myo-inositol-1,3,4-trisphosphate",5,-0.096,1.013,0.1556,0.7343
+"heparan sulfate, precursor 1",4,0.197,1.013,0.1556,0.7343
+"(10Z)-heptadecenoic acid",21,0.13,1.01,0.1564,0.7343
+"(13Z)-octadecenoic acid",21,0.13,1.01,0.1564,0.7343
+"(7Z)-octadecenoic acid",21,0.13,1.01,0.1564,0.7343
+"(7Z)-tetradecenoic acid",21,0.13,1.01,0.1564,0.7343
+"(9E)-tetradecenoic acid",21,0.13,1.01,0.1564,0.7343
+"gamma-linolenate",21,0.13,1.01,0.1564,0.7343
+"physeteric acid",21,0.13,1.01,0.1564,0.7343
+"D-lactate",16,-0.016,1.009,0.1564,0.7343
+"globotriaosylceramide",7,0.21,1.005,0.1574,0.7366
+"palmitate",37,0.131,1.004,0.1578,0.7366
+"S-adenosylmethioninamine",3,-0.037,1.003,0.1579,0.7366
+"3-beta-D-glucuronosyl-3-beta-D-galactosyl-4-beta-D-galactosyl-O-beta-D-xylosylprotein",6,0.039,0.997,0.1594,0.7421
+"4-methyl-2-oxopentanoate",16,0.249,0.992,0.1606,0.7453
+"paragloboside",10,0.069,0.99,0.161,0.7453
+"sphingosine-1-phosphate",12,0.051,0.99,0.1611,0.7453
+"bile-PC pool",3,0.163,0.987,0.1618,0.747
+"procollagen-L-lysine",3,0.094,0.985,0.1622,0.7471
+"PAPS",34,0.028,0.984,0.1625,0.7471
+"9-eicosenoyl-CoA",34,0.13,0.981,0.1633,0.7492
+"beta-alanine",12,0.074,0.972,0.1655,0.7577
+"1D-myo-inositol-bisdiphosphate-tetrakisphosphate",5,0.281,0.964,0.1676,0.7649
+"dihomo-gamma-linolenate",22,0.137,0.962,0.168,0.7649
+"oxypurinol",3,0.061,0.962,0.1681,0.7649
+"(2E)-octenoyl-CoA",10,0.144,0.96,0.1685,0.765
+"SM pool",16,0.279,0.959,0.1688,0.765
+"5,10-methylene-THF",20,0.182,0.954,0.1701,0.7693
+"4-aminobutyrate",12,0.061,0.951,0.1709,0.7713
+"2-methylbutyryl-CoA",5,-0.03,0.943,0.1728,0.7752
+"pyridoxamine",3,0.337,0.941,0.1735,0.7752
+"pyridoxamine-phosphate",3,0.337,0.941,0.1735,0.7752
+"pyridoxine",3,0.337,0.941,0.1735,0.7752
+"ribulose-5-phosphate",4,0.134,0.941,0.1733,0.7752
+"(5Z,8Z,11Z)-eicosatrienoyl-CoA",31,0.168,0.93,0.1761,0.7852
+"chloral hydrate",8,0.113,0.929,0.1765,0.7854
+"omega-COOH-tetranor-LTE3-CoA",6,0.145,0.925,0.1775,0.7879
+"fructose-2,6-bisphosphate",5,0.038,0.922,0.1783,0.7879
+"(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoyl-CoA",25,0.179,0.921,0.1784,0.7879
+"16-glucuronide-estriol",3,0.325,0.919,0.1792,0.7879
+"5alpha-dihydrotestosterone-glucuronide",3,0.325,0.919,0.1792,0.7879
+"3-oxotetracosanoyl-CoA",11,0.315,0.918,0.1792,0.7879
+"1D-myo-inositol-1,3,4,5,6-pentakisphosphate",8,0.106,0.91,0.1815,0.7964
+"ribose-5-phosphate",10,-0.001,0.908,0.1819,0.7964
+"20-oxo-LTB4",11,-0.178,0.904,0.183,0.7964
+"20-oxo-LTE4",11,-0.178,0.904,0.183,0.7964
+"6(R)-hydroxy-tetradeca-(2E,4E,8Z)-trienoate",3,0.111,0.9,0.184,0.7964
+"6(S)-hydroxy-tetradeca-(2E,4E,8Z)-trienoate",3,0.111,0.9,0.184,0.7964
+"8(R)-hydroxy-hexadeca-(2E,4E,6E,10Z)-tetraenoate",3,0.111,0.9,0.184,0.7964
+"8(S)-hydroxy-hexadeca-(2E,4E,6E,10Z)-tetraenoate",3,0.111,0.9,0.184,0.7964
+"octanoyl-CoA",23,0.156,0.897,0.1849,0.7987
+"(9Z,12Z,15Z,18Z)-tetracosatetraenoyl-CoA",22,0.053,0.894,0.1857,0.8006
+"dGTP",38,0.201,0.89,0.1867,0.8034
+"imidazole-4-acetate",5,-0.039,0.883,0.1886,0.8068
+"perillic acid",5,-0.039,0.883,0.1886,0.8068
+"perillyl aldehyde",5,-0.039,0.883,0.1886,0.8068
+"(13Z)-eicosenoyl-CoA",28,0.1,0.879,0.1897,0.807
+"sulphate-conjugate-acetaminophen",3,0.394,0.876,0.1906,0.807
+"fumarate",11,0.271,0.875,0.1908,0.807
+"(11Z,14Z)-eicosadienoic acid",18,0.157,0.871,0.1919,0.807
+"(13Z)-eicosenoic acid",18,0.157,0.871,0.1919,0.807
+"8,11-eicosadienoic acid",18,0.157,0.871,0.1919,0.807
+"9-eicosenoic acid",18,0.157,0.871,0.1919,0.807
+"nonadecylic acid",18,0.157,0.871,0.1919,0.807
+"3,4-dihydroxymandelaldehyde",11,0.017,0.87,0.1923,0.807
+"5-tetradecenoyl-CoA",35,0.082,0.868,0.1928,0.807
+"7-hexadecenoyl-CoA",35,0.082,0.868,0.1928,0.807
+"GM2A-GM2",4,0.254,0.867,0.193,0.807
+"(R)-methylmalonyl-CoA",3,-0.347,0.866,0.1934,0.8071
+"ecgonine-methyl ester",5,0.239,0.862,0.1945,0.8077
+"2-hydroxy-R-ibuprofen",4,-0.644,0.858,0.1955,0.8077
+"3-hydroxy R-ibuprofen",4,-0.644,0.858,0.1955,0.8077
+"Trans,Cis,Cis-2,11,14-Eicosatrienoic Acid",4,0.25,0.857,0.1958,0.8077
+"D-tagatose-6-phosphate",4,0.394,0.856,0.1961,0.8077
+"D-xylulose-1-phosphate",4,0.394,0.856,0.1961,0.8077
+"fructose-1-phosphate",4,0.394,0.856,0.1961,0.8077
+"dihydroceramide pool",9,0.147,0.854,0.1967,0.8087
+"glucose",39,0.191,0.849,0.1981,0.8113
+"benzoate",5,0.283,0.843,0.1997,0.8113
+"trans,cis-2,15-tetracosadienoyl-CoA",13,0.156,0.84,0.2004,0.8113
+"10,13,16,19-docosatetraenoyl-CoA",33,0.111,0.839,0.2007,0.8113
+"3-methoxy-4-hydroxyphenylacetaldehyde",5,0.39,0.83,0.2033,0.8113
+"3-methoxy-4-hydroxyphenylglycolaldehyde",5,0.39,0.83,0.2033,0.8113
+"5-hydroxyindoleacetaldehyde",15,-0.202,0.827,0.204,0.8113
+"betaine",4,0.158,0.827,0.2042,0.8113
+"phenylacetate",3,0.953,0.827,0.2041,0.8113
+"thiamin-P",3,0.385,0.826,0.2044,0.8113
+"elaidate",21,0.189,0.821,0.2059,0.8113
+"3alpha,7alpha-dihydroxy-5beta-cholestan-26-al",13,-0.189,0.817,0.2069,0.8113
+"3-oxo-dihomo-gamma-linolenoyl-CoA",11,0.306,0.815,0.2077,0.8113
+"2-trans-7,10,13,16,19-all-cis-docosahexaenoyl-CoA",7,0.189,0.812,0.2085,0.8113
+"2-trans-9,12,15,18,21-all-cis-tetracosahexaenoyl-CoA",7,0.189,0.812,0.2085,0.8113
+"2-trans-9,12,15,18-all-cis-tetracosapentaenoyl-CoA",7,0.189,0.812,0.2085,0.8113
+"cis-vaccenic acid",22,0.129,0.812,0.2083,0.8113
+"eicosa-(2E,8Z,11Z,14Z,17Z)-pentaenoyl-CoA",7,0.189,0.812,0.2085,0.8113
+"trans,cis,cis,cis,cis-2,10,13,16,19-docosapentaenoyl-CoA",7,0.189,0.812,0.2085,0.8113
+"trans,cis,cis,cis,cis-2,12,15,18,21-tetracosapentaenoyl-CoA",7,0.189,0.812,0.2085,0.8113
+"trans,cis,cis,cis-2,10,13,16-docosatetraenoyl-CoA",7,0.189,0.812,0.2085,0.8113
+"dTDP",13,0.358,0.806,0.2101,0.8113
+"chitobiose",3,0.27,0.805,0.2104,0.8113
+"chondroitin sulfate C (GalNAc6S-GlcA), degradation product 5",3,0.27,0.805,0.2104,0.8113
+"chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 2",3,0.27,0.805,0.2104,0.8113
+"chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 6",3,0.27,0.805,0.2104,0.8113
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 7",3,0.27,0.805,0.2104,0.8113
+"3-oxopropionyl-CoA",15,0.163,0.804,0.2108,0.8113
+"(7Z,10Z,13Z,16Z)-docosatetraenoyl-CoA",37,0.11,0.802,0.2112,0.8113
+"methylglyoxal",9,0.548,0.794,0.2136,0.8113
+"keratan sulfate I biosynthesis, precursor 11",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate I biosynthesis, precursor 14",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate I biosynthesis, precursor 17",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate I biosynthesis, precursor 20",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate I biosynthesis, precursor 23",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate I biosynthesis, precursor 26",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate I biosynthesis, precursor 29",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate I biosynthesis, precursor 32",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate I biosynthesis, precursor 35",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate I biosynthesis, precursor 5",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate I biosynthesis, precursor 8",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate II (core 4-linked), biosynthesis, precursor 6",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate II (core 4-linked), biosynthesis, precursor 9",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate II biosynthesis, precursor 6",6,0.152,0.793,0.2138,0.8113
+"keratan sulfate II biosynthesis, precursor 9",6,0.152,0.793,0.2138,0.8113
+"chondroitin sulfate C (GalNAc6S-GlcA) and D (GlcNAc6S-GlcA2S), precursor 1",8,-0.034,0.792,0.2143,0.8118
+"putrescine",11,0.207,0.788,0.2153,0.8142
+"3-oxoheneicosanoyl-CoA",11,0.276,0.782,0.2172,0.8186
+"3-oxononadecanoyl-CoA",11,0.276,0.782,0.2172,0.8186
+"core 4",4,0.113,0.779,0.218,0.8202
+"lauroyl-CoA",35,0.064,0.774,0.2195,0.8237
+"L-dopa",5,0.183,0.773,0.2197,0.8237
+"5alpha-cholesta-7,24-dien-3beta-ol",3,0.361,0.77,0.2208,0.8237
+"alpha-hydroxyisocaproic acid",13,0.298,0.77,0.2205,0.8237
+"(5-L-glutamyl)-L-amino acid",5,0.252,0.769,0.2208,0.8237
+"dTTP",32,0.236,0.763,0.2229,0.8278
+"tyrosine",36,0.069,0.763,0.2228,0.8278
+"Mannosyl-3-(Phosphoethanolaminyl-Mannosyl)-Glucosaminyl-Acylphosphatidylinositol (M4A))",7,0.266,0.762,0.223,0.8278
+"(8Z,11Z)-eicosadienoyl-CoA",32,0.169,0.76,0.2235,0.8282
+"(13E)-tetranor-16-oxo-16-CoA-LTE4",7,0.227,0.756,0.225,0.8283
+"biliverdin",4,-0.163,0.755,0.2252,0.8283
+"propanoyl-CoA",53,0.184,0.753,0.2258,0.8283
+"L-arabinose",3,0.193,0.75,0.2266,0.8283
+"L-arabitol",3,0.193,0.75,0.2266,0.8283
+"chondroitin sulfate A (GalNAc4S-GlcA), degradation product 1",4,0.127,0.749,0.227,0.8283
+"chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S), degradation product 1",4,0.127,0.749,0.227,0.8283
+"hexanoyl-CoA",24,0.037,0.748,0.2274,0.8283
+"Losartan-N2-glucuronide / Losartan-M7",5,0.429,0.747,0.2275,0.8283
+"allopurinol",4,0.156,0.747,0.2275,0.8283
+"eicosanoate",21,0.233,0.746,0.228,0.8283
+"ibuprofen-S",10,-0.04,0.746,0.2277,0.8283
+"N6,N6,N6-trimethyl-L-lysine",6,-0.031,0.744,0.2284,0.8284
+"trans,cis-2,11-eicosadienoyl-CoA",17,0.123,0.739,0.2301,0.8285
+"trans,cis-2,13-docosadienoyl-CoA",17,0.123,0.739,0.2301,0.8285
+"zinc",13,0.151,0.739,0.2299,0.8285
+"zymosterol",4,0.344,0.732,0.2322,0.8285
+"(6Z,9Z)-octadecadienoic acid",20,0.175,0.725,0.2344,0.8285
+"7-palmitoleic acid",20,0.175,0.725,0.2344,0.8285
+"9-heptadecylenic acid",20,0.175,0.725,0.2344,0.8285
+"lauric acid",28,0.17,0.725,0.2343,0.8285
+"palmitolate",20,0.175,0.725,0.2344,0.8285
+"sulfatide",4,0.462,0.724,0.2345,0.8285
+"acetaldehyde",20,0.046,0.721,0.2354,0.8285
+"linolenate",18,0.224,0.721,0.2355,0.8285
+"chondroitin sulfate A (GalNAc4S-GlcA) and B (IdoA2S-GalNAc4S), precursor 2",6,-0.014,0.72,0.2359,0.8285
+"chondroitin sulfate C (GalNAc6S-GlcA), precursor 2",6,-0.014,0.72,0.2359,0.8285
+"chondroitin sulfate D (GlcNAc6S-GlcA2S), precursor 3",6,-0.014,0.72,0.2359,0.8285
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 3",6,-0.014,0.72,0.2359,0.8285
+"4alpha-carboxy-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol",3,0.479,0.718,0.2363,0.8285
+"4alpha-carboxy-4beta-methyl-5alpha-cholesta-8-en-3beta-ol",3,0.479,0.718,0.2363,0.8285
+"4alpha-carboxy-5alpha-cholesta-8,24-dien-3beta-ol",3,0.479,0.718,0.2363,0.8285
+"4alpha-carboxy-5alpha-cholesta-8-en-3beta-ol",3,0.479,0.718,0.2363,0.8285
+"hexacosenoyl-CoA",19,0.048,0.718,0.2363,0.8285
+"dATP",40,0.246,0.715,0.2374,0.8311
+"xanthosine-5-phosphate",10,-0.136,0.711,0.2386,0.834
+"cys-gly",8,0.034,0.707,0.2399,0.8372
+"(7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl-CoA",36,0.093,0.702,0.2415,0.8415
+"dUTP",16,0.197,0.697,0.243,0.8454
+"nLc6Cer",11,0.044,0.695,0.2437,0.8465
+"cerivastatin",5,-0.147,0.692,0.2444,0.8476
+"6-hydroxymelatonin-sulfate",6,0.129,0.69,0.245,0.8483
+"12(S)-HETE",7,0.264,0.689,0.2454,0.8484
+"3-Hydroxyisovaleryl Coenzyme A",3,-0.126,0.684,0.2471,0.8529
+"tridecanoyl-CoA",26,0.036,0.681,0.2479,0.8534
+"(2S,6R,10R)-trimethyl-hendecanoyl-CoA",3,-0.034,0.68,0.2484,0.8534
+"25(S)THCA-CoA",3,-0.034,0.68,0.2484,0.8534
+"1-methylnicotinamide",3,-0.311,0.676,0.2496,0.8546
+"thiosulfate",3,0.476,0.676,0.2494,0.8546
+"phosphatidylinositol-4,5-bisphosphate",31,-0.041,0.672,0.2506,0.8546
+"5,15-DiHETE",3,0.146,0.664,0.2534,0.8546
+"2,3-bisphospho-D-glycerate",4,0.074,0.66,0.2545,0.8546
+"3-hydroxypropionyl-CoA",18,0.133,0.653,0.2568,0.8546
+"7-beta-OH-gliclazide",3,-0.65,0.653,0.2567,0.8546
+"dephospho-CoA",4,-0.092,0.651,0.2574,0.8546
+"GDP-mannose",10,0.286,0.65,0.2579,0.8546
+"5-L-gamma-glutamyl",3,0.508,0.648,0.2586,0.8546
+"L-3-cyanoalanine",3,0.508,0.648,0.2586,0.8546
+"gamma-L-glutamyl-L-alanine",3,0.508,0.648,0.2586,0.8546
+"gamma-glutamyl-3-aminopropiononitrile",3,0.508,0.648,0.2586,0.8546
+"gamma-glutamyl-beta-cyanoalanine",3,0.508,0.648,0.2586,0.8546
+"leukotriene C5",3,0.508,0.648,0.2586,0.8546
+"leukotriene D5",3,0.508,0.648,0.2586,0.8546
+"dolichyl-diphosphate",8,0.183,0.643,0.26,0.8546
+"Hyodeoxycholic acid-6glucuronide, HDCA-6G",8,-0.065,0.642,0.2605,0.8546
+"lignocerate",20,0.207,0.641,0.2607,0.8546
+"deoxycytidine",11,-0.023,0.64,0.2612,0.8546
+"guanosine",11,0.145,0.64,0.2609,0.8546
+"urocanate",4,0.032,0.638,0.2617,0.8546
+"Losartan",8,0.287,0.637,0.2619,0.8546
+"glycogenin G4G7",6,0.208,0.637,0.262,0.8546
+"acetoacetate",13,0.036,0.635,0.2626,0.8546
+"fructose-1,6-bisphosphate",7,0.359,0.633,0.2633,0.8546
+"(13Z,16Z)-docosadienoic acid",17,0.121,0.63,0.2644,0.8546
+"(4Z,7Z,10Z,13Z,16Z)-DPA",17,0.121,0.63,0.2644,0.8546
+"(6Z,9Z,12Z,15Z,18Z)-TPA",17,0.121,0.63,0.2644,0.8546
+"(9Z,12Z,15Z,18Z)-TTA",17,0.121,0.63,0.2644,0.8546
+"(9Z,12Z,15Z,18Z,21Z)-TPA",17,0.121,0.63,0.2644,0.8546
+"10,13,16-docosatriynoic acid",17,0.121,0.63,0.2644,0.8546
+"12,15,18,21-tetracosatetraenoic acid",17,0.121,0.63,0.2644,0.8546
+"13,16,19-docosatrienoic acid",17,0.121,0.63,0.2644,0.8546
+"DPA",17,0.121,0.63,0.2644,0.8546
+"cerotic acid",17,0.121,0.63,0.2644,0.8546
+"cis-cetoleic acid",17,0.121,0.63,0.2644,0.8546
+"phosphocholine",7,0.372,0.63,0.2645,0.8546
+"tricosanoic acid",17,0.121,0.63,0.2644,0.8546
+"dUDP",16,0.192,0.629,0.2647,0.8546
+"retinal",19,-0.065,0.627,0.2653,0.8546
+"(13Z)-octadecenoyl-CoA",33,0.085,0.626,0.2657,0.8546
+"(9E)-octadecenoyl-CoA",33,0.085,0.626,0.2657,0.8546
+"(9E)-tetradecenoyl-CoA",33,0.085,0.626,0.2657,0.8546
+"Docosanedioicacid",4,0.033,0.617,0.2686,0.8601
+"W-Hydroxydecanoicacid",4,0.033,0.617,0.2686,0.8601
+"W-Hydroxydocosanoicacid",4,0.033,0.617,0.2686,0.8601
+"(2E)-tetradecenoyl-CoA",11,0.103,0.616,0.2691,0.8602
+"(2E)-hexenoyl-CoA",11,0.058,0.615,0.2694,0.8602
+"trans-2-cis,cis,cis-8,11,14-eicosatetraenoyl-CoA",11,0.152,0.612,0.2701,0.8612
+"pentadecanoyl-CoA",28,0.047,0.61,0.2708,0.8622
+"malonyl-[ACP]",3,0.604,0.604,0.2728,0.8673
+"hexadecanol",3,-0.363,0.6,0.2742,0.868
+"phytoceramide pool",5,0.151,0.6,0.2744,0.868
+"chondroitin sulfate C (GalNAc6S-GlcA), degradation product 1",6,0.267,0.593,0.2766,0.868
+"chondroitin sulfate C (GalNAc6S-GlcA), degradation product 4",6,0.267,0.593,0.2766,0.868
+"chondroitin sulfate C (GalNAc6S-GlcA), free chain",6,0.267,0.593,0.2766,0.868
+"chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 1",6,0.267,0.593,0.2766,0.868
+"chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 5",6,0.267,0.593,0.2766,0.868
+"chondroitin sulfate D (GlcNAc6S-GlcA2S), free chain",6,0.267,0.593,0.2766,0.868
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 2",6,0.267,0.593,0.2766,0.868
+"5-alpha-dihydrotestosterone",8,0.213,0.59,0.2776,0.868
+"dCTP",35,0.181,0.589,0.278,0.868
+"[phosphorylase A]",7,-0.101,0.588,0.2781,0.868
+"[phosphorylase B]",7,-0.101,0.588,0.2781,0.868
+"folate",13,0.07,0.584,0.2795,0.8711
+"chondroitin sulfate A (GalNAc4S-GlcA), B (IdoA2S-GalNAc4S), and E (GalNAc4,6diS-GlcA), precursor 1",9,-0.03,0.579,0.2814,0.8728
+"DHA",18,0.107,0.578,0.2817,0.8728
+"(2E)-heptenoyl-CoA",4,0.157,0.577,0.282,0.8728
+"(2E)-nonenoyl-CoA",4,0.157,0.577,0.282,0.8728
+"(2E)-undecenoyl-CoA",4,0.157,0.577,0.282,0.8728
+"4-hydroxy-2-oxoglutarate",3,-0.323,0.573,0.2832,0.8753
+"triphosphate",3,-0.037,0.57,0.2844,0.8778
+"fn2m2masn",5,0.043,0.559,0.2879,0.8857
+"9-cis-4-oxo-13,14-dihydro-retinoate",17,0.209,0.555,0.2894,0.8857
+"methionine",49,0.046,0.551,0.2906,0.8857
+"ceramide pool",32,0.134,0.548,0.2918,0.8857
+"Chenodeoxycholic acid-24glucuronide, CDCA-24G",6,-0.162,0.546,0.2927,0.8857
+"Hyodeoxycholic acid-24glucuronide, HDCA-24G",6,-0.162,0.546,0.2927,0.8857
+"Fe2+",25,-0.186,0.545,0.2928,0.8857
+"20-hydroxy-LTE4",6,-0.294,0.544,0.2932,0.8857
+"D-myo-inositol-1,4,5-trisphosphate",16,-0.01,0.544,0.2931,0.8857
+"mitooxidized thioredoxin",8,0.329,0.543,0.2934,0.8857
+"mitothioredoxin",8,0.329,0.543,0.2934,0.8857
+"5-hydroxytryptophol",8,-0.231,0.541,0.2944,0.8857
+"N-acetylneuraminate",11,0.161,0.54,0.2947,0.8857
+"GM3",12,0.16,0.538,0.2952,0.8857
+"5-formyl-THF",4,0.609,0.536,0.2959,0.8857
+"G00031",3,0.062,0.534,0.2965,0.8857
+"3'-S-hydroxy-pravastatin",8,0.068,0.533,0.2971,0.8857
+"4-hydroxyphenylpyruvate",5,-0.178,0.532,0.2974,0.8857
+"dGDP",17,0.236,0.525,0.2999,0.8857
+"11-cis-retinal",6,0.273,0.518,0.3023,0.8857
+"spermine",8,0.051,0.518,0.3024,0.8857
+"core 6",5,0.064,0.517,0.3024,0.8857
+"peptide-L-aspartate",3,-0.002,0.51,0.3052,0.8857
+"Trans,Cis-Dodeca-2,5-Dienoyl Coenzyme A",9,-0.072,0.503,0.3075,0.8857
+"dCDP",16,0.21,0.503,0.3076,0.8857
+"10,13,16-docosatrienoyl-CoA",29,0.048,0.499,0.3089,0.8857
+"provitamin D3",4,0.605,0.493,0.3109,0.8857
+"(3S)-hydroxy-eicosa-cis,cis-11,14-dienoyl-CoA",7,0.155,0.49,0.3121,0.8857
+"3(S)-hydroxy-10,13,16-all-cis-docosatrienoyl-CoA",7,0.155,0.49,0.3121,0.8857
+"3(S)-hydroxy-all-cis-8,11,14,17-eicosatetraenoyl-CoA",7,0.155,0.49,0.3121,0.8857
+"3(S)-hydroxy-docosa-10,13,16,19-all-cis-tetraenoyl-CoA",7,0.155,0.49,0.3121,0.8857
+"3(S)-hydroxy-docosa-7,10,13,16,19-all-cis-pentaenoyl-CoA",7,0.155,0.49,0.3121,0.8857
+"3(S)-hydroxy-docosa-7,10,13,16-all-cis-tetraenoyl-CoA",7,0.155,0.49,0.3121,0.8857
+"3(S)-hydroxy-tetracosa-12,15,18,21-all-cis-tetraenoyl-CoA",7,0.155,0.49,0.3121,0.8857
+"3(S)-hydroxy-tetracosa-9,12,15,18,21-all-cis-pentaenoyl-CoA",7,0.155,0.49,0.3121,0.8857
+"atorvastatin-acyl-glucuronide / G2",3,0.642,0.488,0.3128,0.8857
+"atorvastatin-lactone-ether-glucuronide / G3",3,0.642,0.488,0.3128,0.8857
+"N-acetyl-D-glucosaminylphosphatidylinositol",7,-0.151,0.484,0.3143,0.8857
+"calcitriol",4,0.192,0.483,0.3144,0.8857
+"cobamide-coenzyme",3,0.295,0.483,0.3145,0.8857
+"Hydroxy Alkyl Chain",3,-0.472,0.479,0.3158,0.8857
+"Deoxycholic acid-24glucuronide, CDA-24G",6,-0.204,0.476,0.3172,0.8857
+"Deoxycholic acid-3glucuronide, CDA-3G",6,-0.204,0.476,0.3172,0.8857
+"keratan sulfate I biosynthesis, precursor 12",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate I biosynthesis, precursor 15",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate I biosynthesis, precursor 18",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate I biosynthesis, precursor 2",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate I biosynthesis, precursor 21",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate I biosynthesis, precursor 24",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate I biosynthesis, precursor 27",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate I biosynthesis, precursor 3",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate I biosynthesis, precursor 30",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate I biosynthesis, precursor 33",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate I biosynthesis, precursor 6",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate I biosynthesis, precursor 9",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate II (core 4-linked), biosynthesis, precursor 3",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate II (core 4-linked), biosynthesis, precursor 4",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate II (core 4-linked), biosynthesis, precursor 7",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate II biosynthesis, precursor 2",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate II biosynthesis, precursor 3",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate II biosynthesis, precursor 4",9,0.204,0.476,0.3169,0.8857
+"keratan sulfate II biosynthesis, precursor 7",9,0.204,0.476,0.3169,0.8857
+"pyridoxal",6,0.036,0.475,0.3175,0.8857
+"cholesterol",35,0.246,0.474,0.3179,0.8857
+"(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-CoA",36,0.066,0.471,0.3188,0.8857
+"deoxyadenosine",11,0.185,0.471,0.3189,0.8857
+"N1-acetylspermine",4,0.183,0.465,0.3209,0.8857
+"11-cis-retinol",9,0.259,0.464,0.3214,0.8857
+"fructose-6-phosphate",21,0.175,0.464,0.3215,0.8857
+"phytosphingosine",5,0.449,0.464,0.3212,0.8857
+"stearidonic acid",19,0.217,0.456,0.3243,0.8857
+"3alpha,7alpha,12alpha,25-tetrahydroxy-5beta-cholestane-24-one",20,0.131,0.454,0.3249,0.8857
+"3-keto-4-methylzymosterol",3,0.476,0.448,0.3271,0.8857
+"(2E)-decenoyl-CoA",12,0.121,0.447,0.3274,0.8857
+"citrate",8,0.314,0.441,0.3298,0.8857
+"leukotriene A4",6,-0.149,0.441,0.3297,0.8857
+"lipid droplet",7,0.239,0.438,0.3308,0.8857
+"PE-LD pool",35,0.05,0.437,0.331,0.8857
+"erythrose-4-phosphate",4,0.345,0.437,0.3311,0.8857
+"sedoheptulose-1,7-bisphosphate",4,0.45,0.437,0.331,0.8857
+"UMP",33,0.098,0.436,0.3313,0.8857
+"histone-N6-acetyl-L-lysine",14,-0.037,0.436,0.3314,0.8857
+"LTD4",6,0.264,0.433,0.3323,0.8857
+"2-(4-carboxy-1-hydroxybutyl)thiamine diphosphate",3,0.252,0.431,0.3332,0.8857
+"S-glutaryldihydrolipoamide",3,0.252,0.431,0.3332,0.8857
+"S-succinyldihydrolipoamide",3,0.252,0.431,0.3332,0.8857
+"(18R)-HEPE",4,0.179,0.43,0.3334,0.8857
+"hydroxyacetone",4,0.109,0.429,0.3341,0.8857
+"CTP",60,0.11,0.428,0.3344,0.8857
+"propanoate",15,0.222,0.426,0.335,0.8857
+"(13E)-tetranor-16-carboxy-LTE4",5,0.292,0.424,0.3358,0.8857
+"(2E)-octadecenoyl-CoA",24,0.237,0.424,0.3359,0.8857
+"18-COOH-LTE4",5,0.292,0.424,0.3358,0.8857
+"3(S),10(R)-OH-octadeca-6-trans-4,12-cis-trienoate",5,0.292,0.424,0.3358,0.8857
+"omega-carboxy-trinor-LTB4",5,0.292,0.424,0.3358,0.8857
+"m3emgacpail heparan sulfate",4,0.255,0.423,0.3361,0.8857
+"F1alpha",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 11",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 14",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 17",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 20",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 23",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 26",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 29",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 32",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 35",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 38",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 39",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 40",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 41",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate I, degradation product 8",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate II (core 2-linked), degradation product 5",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate II (core 2-linked), degradation product 8",7,0.246,0.419,0.3378,0.8857
+"keratan sulfate II (core 2-linked), degradation product 9",7,0.246,0.419,0.3378,0.8857
+"n2m2mn",7,0.246,0.419,0.3378,0.8857
+"13-carboxy-alpha-tocotrienol",28,0.184,0.416,0.3386,0.8857
+"creatine",5,0.346,0.416,0.3386,0.8857
+"de-Fuc, GlcNAc removed PA6 (wo peptide linkage)",6,0.377,0.416,0.3386,0.8857
+"omega-3-arachidonic acid",17,0.211,0.416,0.3388,0.8857
+"3-amino-propanal",8,0.064,0.413,0.3399,0.8857
+"leukotriene B4",12,0.066,0.411,0.3406,0.8857
+"propinol adenylate",3,0.483,0.41,0.3409,0.8857
+"N-acetyl-L-asparagine",3,-0.188,0.405,0.3426,0.8857
+"eicosadienoylcarnitine",6,0.213,0.401,0.3442,0.8857
+"butyryl-CoA",28,0.084,0.4,0.3447,0.8857
+"cis-gondoic acid",19,0.219,0.394,0.3467,0.8857
+"3-hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA",3,-0.103,0.39,0.3484,0.8857
+"Chenodeoxycholic acid-3glucuronide, CDCA-3G",7,-0.117,0.39,0.3484,0.8857
+"Hyocholic acid-24glucuronide, HCA-24G",7,-0.117,0.39,0.3484,0.8857
+"Lithocholic acid-24glucuronide, CDCA-24G",7,-0.117,0.39,0.3484,0.8857
+"Lithocholic acid-3glucuronide, CDCA-3G",7,-0.117,0.39,0.3484,0.8857
+"cis-2-methyl-5-isopropylhexa-2,5-dienoyl-CoA",3,-0.103,0.39,0.3484,0.8857
+"trans-2-methyl-5-isopropylhexa-2,5-dienoyl-CoA",3,-0.103,0.39,0.3484,0.8857
+"3-oxo-11-cis-eicosenoyl-CoA",15,0.232,0.388,0.3491,0.8857
+"3-oxo-13-cis-eicosenoyl-CoA",15,0.232,0.388,0.3491,0.8857
+"3-oxo-13cis-docosenoyl-CoA",15,0.232,0.388,0.3491,0.8857
+"3-oxoeicosanoyl-CoA",15,0.232,0.388,0.3491,0.8857
+"3-oxooctadecanoyl-CoA",15,0.232,0.388,0.3491,0.8857
+"phenylalanine",39,0.05,0.384,0.3505,0.8857
+"UDP-N-acetylglucosamine",38,0.064,0.375,0.3539,0.8857
+"13,14-dihydro-15-oxo-lipoxin A4",18,0.144,0.374,0.3542,0.8857
+"15-oxo-lipoxin A4",18,0.144,0.374,0.3542,0.8857
+"4,8-Dimethylnonanoyl Coenzyme A",7,0.034,0.372,0.3548,0.8857
+"gamma-glutamyl-cysteine",5,-0.066,0.372,0.3549,0.8857
+"Tn-antigen",16,-0.038,0.37,0.3559,0.8857
+"mead acid",18,0.192,0.368,0.3565,0.8857
+"DNA",28,0.2,0.367,0.3567,0.8857
+"(2E)-hexadecenoyl-CoA",25,0.03,0.365,0.3576,0.8857
+"pyridoxine-phosphate",4,0.283,0.364,0.358,0.8857
+"N4-acetylaminobutanal",10,0.011,0.363,0.3581,0.8857
+"1-phosphatidyl-1D-myo-inositol-5-phosphate",30,0.027,0.36,0.3595,0.8857
+"Ganglioside Gm1",7,0.265,0.359,0.36,0.8857
+"(18E)-20-oxo-20-CoA-LTB4",6,0.118,0.358,0.3603,0.8857
+"(18E)-20-oxo-20-CoA-LTE4",6,0.118,0.358,0.3603,0.8857
+"(2S,6R,10R)-trimethyl-(2E)-hendecenoyl-CoA",6,0.118,0.358,0.3603,0.8857
+"(4R,8R,12R)-trimethyl-(2E)-tridecenoyl-CoA",6,0.118,0.358,0.3603,0.8857
+"1'-OH-midazolam-glucuronide",3,0.387,0.358,0.3601,0.8857
+"4-OH-midazolam-glucuronide",3,0.387,0.358,0.3601,0.8857
+"5(S),12(R)-dihydroxy-eicosa-2,8-trans-6,14-cis-tetraenoyl-CoA",6,0.118,0.358,0.3603,0.8857
+"5-oxo-12(R)-hydroxy-eicosa-(2E,8E,10E,14Z)-tetraenoyl-CoA",6,0.118,0.358,0.3603,0.8857
+"5-oxo-12(S)-hydroxy-eicosa-(2E,8E,10E,14Z)-tetraenoyl-CoA",6,0.118,0.358,0.3603,0.8857
+"CDP",53,0.121,0.358,0.3601,0.8857
+"delta2-THA-CoA",6,0.118,0.358,0.3603,0.8857
+"trans-2,3-dehydropristanoyl-CoA",6,0.118,0.358,0.3603,0.8857
+"trans-2-all-cis-6,9,12,15,18-tetracosahexaenoyl-CoA",6,0.118,0.358,0.3603,0.8857
+"formate",17,0.155,0.357,0.3607,0.8857
+"selenohomocysteine",4,-0.175,0.357,0.3604,0.8857
+"PAP",33,0.003,0.355,0.3612,0.8857
+"17alpha-hydroxypregnenolone",5,0.481,0.354,0.3616,0.8857
+"procollagen-5-hydroxy-L-lysine",4,0.063,0.354,0.3618,0.8857
+"acylglycerone-phosphate",3,0.096,0.351,0.3628,0.8857
+"N-desmethyl-rosuvastatin",3,-0.65,0.347,0.3644,0.8857
+"prostaglandin B1",3,-0.393,0.347,0.3644,0.8857
+"prostaglandin B2",3,-0.393,0.347,0.3644,0.8857
+"prostaglandin C1",3,-0.393,0.347,0.3644,0.8857
+"prostaglandin C2",3,-0.393,0.347,0.3644,0.8857
+"prostaglandin D1",3,-0.393,0.347,0.3644,0.8857
+"prostaglandin D3",3,-0.393,0.347,0.3644,0.8857
+"prostaglandin F1alpha",3,-0.393,0.347,0.3644,0.8857
+"prostaglandin F2beta",3,-0.393,0.347,0.3644,0.8857
+"keratan sulfate I, degradation product 10",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate I, degradation product 13",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate I, degradation product 16",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate I, degradation product 19",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate I, degradation product 22",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate I, degradation product 25",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate I, degradation product 28",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate I, degradation product 31",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate I, degradation product 34",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate I, degradation product 37",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate I, degradation product 7",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate II (core 2-linked), degradation product 4",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate II (core 2-linked), degradation product 7",4,0.241,0.346,0.3648,0.8857
+"keratan sulfate II (core 4-linked), degradation product 4",4,0.241,0.346,0.3648,0.8857
+"3,4-dihydroxyphenylacetaldehyde",7,0.455,0.345,0.3649,0.8857
+"PG-CL pool",3,0.27,0.342,0.3662,0.8866
+"[protein]",8,0.045,0.341,0.3664,0.8866
+"omega-COOH-dinor-LTE4-CoA",10,0.208,0.341,0.3665,0.8866
+"5-deoxyadenosine",7,0.005,0.339,0.3674,0.8869
+"tricosanoyl-CoA",17,0.046,0.339,0.3673,0.8869
+"1D-myo-inositol-3,4-bisphosphate",3,-0.332,0.336,0.3684,0.8876
+"3-monoiodo-L-thyronine",3,0.158,0.336,0.3685,0.8876
+"T-antigen",7,-0.085,0.333,0.3694,0.8886
+"UDP-glucose",17,0.13,0.333,0.3697,0.8886
+"em3gacpail heparan sulfate",4,0.197,0.324,0.373,0.8933
+"D-xylulose",3,0.232,0.322,0.3736,0.8933
+"urate",5,0.243,0.322,0.3738,0.8933
+"GM2A",19,0.175,0.32,0.3746,0.8933
+"nicotinate ribonucleotide",15,-0.029,0.32,0.3747,0.8933
+"isocitrate",9,0.083,0.315,0.3764,0.8933
+"3,4-dihydroxyphenylethyleneglycol",7,-0.211,0.314,0.3767,0.8933
+"glycogenin",5,0.268,0.312,0.3776,0.8933
+"digalactosylceramidesulfate",3,0.242,0.309,0.3787,0.8933
+"Zymosterol Intermediate 2",3,0.429,0.308,0.3789,0.8933
+"decanoyl-CoA",21,0.096,0.306,0.3798,0.8933
+"3'-alpha,5'beta-dihydroxy-pravastatin / 3'-alpha5'beta6'beta-trihydroxy pravastatin",3,0,0.305,0.3803,0.8933
+"5,8,11,14,17-Eicosapentenoyl Coenzyme A",7,0.165,0.305,0.3802,0.8933
+"7,10,13-Hexadecatrienoyl Coenzyme A",7,0.165,0.305,0.3802,0.8933
+"D-galactosyl-N-acylsphingosine",29,0.074,0.305,0.3803,0.8933
+"Trans7,10-Hexadecadienoyl Coenzyme A",7,0.165,0.305,0.3802,0.8933
+"formylglutathione",6,-0.244,0.301,0.3818,0.8933
+"(2S)-pristanoyl-CoA",4,-0.07,0.3,0.3823,0.8933
+"cGMP",26,-0.221,0.3,0.3819,0.8933
+"indoleacetate",7,-0.01,0.298,0.3829,0.8933
+"spermidine",10,0.087,0.297,0.3834,0.8933
+"(6Z,9Z,12Z,15Z,18Z,21Z)-THA",16,0.177,0.296,0.3836,0.8933
+"10,13,16,19-docosatetraenoic acid",16,0.177,0.296,0.3836,0.8933
+"heneicosanoic acid",16,0.177,0.296,0.3836,0.8933
+"ximenic acid",16,0.177,0.296,0.3836,0.8933
+"N-acetyl-S-[2-carboxy-1-(1H-imidazol-4-yl)ethyl]-L-cysteine",15,0.066,0.294,0.3842,0.8933
+"orotate",3,0.226,0.29,0.3858,0.8933
+"(2E,6Z,9Z,12Z)-octadecatetraenoyl-CoA",10,0.077,0.286,0.3875,0.8933
+"trans,cis,cis-2,7,10-hexadecatrienoyl-CoA",10,0.077,0.286,0.3875,0.8933
+"trans,cis,cis-2,9,12-octadecatrienoyl-CoA",10,0.077,0.286,0.3875,0.8933
+"trans,cis-hexadeca-2,7-dienoyl-CoA",10,0.077,0.286,0.3875,0.8933
+"trans,cis-hexadeca-2,9-dienoyl-CoA",10,0.077,0.286,0.3875,0.8933
+"trans,cis-myristo-2,5-dienoyl-CoA",10,0.077,0.286,0.3875,0.8933
+"trans,cis-myristo-2,7-dienoyl-CoA",10,0.077,0.286,0.3875,0.8933
+"trans,cis-octadeca-2,11-dienoyl-CoA",10,0.077,0.286,0.3875,0.8933
+"trans,cis-octadeca-2,9-dienoyl-CoA",10,0.077,0.286,0.3875,0.8933
+"trans-2-cis,cis-5,8-tetradecatrienoyl-CoA",10,0.077,0.286,0.3875,0.8933
+"inosine",10,0.173,0.284,0.388,0.8933
+"IDP",19,0.278,0.283,0.3884,0.8933
+"n2m2masn",4,0.151,0.283,0.3885,0.8933
+"3-O-methyldopa",3,0.123,0.28,0.3898,0.8933
+"6(R)-hydroxy-tetradeca-(4E,8Z)-dienoate",5,-0.003,0.28,0.3897,0.8933
+"6(S)-hydroxy-tetradeca-(4E,8Z)-dienoate",5,-0.003,0.28,0.3897,0.8933
+"8(R)-hydroxy-hexadeca-(4E,6E,10Z)-trienoate",5,-0.003,0.28,0.3897,0.8933
+"8(S)-hydroxy-hexadeca-(4E,6E,10Z)-trienoate",5,-0.003,0.28,0.3897,0.8933
+"androsterone-glucuronide",4,0.009,0.275,0.3917,0.8955
+"testosterone glucuronide",4,0.009,0.275,0.3917,0.8955
+"D-xylulose-5-phosphate",3,0.19,0.274,0.392,0.8955
+"ibuprofen-R",5,-0.518,0.264,0.396,0.9037
+"GMP",39,-0.07,0.26,0.3975,0.9048
+"fatty acid-chylomicron pool",12,0.448,0.259,0.398,0.9048
+"(9Z,12Z,15Z,18Z)-tetracosatetraenoylcarnitine",5,0.19,0.258,0.3983,0.9048
+"heme",7,-0.105,0.254,0.3996,0.9048
+"L-lactate",16,0.225,0.253,0.4003,0.9048
+"noradrenaline",11,0.141,0.252,0.4005,0.9048
+"(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoyl-CoA",22,0.035,0.25,0.4014,0.9048
+"rosuvastatin",6,-0.413,0.25,0.4013,0.9048
+"N1-acetylspermidine",6,0.192,0.238,0.4058,0.9048
+"9-cis-retinol",11,0.036,0.237,0.4062,0.9048
+"dADP",27,0.276,0.235,0.4071,0.9048
+"4,8,12-trimethyltridecanoyl-CoA",6,0.096,0.232,0.4081,0.9048
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 4",5,0.111,0.231,0.4087,0.9048
+"nm2masn",3,0.002,0.231,0.4088,0.9048
+"3-Hydoxy-Suberyl Coenzyme A",4,0.018,0.23,0.409,0.9048
+"2-hydroxyestrone",3,-0.19,0.229,0.4096,0.9048
+"4-hydroxy-17beta-estradiol",3,-0.19,0.229,0.4096,0.9048
+"4-hydroxyestrone",3,-0.19,0.229,0.4096,0.9048
+"5,12-DiHETE",6,0.282,0.228,0.4098,0.9048
+"ITP",16,0.252,0.226,0.4107,0.9048
+"dehydroalanine",3,0.078,0.224,0.4113,0.9048
+"PC-LD pool",37,-0.003,0.223,0.4118,0.9048
+"(4Z,7Z,10Z)-hexadecatrienoyl-CoA",11,0.05,0.219,0.4131,0.9048
+"O-butanoylcarnitine",6,0.058,0.219,0.4135,0.9048
+"cis,cis-myristo-5,8-dienoyl-CoA",11,0.05,0.219,0.4131,0.9048
+"cis,cis-palmito-7,10-dienoyl-CoA",11,0.05,0.219,0.4131,0.9048
+"hypotaurine",3,0.366,0.217,0.4142,0.9048
+"5beta-cholestane-3alpha,7alpha,12alpha,24s,25-pentol",23,0.147,0.216,0.4144,0.9048
+"[ACP]",4,0.392,0.215,0.4148,0.9048
+"chondroitin sulfate C (GalNAc6S-GlcA), degradation product 2",4,0.215,0.215,0.4149,0.9048
+"hyaluronan biosynthesis, precursor 1",4,0.215,0.215,0.4149,0.9048
+"hyaluronan degradation product 1",4,0.215,0.215,0.4149,0.9048
+"Midazolam",3,0.023,0.214,0.4154,0.9048
+"Tacrolimus",3,0.023,0.214,0.4154,0.9048
+"cyclosporine",3,0.023,0.214,0.4154,0.9048
+"(2E,4Z,7Z,10Z)-hexadecatetraenoyl-CoA",8,0.042,0.211,0.4164,0.9048
+"2-trans-4-cis-decadienoyl-CoA",8,0.042,0.211,0.4164,0.9048
+"EPA",22,0.126,0.208,0.4176,0.9048
+"keratan sulfate I, degradation product 12",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate I, degradation product 15",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate I, degradation product 18",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate I, degradation product 21",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate I, degradation product 24",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate I, degradation product 27",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate I, degradation product 30",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate I, degradation product 33",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate I, degradation product 36",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate I, degradation product 6",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate I, degradation product 9",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate II (core 2-linked), degradation product 3",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate II (core 2-linked), degradation product 6",8,0.234,0.208,0.4177,0.9048
+"keratan sulfate II (core 4-linked), degradation product 3",8,0.234,0.208,0.4177,0.9048
+"adrenaline",6,0.009,0.204,0.4193,0.9074
+"thiamin-PP",12,0.088,0.201,0.4202,0.9085
+"THF",20,0.024,0.19,0.4247,0.9161
+"glucose-6-phosphate",15,0.253,0.19,0.4245,0.9161
+"1'-OH-midazolam",5,0.101,0.188,0.4254,0.9161
+"4-OH-midazolam",5,0.101,0.188,0.4254,0.9161
+"thiocyanate",3,0.149,0.186,0.4263,0.9172
+"histidine",35,0.035,0.184,0.4272,0.9173
+"prostaglandin H1",3,0.249,0.184,0.4268,0.9173
+"DNA-5-methylcytosine",5,0.308,0.182,0.4277,0.9175
+"lipoamide",10,0.012,0.181,0.4282,0.9177
+"1-alkyl-2-lysoglycerol-3-phosphocholine",14,0.033,0.178,0.4293,0.9189
+"2-hydroxy-atorvastatin-acyl-glucuronide",3,0.542,0.176,0.43,0.9189
+"2-hydroxy-atorvastatin-lactone-glucuronide",3,0.542,0.176,0.43,0.9189
+"adrenic acid",17,0.183,0.168,0.4333,0.925
+"3-oxodocosanoyl-CoA",16,0.224,0.164,0.4349,0.9276
+"isobutyryl-CoA",7,-0.075,0.16,0.4363,0.9284
+"(13Z,16Z)-docosadienoylcarnitine",8,0.21,0.158,0.4374,0.9284
+"(6Z,9Z,12Z,15Z)-octadecatetraenoylcarnitine",8,0.21,0.158,0.4374,0.9284
+"10,13,16-docosatrienoylcarnitine",8,0.21,0.158,0.4374,0.9284
+"linoleic-carnitine",8,0.21,0.158,0.4374,0.9284
+"[protein]-N6-(dihydrolipoyl)lysine",8,0.029,0.155,0.4383,0.9294
+"dolichyl-phosphate-D-mannose",13,0.136,0.152,0.4396,0.9304
+"prostaglandin G2",4,-0.225,0.152,0.4395,0.9304
+"1-hydroxy S-ibuprofen",3,0.409,0.149,0.4406,0.9304
+"S-carboxy ibuprofen",3,0.409,0.149,0.4406,0.9304
+"oxidized thioredoxin",9,0.295,0.148,0.4413,0.9304
+"thioredoxin",9,0.295,0.148,0.4413,0.9304
+"hexacosanoyl-CoA",23,0.042,0.147,0.4417,0.9304
+"simvastatin dihydroxy acid form",3,0.606,0.142,0.4436,0.9335
+"3-sulfopyruvate",4,-0.036,0.132,0.4474,0.9363
+"[protein]-N6-(lipoyl)lysine",4,0.068,0.132,0.4475,0.9363
+"4-aminobutanal",7,-0.027,0.131,0.448,0.9363
+"imidazole-4-acetaldehyde",7,-0.027,0.131,0.448,0.9363
+"globoside",7,0.256,0.126,0.4501,0.9363
+"glycine",66,0.078,0.124,0.4508,0.9363
+"keratan sulfate I biosynthesis, precursor 36",7,-0.01,0.124,0.4507,0.9363
+"keratan sulfate II (core 4-linked), biosynthesis, precursor 10",7,-0.01,0.124,0.4507,0.9363
+"keratan sulfate II biosynthesis, precursor 10",7,-0.01,0.124,0.4507,0.9363
+"6'-exomethylene-lovastatin-acid form",5,-0.073,0.122,0.4515,0.9363
+"deoxyguanosine",11,0.046,0.122,0.4515,0.9363
+"lovastatin lactone form",5,-0.073,0.122,0.4515,0.9363
+"lovastatin-hydroxyacid form",5,-0.073,0.122,0.4515,0.9363
+"(5Z)-dodecenoyl-CoA",14,-0.004,0.121,0.452,0.9363
+"adenosine",20,0.176,0.121,0.4518,0.9363
+"pregnenolone",5,0.294,0.12,0.4521,0.9363
+"3-keto-beta-D-galactose",3,0.179,0.117,0.4536,0.9363
+"3-ketolactose",3,0.179,0.117,0.4536,0.9363
+"lactose-6-phosphate",3,0.179,0.117,0.4536,0.9363
+"urea",6,0.106,0.117,0.4535,0.9363
+"Sebacicacid",3,0.063,0.116,0.4538,0.9363
+"nm4masn",3,0.02,0.112,0.4554,0.9388
+"bilirubin-monoglucuronoside",5,-0.594,0.105,0.4581,0.9434
+"2-acetyl-1-alkyl-sn-glycero-3-phosphocholine",16,0.006,0.101,0.4597,0.944
+"GDP",93,0.136,0.101,0.4599,0.944
+"N-acetyl-D-mannosamine",3,-0.261,0.1,0.4602,0.944
+"ribose-1-phosphate",4,0.405,0.1,0.4601,0.944
+"Glycyl-Glycine",3,0.05,0.099,0.4605,0.944
+"dehydroepiandrosterone sulfate",9,-0.031,0.094,0.4625,0.9456
+"11-cis-retinyl-palmitate",3,0.232,0.092,0.4632,0.9456
+"1D-myo-inositol-4-phosphate",3,-0.29,0.09,0.464,0.9456
+"4-hydroxyphenylacetaldehyde",7,0.28,0.09,0.464,0.9456
+"biotin",4,-0.09,0.09,0.4642,0.9456
+"methylimidazole-acetaldehyde",7,0.28,0.09,0.464,0.9456
+"apoE",16,0.179,0.089,0.4646,0.9456
+"chondroitin sulfate D (GlcNAc6S-GlcA2S), precursor 5",4,-0.204,0.089,0.4647,0.9456
+"CMP-N-acetylneuraminate",14,-0.18,0.087,0.4653,0.9459
+"spermidine monoaldehyde 1",3,-0.269,0.086,0.4657,0.9459
+"nicotinamide D-ribonucleotide",11,-0.104,0.084,0.4664,0.9465
+"L-carnitine",12,0.082,0.081,0.4677,0.9482
+"prostaglandin I2",4,-0.331,0.079,0.4685,0.949
+"2-aminoadipate 6-semialdehyde",4,-0.043,0.077,0.4695,0.9501
+"chondroitin sulfate C (GalNAc6S-GlcA), degradation product 3",7,0.236,0.069,0.4727,0.9549
+"chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 4",7,0.236,0.069,0.4727,0.9549
+"atorvastatin-lactone",9,0.294,0.057,0.4771,0.9596
+"retinol",33,0.061,0.051,0.4797,0.9596
+"pentanoyl-CoA",13,0.041,0.049,0.4805,0.9596
+"Hyocholic acid-6glucuronide, HCA-6G",6,0.18,0.046,0.4817,0.9596
+"GD1alpha",3,-0.013,0.045,0.4822,0.9596
+"4-methyl-trans-2-pentenoyl-CoA",3,-0.047,0.044,0.4824,0.9596
+"(2E)-heptadecenoyl-CoA",5,0.064,0.043,0.4827,0.9596
+"(2E)-pentadecenoyl-CoA",5,0.064,0.043,0.4827,0.9596
+"(2E)-tridecenoyl-CoA",5,0.064,0.043,0.4827,0.9596
+"Suberyl Coenzyme A",10,-0.05,0.042,0.4833,0.9596
+"S-[2-carboxy-1-(1H-imidazol-4-yl)ethyl]-L-cysteine",16,0.062,0.033,0.4867,0.9596
+"1D-myo-inositol-3-phosphate",5,-0.303,0.031,0.4878,0.9596
+"N-acetylmethionine",3,0.533,0.031,0.4878,0.9596
+"11-Octadecenoyl Coenzyme A",15,0.35,0.03,0.4881,0.9596
+"galactose",23,0.081,0.03,0.488,0.9596
+"(4Z,7Z,10Z,13Z,16Z)-docosapentaenoyl-CoA",23,0.05,0.028,0.4889,0.9596
+"ethanol",9,-0.148,0.027,0.4894,0.9596
+"peptidylproline-(omega=0)",28,0.134,0.027,0.4894,0.9596
+"peptidylproline-(omega=180)",28,0.134,0.027,0.4894,0.9596
+"se-adenosylselenomethionine",8,0.137,0.016,0.4937,0.9596
+"16-hydroxyhexadecanoic acid",6,0.002,0.012,0.4951,0.9596
+"keratan sulfate I biosynthesis, precursor 10",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate I biosynthesis, precursor 13",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate I biosynthesis, precursor 16",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate I biosynthesis, precursor 19",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate I biosynthesis, precursor 22",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate I biosynthesis, precursor 25",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate I biosynthesis, precursor 28",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate I biosynthesis, precursor 31",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate I biosynthesis, precursor 34",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate I biosynthesis, precursor 4",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate I biosynthesis, precursor 7",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate II (core 4-linked), biosynthesis, precursor 5",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate II (core 4-linked), biosynthesis, precursor 8",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate II biosynthesis, precursor 5",7,0.263,0.012,0.4951,0.9596
+"keratan sulfate II biosynthesis, precursor 8",7,0.263,0.012,0.4951,0.9596
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 1",4,0.123,0.011,0.4955,0.9596
+"l2fn2m2masn",8,0.008,0.009,0.4965,0.9596
+"choloyl-CoA",11,0.203,0.007,0.4971,0.9596
+"malonyl-carnitine",6,0.187,0.007,0.4971,0.9596
+"cysteine",54,0.051,0.004,0.4983,0.9596
+"3-oxo-10(R)-hydroxy-octadeca-(6E,8E,12Z)-trienoate",8,0.164,0.003,0.4987,0.9596
+"3-oxo-10(S)-hydroxy-octadeca-(6E,8E,12Z)-trienoate",8,0.164,0.003,0.4987,0.9596
+"core 2",5,-0.015,-0.005,0.5021,0.9596
+"2-hydroxy-atorvastatin-acid / ortho-hydroxy-atorvastatin acid",9,0.129,-0.007,0.5028,0.9596
+"18-CoA-18-oxo-dinor-LTB4",10,0.182,-0.01,0.5039,0.9596
+"3(S),10(R)-OH-octadeca-6-trans-4,12-cis-trienoyl-CoA",10,0.182,-0.01,0.5039,0.9596
+"3-oxo-10(R)-hydroxy-octadeca-(6E,8E,12Z)-trienoyl-CoA",10,0.182,-0.01,0.5039,0.9596
+"3-oxo-10(S)-hydroxy-octadeca-(6E,8E,12Z)-trienoyl-CoA",10,0.182,-0.01,0.5039,0.9596
+"5,6-epoxy-(8Z)-tetradecenoic acid",23,0.162,-0.01,0.5041,0.9596
+"Trans-3-Cis-8-Tetradecadienoyl Coenzyme A",3,0.222,-0.01,0.5039,0.9596
+"10,11-epoxy-(4Z,7Z)-hexadecadienoic acid",24,0.146,-0.012,0.5048,0.9596
+"11-carboxy-alpha-chromanol",24,0.146,-0.012,0.5048,0.9596
+"11-carboxy-gamma-chromanol",24,0.146,-0.012,0.5048,0.9596
+"12,13-epoxy-(6Z,9Z)-octadecadienoic acid",24,0.146,-0.012,0.5048,0.9596
+"7,8-epoxy-(4Z,10Z)-hexadecadienoic acid",24,0.146,-0.012,0.5048,0.9596
+"7-carboxy-alpha-chromanol",24,0.146,-0.012,0.5048,0.9596
+"7-carboxy-gamma-chromanol",24,0.146,-0.012,0.5048,0.9596
+"8,9-epoxy-(5Z)-tetradecenoic acid",24,0.146,-0.012,0.5048,0.9596
+"9,10-epoxy-(6Z,12Z)-octadecadienoic acid",24,0.146,-0.012,0.5048,0.9596
+"9-carboxy-alpha-chromanol",24,0.146,-0.012,0.5048,0.9596
+"9-carboxy-gamma-chromanol",24,0.146,-0.012,0.5048,0.9596
+"CDP-choline",3,-0.075,-0.012,0.5047,0.9596
+"chenodiol",19,-0.123,-0.013,0.5053,0.9596
+"(2E)-docosenoyl-CoA",16,0.09,-0.015,0.506,0.9596
+"(2E)-eicosenoyl-CoA",16,0.09,-0.015,0.506,0.9596
+"trans,cis-2,13-eicosadienoyl-CoA",16,0.09,-0.015,0.506,0.9596
+"1D-myo-inositol-1,4-bisphosphate",12,-0.011,-0.016,0.5065,0.9596
+"cis-erucic acid",17,0.172,-0.016,0.5065,0.9596
+"nervonic acid",17,0.172,-0.016,0.5065,0.9596
+"l2n2m2mn",6,0.3,-0.017,0.5067,0.9596
+"6-beta-OH-gliclazide",4,-0.498,-0.021,0.5085,0.9596
+"methylmalonyl-CoA",4,-0.011,-0.021,0.5084,0.9596
+"progesterone",6,0.154,-0.024,0.5096,0.9596
+"tRNA",4,-0.026,-0.027,0.5106,0.9596
+"2-trans-cis,cis,cis,cis-4,8,11,14-eicosapentaenoyl-CoA",12,0.076,-0.029,0.5117,0.9596
+"1-radyl-2-acyl-sn-glycero-3-phosphocholine",21,-0.034,-0.03,0.5119,0.9596
+"phenylacetaldehyde",6,0.469,-0.03,0.512,0.9596
+"2,6-dimethyl-trans-2-heptenoyl-CoA",4,0.029,-0.031,0.5123,0.9596
+"4(R),8-dimethyl-trans-2-nonenoyl-CoA",4,0.029,-0.031,0.5123,0.9596
+"keratan sulfate I, degradation product 4",4,0.228,-0.031,0.5123,0.9596
+"keratan sulfate I, degradation product 5",4,0.228,-0.031,0.5123,0.9596
+"keratan sulfate II (core 2-linked), degradation product 1",4,0.228,-0.031,0.5123,0.9596
+"keratan sulfate II (core 2-linked), degradation product 2",4,0.228,-0.031,0.5123,0.9596
+"keratan sulfate II (core 4-linked), degradation product 1",4,0.228,-0.031,0.5123,0.9596
+"keratan sulfate II (core 4-linked), degradation product 2",4,0.228,-0.031,0.5123,0.9596
+"GM4",3,0.335,-0.038,0.5153,0.9635
+"GQ1b",3,0.335,-0.038,0.5153,0.9635
+"G00020",3,0.265,-0.04,0.5161,0.9635
+"n3m2masn",3,0.265,-0.04,0.5161,0.9635
+"ethanolamine",10,-0.057,-0.052,0.5206,0.9699
+"trichloroacetate",13,-0.02,-0.052,0.5209,0.9699
+"nLc7Cer",3,0.292,-0.053,0.5212,0.9699
+"[protein]-N6-(octanoyl)lysine",9,-0.035,-0.054,0.5216,0.9699
+"undecanoyl-CoA",14,0.107,-0.054,0.5217,0.9699
+"trans,cis-lauro-2,6-dienoyl-CoA",9,0.126,-0.059,0.5237,0.9715
+"OAA",11,-0.05,-0.062,0.5246,0.9715
+"keratan sulfate II (core 4-linked), biosynthesis, precursor 1",7,0.046,-0.064,0.5257,0.9715
+"keratan sulfate II biosynthesis, precursor 1",7,0.046,-0.064,0.5257,0.9715
+"(2E)-hexacosenoyl-CoA",12,0.115,-0.065,0.5261,0.9715
+"(2E)-tetracosenoyl-CoA",12,0.115,-0.065,0.5261,0.9715
+"leukotriene C4",7,-0.003,-0.065,0.5259,0.9715
+"trans,cis-2,17-hexacosadienoyl-CoA",12,0.115,-0.065,0.5261,0.9715
+"4-hydroxy-atorvastatin-acid / para-hydroxy-atorvastatin acid",8,0.058,-0.072,0.5288,0.9747
+"spermidine monoaldehyde 2",4,-0.17,-0.074,0.5295,0.9747
+"spermine monoaldehyde",4,-0.17,-0.074,0.5295,0.9747
+"1-acylglycerol-3P-bile-PC pool",9,0.099,-0.075,0.53,0.9747
+"acyl-CoA-bile-PC pool",9,0.099,-0.075,0.53,0.9747
+"2-oxobutyrate",12,-0.02,-0.077,0.5306,0.9747
+"indole-3-acetaldehyde",8,-0.025,-0.078,0.5309,0.9747
+"4-cis-decenoyl-CoA",13,0.038,-0.082,0.5326,0.9762
+"ascorbate",7,-0.029,-0.082,0.5327,0.9762
+"13-cis-retinal",4,0.253,-0.087,0.5348,0.9762
+"valine",31,0.168,-0.089,0.5353,0.9762
+"(2R,6R,10R)-trimethyl-hendecanoyl-CoA",3,0.091,-0.094,0.5373,0.9762
+"glucono-1,5-lactone-6-phosphate",3,0.325,-0.099,0.5396,0.9762
+"selenomethionine-se-oxide",5,0.281,-0.101,0.5403,0.9762
+"trimethylamine",5,0.281,-0.101,0.5403,0.9762
+"trimethylamine-N-oxide",5,0.281,-0.101,0.5403,0.9762
+"prostaglandin E2",13,0.127,-0.102,0.5405,0.9762
+"carbamoyl-phosphate",3,0.135,-0.105,0.542,0.9762
+"Methyl-hydroxy-gliclazide",3,-0.436,-0.106,0.5421,0.9762
+"chenodeoxycholoyl-CoA",11,0.216,-0.11,0.5439,0.9762
+"apoB48",15,0.153,-0.113,0.5448,0.9762
+"haptoglobin",15,0.153,-0.113,0.5448,0.9762
+"2-oxoadipate",3,0.061,-0.116,0.546,0.9762
+"heptanoyl-CoA",12,0.076,-0.117,0.5464,0.9762
+"nonanoyl-CoA",12,0.076,-0.117,0.5464,0.9762
+"apocytochrome-C",16,0.153,-0.118,0.5469,0.9762
+"prothrombin",16,0.157,-0.119,0.5472,0.9762
+"phosphatidate-LD-TAG pool",25,0.021,-0.121,0.5482,0.9762
+"selenite",3,0.252,-0.123,0.5489,0.9762
+"keratan sulfate I, degradation product 3",5,0.276,-0.13,0.5519,0.9762
+"2-oxoglutaramate",4,-0.064,-0.133,0.553,0.9762
+"Cholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Deoxycholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Glycochenodeoxycholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Glycocholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Glycodeoxycholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Glycoursodeoxycholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Lithocholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Taurochenodeoxycholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Taurocholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Taurodeoxycholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Tauroursodeoxycholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Ursodeoxycholic acid 3-sulfate",7,0.024,-0.134,0.5533,0.9762
+"Trans2,6Dodecadienoyl Coenzyme A",4,0.079,-0.138,0.5549,0.9762
+"phosphatidylinositol-3,4,5-trisphosphate",24,-0.09,-0.14,0.5558,0.9762
+"isoleucine",32,0.181,-0.141,0.5561,0.9762
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 5a",5,-0.163,-0.143,0.5569,0.9762
+"glycerate",7,-0.018,-0.146,0.5582,0.9762
+"4-hydroxyretinoic acid",3,-0.188,-0.15,0.5597,0.9762
+"n2m2nmn",3,0.31,-0.155,0.5616,0.9762
+"(S)-3-hydroxy-2-methylbutyryl-CoA",3,0.194,-0.158,0.5629,0.9762
+"carnosine",6,0.07,-0.161,0.564,0.9762
+"threonine",34,0.04,-0.164,0.5651,0.9762
+"Gliclazide",5,-0.361,-0.165,0.5654,0.9762
+"octanoyl-[ACP]",5,0.32,-0.165,0.5654,0.9762
+"fibrinogen",16,0.128,-0.168,0.5666,0.9762
+"(4Z,7Z,10Z,13Z,16Z)-docosapentaenoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"(5Z,8Z,11Z)-eicosatrienoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"(6Z,9Z)-octadecadienoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"(7Z,10Z,13Z,16Z,19Z)-docosapentaenoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"(8Z,11Z)-eicosadienoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"(8Z,11Z,14Z,17Z)-eicosatetraenoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"(9E)-octadecenoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"10,13,16,19-docosatetraenoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"13,16,19-docosatrienoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"L-oleoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"L-palmitoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"arachidonyl-carnitine",7,0.193,-0.174,0.5691,0.9762
+"docosahexaenoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"docosanoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"docosenoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"docosenoylcarnitine(11)",7,0.193,-0.174,0.5691,0.9762
+"eicosanoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"eicosatrienoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"eicosenoylcarnitine(11)",7,0.193,-0.174,0.5691,0.9762
+"eicosenoylcarnitine(7)",7,0.193,-0.174,0.5691,0.9762
+"eicosenoylcarnitine(9)",7,0.193,-0.174,0.5691,0.9762
+"heneicosanoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"heptadecenoylcarnitine(7)",7,0.193,-0.174,0.5691,0.9762
+"heptadecenoylcarnitine(8)",7,0.193,-0.174,0.5691,0.9762
+"octadecatrienoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"octadecenoylcarnitine(11)",7,0.193,-0.174,0.5691,0.9762
+"octadecenoylcarnitine(5)",7,0.193,-0.174,0.5691,0.9762
+"octadecenoylcarnitine(7)",7,0.193,-0.174,0.5691,0.9762
+"palmitoleoyl-carnitine",7,0.193,-0.174,0.5691,0.9762
+"pentadecanoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"tetradecanoylcarnitine",7,0.193,-0.174,0.5691,0.9762
+"tetradecenoylcarnitine(5)",7,0.193,-0.174,0.5691,0.9762
+"tetradecenoylcarnitine(7)",7,0.193,-0.174,0.5691,0.9762
+"tetradecenoylcarnitine(9)",7,0.193,-0.174,0.5691,0.9762
+"5-oxoproline",4,0.102,-0.176,0.5697,0.9762
+"6-hydroxymelatonin",10,-0.048,-0.176,0.5697,0.9762
+"acetoacetyl-CoA",12,0.259,-0.181,0.5719,0.9762
+"L-cysteate",3,-0.255,-0.185,0.5732,0.9762
+"se-adenosyl-L-selenohomocysteine",7,0.19,-0.186,0.5736,0.9762
+"1-lysolecithin pool",4,0.127,-0.188,0.5744,0.9762
+"glutaryl-CoA",5,0.02,-0.189,0.5748,0.9762
+"(3S)-3-Hydroxy-Cis-8-Tetradecenoyl Coenzyme A",4,0.165,-0.191,0.5758,0.9762
+"3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA",5,0,-0.196,0.5775,0.9762
+"GTP",92,0.077,-0.198,0.5786,0.9762
+"16e-18-oxo-18-CoA-dinor-LTE4",6,0.18,-0.201,0.5798,0.9762
+"hexadecenoylcarnitine(9)",8,0.139,-0.203,0.5803,0.9762
+"(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoylcarnitine",4,0.158,-0.204,0.5809,0.9762
+"12,15,18,21-tetracosatetraenoylcarnitine",4,0.158,-0.204,0.5809,0.9762
+"[apotransferin]",16,0.164,-0.204,0.5809,0.9762
+"hexacosenoylcarnitine",4,0.158,-0.204,0.5809,0.9762
+"tricosanoylcarnitine",4,0.158,-0.204,0.5809,0.9762
+"Hexadecanediocacid",3,-0.193,-0.206,0.5816,0.9762
+"3(S)-hydroxy-2(S),6-dimethyl-heptanoyl-CoA",4,0.21,-0.208,0.5825,0.9762
+"3(S)-hydroxy-4(R),8-dimethyl-nonanoyl-CoA",4,0.21,-0.208,0.5825,0.9762
+"3(S)-hydroxy-4-methyl-pentanoyl-CoA",4,0.21,-0.208,0.5825,0.9762
+"3-hydroxyheptanoyl-CoA",4,0.21,-0.208,0.5825,0.9762
+"3-hydroxynonanoyl-CoA",4,0.21,-0.208,0.5825,0.9762
+"3-hydroxypentanoyl-CoA",4,0.21,-0.208,0.5825,0.9762
+"3-hydroxyundecanoyl-CoA",4,0.21,-0.208,0.5825,0.9762
+"(11Z)-docosenoyl-CoA",28,0.027,-0.209,0.5828,0.9762
+"(13Z,16Z)-docosadienoyl-CoA",28,0.027,-0.209,0.5828,0.9762
+"13,16,19-docosatrienoyl-CoA",28,0.027,-0.209,0.5828,0.9762
+"3''-hydroxy-lovastatin lactone form",4,-0.272,-0.209,0.5828,0.9762
+"6'-beta-hydroxy-lovastatin lactone form",4,-0.272,-0.209,0.5828,0.9762
+"6'-beta-hydroxy-lovastatin-acid form",4,-0.272,-0.209,0.5828,0.9762
+"6'-exomethylene-lovastatin lactone form",4,-0.272,-0.209,0.5828,0.9762
+"Cis-6-Dodecenoyl Coenzyme A",6,-0.005,-0.211,0.5835,0.9766
+"3-dehydrosphinganine",4,-0.004,-0.22,0.587,0.981
+"ornithine",14,0.039,-0.22,0.587,0.981
+"keratan sulfate I biosynthesis, precursor 1",7,0.192,-0.222,0.588,0.9819
+"CDP-ethanolamine",3,0.036,-0.23,0.591,0.9856
+"aspartate",36,0.044,-0.23,0.5911,0.9856
+"3',5'-dihydrodiol-simvastatin-lactone form",4,-0.289,-0.234,0.5926,0.9859
+"3(S)-hydroxy-cis-15-tetracosaenoyl-CoA",13,0.129,-0.234,0.5923,0.9859
+"6'-exomethylene-simvastatin-lactone form",4,-0.289,-0.234,0.5926,0.9859
+"1,2-diacylglycerol-LD-TAG pool",36,0.155,-0.238,0.5939,0.9873
+"3-alpha-iso-pravastatin",6,0.03,-0.241,0.595,0.9874
+"GA2",15,0.213,-0.246,0.5973,0.9874
+"GM2",15,0.213,-0.246,0.5973,0.9874
+"1-acylglycerol-chylomicron pool",11,0.272,-0.247,0.5974,0.9874
+"oxalate",9,0.328,-0.262,0.6032,0.9874
+"deoxyinosine",6,0.273,-0.263,0.6036,0.9874
+"plasminogen",16,0.156,-0.264,0.6041,0.9874
+"ibuprofen-CoA-S form",5,0.155,-0.27,0.6064,0.9874
+"(11Z,14Z,17Z)-eicosatrienoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"(15Z)-tetracosenoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"O-acetylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"O-propanoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"dodecanoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"gamma-linolenoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"heptadecanoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"hexacosanoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"nonadecanoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"ocosatetraenoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"stearoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"tetracosanoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"tridecanoylcarnitine",6,0.17,-0.271,0.6069,0.9874
+"2-deoxy-D-ribose-5-phosphate",3,0.075,-0.273,0.6074,0.9874
+"D-3-amino-isobutanoate",3,-0.183,-0.273,0.6074,0.9874
+"phosphatidate-CL pool",11,0.017,-0.274,0.6078,0.9874
+"3-Hydroxy-Adipoyl Coenzyme A",3,-0.059,-0.275,0.6084,0.9874
+"3-Hydroxy-Sebacoyl Coenzyme A",3,-0.059,-0.275,0.6084,0.9874
+"3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanate",14,0.25,-0.277,0.609,0.9874
+"6-[(1S,2R)-1,2-dihydroxy-3-triphosphooxypropyl]-7,8-dihydropterin",3,-0.296,-0.279,0.6097,0.9874
+"pyridoxal-phosphate",6,0.137,-0.282,0.6111,0.9874
+"prostaglandin E3",4,0.314,-0.283,0.6114,0.9874
+"m2emgacpail heparan sulfate",6,0.145,-0.289,0.6139,0.9874
+"5(S)-HEPE",4,0.165,-0.292,0.6147,0.9874
+"cAMP",29,-0.142,-0.292,0.6149,0.9874
+"chondroitin sulfate B (IdoA2S-GalNAc4s), precursor 5",6,-0.17,-0.292,0.6148,0.9874
+"isovaleryl-CoA",8,-0.096,-0.292,0.6149,0.9874
+"fluvastatin",9,-0.1,-0.293,0.6152,0.9874
+"20-COOH-LTE4",11,0.021,-0.295,0.6162,0.9874
+"fatty acid pool",44,0.137,-0.296,0.6166,0.9874
+"trans-3-cis-5,8,11,14-eicosapentaenoyl-CoA",4,0.144,-0.296,0.6164,0.9874
+"glucosamine-6-phosphate",11,0.256,-0.297,0.6166,0.9874
+"apoC-lys_btn",3,0.324,-0.298,0.617,0.9874
+"Gal2-Xyl-L-Ser-[protein]",3,0.145,-0.3,0.618,0.9874
+"leukotriene E4",39,0.019,-0.3,0.6178,0.9874
+"10-formyl-THF",10,-0.057,-0.302,0.6186,0.9874
+"(ADP-D-ribosyl)n+1-acceptor",16,0.048,-0.304,0.6194,0.9874
+"(ADP-D-ribosyl)n-acceptor",16,0.048,-0.304,0.6194,0.9874
+"(R)-S-lactoylglutathione",9,-0.212,-0.306,0.6201,0.9874
+"5-hydroxy-fluvastatin",4,-0.268,-0.311,0.6223,0.9874
+"TAG-LD pool",20,0.298,-0.311,0.6222,0.9874
+"Trans-2-Cis-8-Tetradecadienoyl Coenzyme A",5,0.179,-0.311,0.6221,0.9874
+"[protein]-L-asparagine",8,0.133,-0.312,0.6226,0.9874
+"(2E)-heneicosenoyl-CoA",11,0.091,-0.313,0.6229,0.9874
+"(2E)-nonadecenoyl-CoA",11,0.091,-0.313,0.6229,0.9874
+"leucine",39,0.132,-0.314,0.6233,0.9874
+"vitamin K",3,0.219,-0.317,0.6245,0.9874
+"[protein]-L-arginine",5,0.806,-0.318,0.6249,0.9874
+"3-keto-5,6,-dihydroxy-pravastatin",4,-0.112,-0.319,0.625,0.9874
+"5,6-epoxy-3-alpha-iso-pravastatin",4,-0.112,-0.319,0.625,0.9874
+"7-hydroxy-3-alpha-iso-pravastatin",4,-0.112,-0.319,0.625,0.9874
+"desacyl dehydro-pravastatin",4,-0.112,-0.319,0.625,0.9874
+"triol metabolite of pravastatin",4,-0.112,-0.319,0.625,0.9874
+"(alpha-D-Glucosyl)3-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)",8,0.142,-0.321,0.626,0.9874
+"protoporphyrin",3,-0.041,-0.323,0.6268,0.9874
+"taurine",5,0.299,-0.325,0.6274,0.9874
+"dCMP",14,-0.119,-0.326,0.6276,0.9874
+"11-carboxy-alpha-tocotrienol",28,0.147,-0.328,0.6287,0.9874
+"11-carboxy-gamma-tocotrienol",28,0.147,-0.328,0.6287,0.9874
+"5-carboxy-alpha-chromanol",28,0.147,-0.328,0.6287,0.9874
+"5-carboxy-gamma-chromanol",28,0.147,-0.328,0.6287,0.9874
+"7-carboxy-alpha-tocotrienol",28,0.147,-0.328,0.6287,0.9874
+"7-carboxy-gamma-tocotrienol",28,0.147,-0.328,0.6287,0.9874
+"9-carboxy-alpha-tocotrienol",28,0.147,-0.328,0.6287,0.9874
+"9-carboxy-gamma-tocotrienol",28,0.147,-0.328,0.6287,0.9874
+"GD1b",8,0.205,-0.329,0.6289,0.9874
+"methanol",12,-0.203,-0.332,0.6302,0.9874
+"uracil",5,0.1,-0.332,0.6302,0.9874
+"(alpha-D-mannosyl)2-beta-D-mannosyl-N-acetylglucosamine",6,0.264,-0.342,0.6337,0.9874
+"antitrypsin",16,0.147,-0.346,0.6355,0.9874
+"2,6,10-Trimethyl Undecanoyl Coenzyme A",4,0.058,-0.349,0.6364,0.9874
+"10,11-dihydro-12-epi-LTB4",11,0.18,-0.357,0.6396,0.9874
+"3-Oxo-Cis-8-Tetradecenoyl Coenzyme A",4,0.021,-0.359,0.6401,0.9874
+"albumin",16,0.146,-0.359,0.6403,0.9874
+"chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan",3,-0.08,-0.363,0.6416,0.9874
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 5b",3,-0.08,-0.363,0.6416,0.9874
+"digalactosylceramide",22,0.011,-0.364,0.642,0.9874
+"coproporphyrin III",4,-0.018,-0.365,0.6426,0.9874
+"(2E)-tricosenoyl-CoA",6,0.113,-0.366,0.6428,0.9874
+"23S,25,26-trihydroxyvitamin D3",3,-0.178,-0.366,0.6429,0.9874
+"23s,25-dihydroxyvitamin D3",3,-0.178,-0.366,0.6429,0.9874
+"24-oxo-1alpha,23,25-trihydroxyvitamin D3",3,-0.178,-0.366,0.6429,0.9874
+"24-oxo-1alpha,25-dihydroxyvitamin D3",3,-0.178,-0.366,0.6429,0.9874
+"25-hydroxyvitamin D3-26,23-lactol",3,-0.178,-0.366,0.6429,0.9874
+"25-hydroxyvitamin D3-26,23-lactone",3,-0.178,-0.366,0.6429,0.9874
+"calcitetrol",3,-0.178,-0.366,0.6429,0.9874
+"trans,cis,cis,cis-2,11,14,17-eicosatetraenoyl-CoA",6,0.113,-0.366,0.6428,0.9874
+"trans,cis,cis,cis-2,13,16,19-docosatetraenoyl-CoA",6,0.113,-0.366,0.6428,0.9874
+"trans,cis,cis-2,13,16-docasatrienoyl-CoA",6,0.113,-0.366,0.6428,0.9874
+"trans,cis-2,11-docosadienoyl-CoA",6,0.113,-0.366,0.6428,0.9874
+"trans,cis-2,8,11-eicosatrienoyl-CoA",6,0.113,-0.366,0.6428,0.9874
+"trans,cis-2,9-eicosadienoyl-CoA",6,0.113,-0.366,0.6428,0.9874
+"9-cis-retinal",14,0.054,-0.368,0.6436,0.9874
+"6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol",3,0.209,-0.376,0.6464,0.9874
+"NH4+",24,0.311,-0.376,0.6466,0.9874
+"(3E,5Z,8Z)-Tetradecatrienoyl Coenzyme A",3,0.222,-0.377,0.6471,0.9874
+"apoA1",16,0.151,-0.378,0.6472,0.9874
+"glucosylceramide pool",32,0.062,-0.38,0.6479,0.9874
+"(2E)-dodecenoyl-CoA",17,0.081,-0.381,0.6485,0.9874
+"2(S),6-dimethyl-heptanoyl-CoA",3,-0.204,-0.383,0.6492,0.9874
+"Coprostanol",6,0.145,-0.385,0.6497,0.9874
+"antichymotrypsin",16,0.138,-0.388,0.6511,0.9874
+"xanthosine",6,-0.125,-0.389,0.6513,0.9874
+"apoB100",16,0.151,-0.393,0.6529,0.9874
+"2-hydroxy-atorvastatin-lactone / ortho-hydroxy-atorvastatin lactone",8,0.203,-0.396,0.6541,0.9874
+"1-(1-alkenyl)-sn-glycero-3-phosphoethanolamine",13,-0.102,-0.397,0.6543,0.9874
+"1-phosphatidyl-1D-myo-inositol-3-phosphate",29,-0.079,-0.406,0.6575,0.9874
+"4-(2-amino-3-hydroxyphenyl)-2,4-dioxobutanoate",3,-0.128,-0.411,0.6596,0.9874
+"4-hydroxy-2-quinolinecarboxylic acid",3,-0.128,-0.411,0.6596,0.9874
+"xanthurenate",3,-0.128,-0.411,0.6596,0.9874
+"Adipoyl Carnitine",4,-0.108,-0.412,0.66,0.9874
+"Dodecanedioyl Carnitine",4,-0.108,-0.412,0.66,0.9874
+"Hexanoyl Carnitine",4,-0.108,-0.412,0.66,0.9874
+"L-octanoylcarnitine",4,-0.108,-0.412,0.66,0.9874
+"Sebacoyl Carnitine",4,-0.108,-0.412,0.66,0.9874
+"Suberyl Carnitine",4,-0.108,-0.412,0.66,0.9874
+"Succinyl Carnitine",4,-0.108,-0.412,0.66,0.9874
+"histamine",8,-0.415,-0.412,0.6598,0.9874
+"5beta-cholestane-3alpha,7alpha,26-triol",13,-0.074,-0.415,0.6608,0.9874
+"O-1-alk-1-enyl-2-acyl-sn-glycero-3-phosphoethanolamine",23,-0.021,-0.417,0.6616,0.9874
+"(R)-3-hydroxybutanoate",7,0.033,-0.419,0.6626,0.9874
+"asparagine",38,0.023,-0.421,0.6633,0.9874
+"Trans4Decenoyl Coenzyme A",4,-0.036,-0.424,0.6643,0.9874
+"26-hydroxycholesterol",3,-0.163,-0.429,0.6659,0.9874
+"3(S)-hydroxy-11-cis-eicosenoyl-CoA",15,0.135,-0.432,0.6671,0.9874
+"3(S)-hydroxy-13-cis-docosenoyl-CoA",15,0.135,-0.432,0.6671,0.9874
+"hydroxide",6,0.43,-0.434,0.6678,0.9874
+"Hyocholic acid; gamma-Muricholate",12,-0.103,-0.437,0.6689,0.9874
+"cholest-5-ene-3beta,7alpha,27-triol",4,-0.066,-0.446,0.6722,0.9874
+"4alpha-methyl-cholesta-8-enol",3,0.238,-0.447,0.6725,0.9874
+"4alpha-methylzymosterol",3,0.238,-0.447,0.6725,0.9874
+"20-COOH-18-oxo-LTE4-CoA",4,0.112,-0.448,0.6729,0.9874
+"3-keto-THA-CoA",4,0.112,-0.448,0.6729,0.9874
+"3-ketopristanoyl-CoA",4,0.112,-0.448,0.6729,0.9874
+"3-oxo-(2S,6R,10R)-trimethyl-hendecanoyl-CoA",4,0.112,-0.448,0.6729,0.9874
+"3-oxo-(4R,8R,12R)-trimethyl-tridecanoyl-CoA",4,0.112,-0.448,0.6729,0.9874
+"10,11-dihydro-LTB4-CoA",8,0.069,-0.45,0.6737,0.9874
+"20-COOH-LTE4-CoA",8,0.069,-0.45,0.6737,0.9874
+"20-CoA-20-oxo-LTB4",8,0.069,-0.45,0.6737,0.9874
+"5-oxo-12(R)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA",8,0.069,-0.45,0.6737,0.9874
+"5-oxo-12(S)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA",8,0.069,-0.45,0.6737,0.9874
+"cholate",13,-0.151,-0.451,0.6742,0.9874
+"Adipoyl Coenzyme A",11,0.004,-0.452,0.6745,0.9874
+"FMN",7,-0.109,-0.452,0.6742,0.9874
+"4(R),8-dimethyl-nonanoyl-CoA",5,0.039,-0.453,0.6748,0.9874
+"5,10-methenyl-THF",7,0.086,-0.453,0.6747,0.9874
+"keratan sulfate II (core 2-linked)",7,0.055,-0.453,0.6746,0.9874
+"keratan sulfate II (core 4-linked)",7,0.055,-0.453,0.6746,0.9874
+"citrulline",10,0.056,-0.454,0.6752,0.9874
+"GD1a",9,0.093,-0.457,0.6763,0.9874
+"galactose-1-phosphate",4,0.026,-0.461,0.6777,0.9874
+"PGH3",4,0.18,-0.462,0.6781,0.9874
+"testosterone",16,0.082,-0.463,0.6783,0.9874
+"sulfotaurolithocholate",4,-0.647,-0.466,0.6795,0.9874
+"dehydroepiandrosterone",3,-0.151,-0.467,0.6797,0.9874
+"UDP-N-acetyl-D-galactosamine",19,-0.029,-0.47,0.6807,0.9874
+"3-hydroxyoctadecanoyl-CoA",16,0.137,-0.472,0.6814,0.9874
+"phosphopantetheine",8,-0.086,-0.476,0.6829,0.9874
+"ceramide-1P pool",9,0.116,-0.483,0.6856,0.9874
+"4-hydroxy-atorvastatin-lactone / para-hydroxy-atorvastatin lactone",7,0.132,-0.49,0.688,0.9874
+"(5S,6S)-epoxy-(15R)-hydroxy-ETE",3,0.049,-0.491,0.6884,0.9874
+"5(S),6(S)-epoxy-15(R)-HEPE",3,0.049,-0.491,0.6884,0.9874
+"5,6-epoxytetraene",3,0.049,-0.491,0.6884,0.9874
+"lipoxin B4",3,0.049,-0.491,0.6884,0.9874
+"taurochenodeoxycholate",12,-0.086,-0.492,0.6887,0.9874
+"ADP-ribose",9,-0.162,-0.496,0.6901,0.9874
+"galactosylgloboside",4,0.272,-0.496,0.69,0.9874
+"4(R)-hydroxy-dodec-(6Z)-enoate",3,-0.049,-0.497,0.6904,0.9874
+"4(S)-hydroxy-dodec-(6Z)-enoate",3,-0.049,-0.497,0.6904,0.9874
+"glucosamine",7,0.551,-0.497,0.6903,0.9874
+"sulfochenodeoxycholate",10,-0.062,-0.498,0.6907,0.9874
+"(Glc)3 (GlcNAc)2 (Man)9 (PP-Dol)1",10,0.041,-0.5,0.6916,0.9874
+"Dodecanedioyl Coenzyme A",8,-0.074,-0.502,0.6922,0.9874
+"phosphatidate-LD-SM pool",18,0.091,-0.503,0.6924,0.9874
+"phosphatidate-bile-PC pool",18,0.091,-0.503,0.6924,0.9874
+"3-hydroxyisobutyrate",3,-0.029,-0.505,0.6931,0.9874
+"mannose-6-phosphate",8,0.256,-0.507,0.694,0.9874
+"3-Oxolaur-Cis-5-Enoyl Coenzyme A",4,0.108,-0.508,0.6942,0.9874
+"tRNA(met)",15,0.16,-0.508,0.6942,0.9874
+"3alpha,12alpha-dihydroxy-5beta-cholanate",11,-0.008,-0.512,0.6955,0.9874
+"homoserine",5,0.117,-0.515,0.6966,0.9874
+"glutamate",81,0.055,-0.517,0.6973,0.9874
+"cis,cis-3,6-dodecadienoyl-CoA",9,0.098,-0.519,0.6982,0.9874
+"mercaptopyruvate",6,0.049,-0.519,0.6981,0.9874
+"serine",50,0.096,-0.522,0.6993,0.9874
+"2(R),6-dimethyl-heptanoyl-CoA",4,-0.095,-0.525,0.7003,0.9874
+"nicotinamide ribonucleoside",8,-0.039,-0.525,0.7002,0.9874
+"GSSG",18,0.072,-0.527,0.7011,0.9874
+"fructose",15,0.245,-0.529,0.7017,0.9874
+"Alpha-Linolenyl Carnitine",3,0.038,-0.53,0.7021,0.9874
+"4alpha-hydroxytetrahydrobiopterin",3,-0.167,-0.533,0.7031,0.9874
+"mannose",18,0.068,-0.534,0.7033,0.9874
+"Protein-Linked Serine Or Threonine Residue (O-Glycosylation Site)",10,-0.109,-0.535,0.7035,0.9874
+"6-epipravastatin",5,0.161,-0.536,0.7041,0.9874
+"dIDP",6,0.203,-0.542,0.7059,0.9874
+"3(S)-3-Hydroxydodecen-(5Z)-Oyl Coenzyme A",6,0.101,-0.546,0.7074,0.9874
+"dITP",7,0.2,-0.546,0.7076,0.9874
+"1-lyso-2-arachidonoyl-phosphatidate",9,0.083,-0.552,0.7095,0.9874
+"2-acyl-1-alkyl-sn-glycero-3-phosphate",9,0.083,-0.552,0.7095,0.9874
+"3(S),6(R)-dihydroxy-tetradec-(8Z)-enoate",3,0.202,-0.563,0.7131,0.9874
+"3(S),6(S)-dihydroxy-tetradec-(8Z)-enoate",3,0.202,-0.563,0.7131,0.9874
+"3(S),8(R)-dihydroxy-(6E,10Z)-hexadecadienoate",3,0.202,-0.563,0.7131,0.9874
+"3(S),8(S)-dihydroxy-(6E,10Z)-hexadecadienoate",3,0.202,-0.563,0.7131,0.9874
+"3-hydroxyheptadecanoyl-CoA",3,0.202,-0.563,0.7131,0.9874
+"3-hydroxypentadecanoyl-CoA",3,0.202,-0.563,0.7131,0.9874
+"3-hydroxytridecanoyl-CoA",3,0.202,-0.563,0.7131,0.9874
+"3-hydroxy-L-kynurenine",7,0.047,-0.564,0.7136,0.9874
+"N-acetyl-LTE4",36,0.093,-0.565,0.714,0.9874
+"(R)-3-hydroxybutanoyl-CoA",4,0.117,-0.567,0.7145,0.9874
+"1-acylglycerol-LD-PC pool",12,0.25,-0.568,0.7151,0.9874
+"1-acylglycerol-LD-PE pool",12,0.25,-0.568,0.7151,0.9874
+"1-acylglycerol-LD-PI pool",12,0.25,-0.568,0.7151,0.9874
+"1-acylglycerol-LD-PS pool",12,0.25,-0.568,0.7151,0.9874
+"1-acylglycerol-LD-SM pool",12,0.25,-0.568,0.7151,0.9874
+"1-acylglycerol-LD-TG1 pool",12,0.25,-0.568,0.7151,0.9874
+"phosphatidylinositol-3,5-bisphosphate",26,0.016,-0.573,0.7166,0.9874
+"H2S",10,-0.022,-0.575,0.7174,0.9874
+"Sebacoyl Coenzyme A",9,-0.043,-0.575,0.7174,0.9874
+"1-phosphatidyl-myo-inositol-3,5-bisphosphate",17,-0.11,-0.576,0.7176,0.9874
+"cystine",8,0.081,-0.576,0.7178,0.9874
+"2-oxo-3-methylvalerate",7,0.033,-0.578,0.7182,0.9874
+"3-methyl-2-oxobutyrate",7,0.033,-0.578,0.7182,0.9874
+"itaconyl-CoA",4,-0.077,-0.578,0.7184,0.9874
+"retinyl-ester",17,0.204,-0.582,0.7196,0.9874
+"PI pool",49,0.031,-0.583,0.72,0.9874
+"chondroitin sulfate C (GalNAc6S-GlcA), precursor 3",8,-0.123,-0.593,0.7233,0.9874
+"chondroitin sulfate D (GlcNAc6S-GlcA2S), precursor 4",8,-0.123,-0.593,0.7233,0.9874
+"4-methyl-pentanoyl-CoA",5,-0.105,-0.594,0.7236,0.9874
+"CMP",36,-0.115,-0.596,0.7243,0.9874
+"keratan sulfate II (core 4-linked), biosynthesis, precursor 2",8,0.157,-0.598,0.7249,0.9874
+"L-gulonate",3,0.153,-0.601,0.726,0.9874
+"GM1b",7,0.012,-0.606,0.7277,0.9874
+"all-trans-decaprenyl-diphosphate",4,0.157,-0.606,0.7277,0.9874
+"dAMP",16,0.122,-0.608,0.7285,0.9874
+"phosphatidate-LD-PC pool",21,0.059,-0.616,0.731,0.9874
+"glutamine",48,0.061,-0.623,0.7333,0.9874
+"4-nitrophenyl-phosphate",5,0.077,-0.624,0.7336,0.9874
+"N-acetylglucosamine-6-phosphate",4,0.068,-0.628,0.735,0.9874
+"phosphatidate-LD-PI pool",23,0.089,-0.638,0.7383,0.9874
+"inositol",8,-0.117,-0.643,0.7398,0.9874
+"LacCer pool",38,0.149,-0.645,0.7407,0.9874
+"sulfoglycolithocholate",4,-0.481,-0.648,0.7416,0.9874
+"3-hydroxyanthranilate",3,-0.153,-0.649,0.7417,0.9874
+"xylitol",3,0.038,-0.651,0.7423,0.9874
+"3-methoxytyramine",3,0.025,-0.652,0.7427,0.9874
+"L-metanephrine",3,0.025,-0.652,0.7427,0.9874
+"arginine",33,0.096,-0.652,0.7428,0.9874
+"normetanephrine",3,0.025,-0.652,0.7427,0.9874
+"sn-glycerol-3-PC",10,-0.074,-0.654,0.7435,0.9874
+"sn-glycerol-3-PE",10,-0.074,-0.654,0.7435,0.9874
+"tryptophan",35,0.059,-0.656,0.7441,0.9874
+"prostaglandin F2alpha",7,0.264,-0.658,0.7447,0.9874
+"10,11-dihydro-LTB4",12,0.176,-0.659,0.745,0.9874
+"1,2-diacylglycerol-bile-PC pool",11,0.035,-0.661,0.7456,0.9874
+"(3Z,7Z,10Z)-hexadecatrienoyl-CoA",6,0.121,-0.663,0.7464,0.9874
+"ethanolamine-phosphate",7,0.045,-0.668,0.7479,0.9874
+"7,12-dimethylbenz[a]anthracene 5,6-oxide",11,-0.185,-0.678,0.7511,0.9874
+"benzo[a]pyrene-7,8-oxide",11,-0.185,-0.678,0.7511,0.9874
+"trans-3,4-dihydro-3,4-dihydroxy-7,12-dimethylbenz[a]anthracene",11,-0.185,-0.678,0.7511,0.9874
+"3,7,10,13,16-Docosapentenoyl Coenzyme A",5,0.094,-0.685,0.7533,0.9874
+"3,7,10,13-Hexadecatetraenoyl Coenzyme A",5,0.094,-0.685,0.7533,0.9874
+"3,7-Decadienoyl Coenzyme A",5,0.094,-0.685,0.7533,0.9874
+"[protein]-L-serine",17,0.046,-0.685,0.7533,0.9874
+"3'-S-hydroxy-pravastatin-tetranor",3,0.059,-0.688,0.7543,0.9874
+"guanidine",3,0.107,-0.688,0.7544,0.9874
+"pravastatin glucuronide",3,0.059,-0.688,0.7543,0.9874
+"nicotinamide",26,-0.023,-0.697,0.7572,0.9874
+"(3Z)-dodecenoyl-CoA",11,0.067,-0.698,0.7574,0.9874
+"(2S)-pristanic acid",3,-0.007,-0.699,0.7577,0.9874
+"UDP-galactose",38,0.11,-0.699,0.7576,0.9874
+"kynurenine",8,-0.155,-0.703,0.759,0.9874
+"3alpha,7alpha,12alpha-trihydroxy-5beta-24-oxocholestanoyl-CoA",5,0.103,-0.705,0.7597,0.9874
+"3alpha,7alpha-dihydroxy-24-oxo-5beta-cholestanoyl coa",5,0.103,-0.705,0.7597,0.9874
+"1,2-diacylglycerol-chylomicron pool",9,0.459,-0.708,0.7605,0.9874
+"emem2gacpail heparan sulfate",3,0.085,-0.71,0.7611,0.9874
+"25-hydroxyvitamin D2",3,0.031,-0.713,0.7621,0.9874
+"3-Dehydrochenodeoxychollyc acid; 7oxo-3alpha-hydroxy-5beta-cholan-24-oic acid",9,0.101,-0.716,0.7629,0.9874
+"3-Dehydrocholic acid; 3oxo-7alpha,12alpha-Dihydroxy-5beta-cholan-24-oic acid",9,0.101,-0.716,0.7629,0.9874
+"G10599",3,-0.192,-0.717,0.7633,0.9874
+"homocysteine",9,-0.053,-0.718,0.7637,0.9874
+"estrone 3-sulfate",13,-0.069,-0.723,0.7653,0.9874
+"aflatoxin M1-8,9-epoxide",9,-0.29,-0.725,0.7657,0.9874
+"2,4,7-Decatrienoyl Coenzyme A",4,-0.059,-0.728,0.7666,0.9874
+"dopamine",16,0.088,-0.731,0.7675,0.9874
+"alpha-D-galactose-1-phosphate",3,0.178,-0.734,0.7686,0.9874
+"inositol-1-phosphate",14,-0.047,-0.736,0.7692,0.9874
+"1-acyl-PE pool",27,0.012,-0.737,0.7695,0.9874
+"estradiol-17beta",43,0.067,-0.738,0.7696,0.9874
+"(3S)-hydroxy-docasa-cis,cis-13,16-dienoyl-CoA",6,0.073,-0.739,0.7699,0.9874
+"(3S)-hydroxy-eicosa-cis,cis,cis-11,14,17-trienoyl-CoA",6,0.073,-0.739,0.7699,0.9874
+"3(S)-hydroxy-11-cis-docosenoyl-CoA",6,0.073,-0.739,0.7699,0.9874
+"3(S)-hydroxy-3-oxo-eicosadienoyl-CoA",6,0.073,-0.739,0.7699,0.9874
+"3(S)-hydroxy-9-cis-eicosenoyl-CoA",6,0.073,-0.739,0.7699,0.9874
+"3(S)-hydroxy-docosa-13,16,19-all-cis-trienoyl-CoA",6,0.073,-0.739,0.7699,0.9874
+"3-hydroxytricosanoyl-CoA",6,0.073,-0.739,0.7699,0.9874
+"hexadecanal",3,0.034,-0.746,0.772,0.9874
+"2-methylacetoacetyl-CoA",5,0.04,-0.76,0.7764,0.9874
+"3-oxo-(2S)-methylisocapryloyl-CoA",5,0.04,-0.76,0.7764,0.9874
+"3-oxo-4(R),8-dimethyl-nonanoyl-CoA",5,0.04,-0.76,0.7764,0.9874
+"3-oxo-4-methyl-pentanoyl-CoA",5,0.04,-0.76,0.7764,0.9874
+"3-oxo-6(R)-hydroxy-tetradec-8-cis-enoate",5,0.04,-0.76,0.7764,0.9874
+"3-oxo-6(S)-hydroxy-tetradec-(8Z)-enoate",5,0.04,-0.76,0.7764,0.9874
+"3-oxo-8(R)-hydroxy-hexadeca-(6E,10Z)-dienoate",5,0.04,-0.76,0.7764,0.9874
+"3-oxo-8(S)-hydroxy-hexadeca-(6E,10Z)-dienoate",5,0.04,-0.76,0.7764,0.9874
+"3-oxoheptadecanoyl-CoA",5,0.04,-0.76,0.7764,0.9874
+"3-oxoheptanoyl-CoA",5,0.04,-0.76,0.7764,0.9874
+"3-oxononanoyl-CoA",5,0.04,-0.76,0.7764,0.9874
+"3-oxopentadecanoyl-CoA",5,0.04,-0.76,0.7764,0.9874
+"3-oxopentanoyl-CoA",5,0.04,-0.76,0.7764,0.9874
+"3-oxotridecanoyl-CoA",5,0.04,-0.76,0.7764,0.9874
+"3-oxoundecanoyl-CoA",5,0.04,-0.76,0.7764,0.9874
+"3'-hydroxy-simvastatin-lactone form",5,-0.225,-0.764,0.7774,0.9874
+"3,6-Dodecadienoyl Coenzyme A",5,-0.042,-0.764,0.7777,0.9874
+"6'-beta-carboxy-simvastatin-lactone form",5,-0.225,-0.764,0.7774,0.9874
+"6'-beta-hydroxy simvastatin lactone",5,-0.225,-0.764,0.7774,0.9874
+"6'-beta-hydroxy-methyl-simvastatin-lactone form",5,-0.225,-0.764,0.7774,0.9874
+"(3S)-3-hydroxydodec-cis-6-enoyl-CoA",9,0.13,-0.769,0.779,0.9874
+"(S)-3-hydroxybutyryl-CoA",9,0.13,-0.769,0.779,0.9874
+"(S)-hydroxyhexanoyl-CoA",9,0.13,-0.769,0.779,0.9874
+"(S)-hydroxyoctanoyl-CoA",9,0.13,-0.769,0.779,0.9874
+"formaldehyde",17,-0.172,-0.77,0.7793,0.9874
+"2-lysolecithin pool",28,-0.009,-0.771,0.7798,0.9874
+"S-[2-carboxy-1-(1H-imidazol-4-yl)ethyl]-3-thiolactate",9,0.023,-0.771,0.7796,0.9874
+"2,4,7,10,13,16-Docosahexenoyl Coenzyme A",4,0.017,-0.776,0.781,0.9874
+"2,4,7,10,13-Hexadecapentaenoyl Coenzyme A",4,0.017,-0.776,0.781,0.9874
+"SAM",76,0.048,-0.781,0.7827,0.9874
+"CDP-diacylglycerol-LD-PI pool",3,-0.211,-0.782,0.7829,0.9874
+"N-acetylglucosamine",11,0.194,-0.783,0.783,0.9874
+"11-Eicosenoyl Coenzyme A",4,-0.092,-0.792,0.7857,0.9874
+"2,5,8,11,14-Eicosapentaenoyl Coenzyme A",4,-0.092,-0.792,0.7857,0.9874
+"4,7,10-Hexadecatrienoyl Coenzyme A",4,-0.092,-0.792,0.7857,0.9874
+"5,8-Tetradecadienoyl Coenzyme A",4,-0.092,-0.792,0.7857,0.9874
+"9-Octadecenoyl Coenzyme A",4,-0.092,-0.792,0.7857,0.9874
+"Tetradecanedioyl Coenzyme A",4,-0.092,-0.792,0.7857,0.9874
+"deoxy-fluvastatin-dinor",4,-0.092,-0.792,0.7857,0.9874
+"2,6,9-Dodecatrienoyl Coenzyme A",8,0.043,-0.795,0.7866,0.9874
+"2,7-Decadienoyl Coenzyme A",8,0.043,-0.795,0.7866,0.9874
+"18,20-dioxo-20-CoA-LTB4",9,0.072,-0.797,0.7872,0.9874
+"3,5-dioxo-12(R)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3,5-dioxo-12(S)-hydroxy-eicosa-(8E,10E,14Z)-trienoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxo-(6Z,9Z,12Z)-octadecatrienoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxo-11-cis-octadecenoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxo-5(S),12(R)-dihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxo-7-hexadecenoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxo-cis,cis-5,8-tetradecadienoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxo-cis,cis-7,10-hexadecadienoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxodecanoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxododecanoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxohexanoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxolaur-6-cis-enoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxolinoleoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxomyrist-5-enoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxomyrist-7-enoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxooctanoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxooleoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxopalmitoleoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxopalmitoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"3-oxotetradecanoyl-CoA",9,0.072,-0.797,0.7872,0.9874
+"cholesterol-ester-10,13,16,19-docosa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-10,13,16-docosa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-10-hepta",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-11,14,17-eico",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-11,14-eicosa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-11-docose",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-11-eico",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-12,15,18,21-tetracosa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-13,16,19-doco",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-13,16-docosa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-13-docose",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-13-eicose",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-13-octade",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-15-tetra",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-4,7,10,13,16,19-doco",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-4,7,10,13,16-docosa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-5,8,11,14,17-eico",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-5,8,11-eico",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-5-tetra",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-6,9,12,15,18,21-tetra",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-6,9,12,15,18-tetraco",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-6,9,12,15-octa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-6,9-octa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-7,10,13,16,19-docosa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-7,10,13,16-docosa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-7-hexa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-7-octade",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-7-tetrade",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-8,11,14,17-eico",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-8,11-eico",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-9,12,15,18,21-tetra",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-9,12,15,18-tetraco",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-9-eicose",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-9-heptade",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-9-octa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-9-tetrade",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-arach",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-cis-vac",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-dihomo-gamma",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-docosa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-eico",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-gamma-lin",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-heneico",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-hepta",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-hexacosa",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-hexecose",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-laur",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-lin",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-linolen",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-myrist",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-nanode",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-ol",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-palm",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-palmn",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-penta",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-stea",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-tetraco",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-trico",3,-0.124,-0.798,0.7876,0.9874
+"cholesterol-ester-tridec",3,-0.124,-0.798,0.7876,0.9874
+"lipoxin A4",3,0.044,-0.799,0.788,0.9874
+"glycochenodeoxycholate",7,0.251,-0.8,0.788,0.9874
+"lithocholate",13,-0.251,-0.805,0.7897,0.9874
+"L-isoleucyl-tRNA(ile)",12,0.122,-0.81,0.791,0.9874
+"tRNA(ile)",12,0.122,-0.81,0.791,0.9874
+"nicotinate D-ribonucleoside",9,-0.033,-0.811,0.7913,0.9874
+"trans-3-decenoyl-CoA",10,0.058,-0.813,0.7919,0.9874
+"chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan",4,-0.045,-0.816,0.7927,0.9874
+"chondroitin sulfate B (IdoA2S-GalNAc4S), precursor 4",4,-0.045,-0.816,0.7927,0.9874
+"1-phosphatidyl-1D-myo-inositol-4-phosphate",37,-0.03,-0.817,0.793,0.9874
+"dGMP",13,-0.056,-0.822,0.7944,0.9874
+"trans-3-cis-8,11,14-eicosatetraenoyl-CoA",7,0.133,-0.822,0.7944,0.9874
+"chondroitin sulfate precursor (GalNAc-GlcA-(Gal)2-Xyl-L-Ser (protein))",9,-0.116,-0.825,0.7954,0.9874
+"pyruvate",40,0.061,-0.825,0.7954,0.9874
+"2-(alpha-hydroxyethyl)thiamine-diphosphate",3,0.103,-0.829,0.7965,0.9874
+"5-hydroxy-L-tryptophan",4,-0.346,-0.83,0.7968,0.9874
+"phosphatidate-LD-PE pool",20,0.09,-0.83,0.7969,0.9874
+"phosphatidate-LD-PS pool",20,0.09,-0.83,0.7969,0.9874
+"chondroitin sulfate A (GalNAc4S-GlcA) and B (IdoA2S-GalNAc4S), precursor 3",9,-0.102,-0.835,0.7983,0.9874
+"18-COOH-(16E)-dinor-LTE5-CoA",5,-0.002,-0.844,0.8006,0.9874
+"chondroitin sulfate A (GalNAc4S-GlcA), degradation product 3",3,-0.116,-0.844,0.8006,0.9874
+"18-COOH-(15E)-dinor-LTE4-CoA",5,0.105,-0.847,0.8016,0.9874
+"3-Hexenoyl Coenzyme A",10,-0.005,-0.847,0.8015,0.9874
+"PE-PS-LD pool",3,-0.131,-0.85,0.8022,0.9874
+"(1aalpha,2beta,3alpha,11calpha)-1a,2,3,11c-tetrahydro-6,11-dimethylbenzo[6,7]phenanthro[3,4-b]oxirene-2,3-diol",10,-0.242,-0.853,0.8032,0.9874
+"1,1-dichloroethylene",10,-0.242,-0.853,0.8032,0.9874
+"1-nitronaphthalene",10,-0.242,-0.853,0.8032,0.9874
+"4-[(hydroxymethyl)nitrosoamino]-1-(3-pyridinyl)-1-butanone",10,-0.242,-0.853,0.8032,0.9874
+"9-hydroxybenzo[a]pyrene",10,-0.242,-0.853,0.8032,0.9874
+"9-hydroxybenzo[a]pyrene-4,5-oxide",10,-0.242,-0.853,0.8032,0.9874
+"TAG epoxide",10,-0.242,-0.853,0.8032,0.9874
+"aflatoxin Q1",10,-0.242,-0.853,0.8032,0.9874
+"benzo[a]pyrene-7,8-dihydrodiol-9,10-oxide",10,-0.242,-0.853,0.8032,0.9874
+"bromobenzene",10,-0.242,-0.853,0.8032,0.9874
+"chloral",10,-0.242,-0.853,0.8032,0.9874
+"naphthalene",10,-0.242,-0.853,0.8032,0.9874
+"simvastatin lactone form",7,-0.045,-0.856,0.8039,0.9874
+"3-isoLM1",3,-0.002,-0.86,0.8051,0.9874
+"GT1b",7,0.142,-0.867,0.807,0.9874
+"glyoxalate",10,0.054,-0.876,0.8096,0.9874
+"3-hydroxyheneicosanoyl-CoA",9,0.116,-0.877,0.8099,0.9874
+"3-hydroxynonadecanoyl-CoA",9,0.116,-0.877,0.8099,0.9874
+"S-farnesyl-protein",3,-0.013,-0.877,0.8098,0.9874
+"3,5,3-triiodothyronine-4-sulfate",4,-0.023,-0.879,0.8103,0.9874
+"[protein]-L-glutamine",3,0.188,-0.879,0.8104,0.9874
+"[protein]-N5-alkylglutamine",3,0.188,-0.879,0.8104,0.9874
+"alkylamine",3,0.188,-0.879,0.8104,0.9874
+"4,7-Decadienoyl Coenzyme A",8,-0.064,-0.882,0.811,0.9874
+"5-Octenoyl Coenzyme A",8,-0.064,-0.882,0.811,0.9874
+"Hexadecanedioyl Coenzyme A",8,-0.082,-0.882,0.811,0.9874
+"benzo[a]pyrene-9,10-oxide",12,-0.175,-0.889,0.8129,0.9874
+"16(S)-hydroxy-18-oxo-18-CoA-LTE4",6,0.099,-0.891,0.8135,0.9874
+"18(R)-hydroxy-20-oxo-20-CoA-LTE4",6,0.099,-0.891,0.8135,0.9874
+"3(R)-hydroxy-(2S,6R,10)-trimethyl-hendecanoyl-CoA",6,0.099,-0.891,0.8135,0.9874
+"3(R)-hydroxy-(4R,8R,12R)-trimethyl-tridecanoyl-CoA",6,0.099,-0.891,0.8135,0.9874
+"3(S)-hydroxy-tetracosa-6,9,12,15,18-all-cis-pentaenoyl-CoA",6,0.099,-0.891,0.8135,0.9874
+"3-hydroxy-THA-CoA",6,0.099,-0.891,0.8135,0.9874
+"3-hydroxypristanoyl-CoA",6,0.099,-0.891,0.8135,0.9874
+"monosialylgalactosylgloboside",3,-0.043,-0.892,0.8138,0.9874
+"sialyl-T antigen",3,-0.043,-0.892,0.8138,0.9874
+"sialyl-galactosylgloboside",3,-0.043,-0.892,0.8138,0.9874
+"3,7,10-Hexadecatrienoyl Coenzyme A",3,-0.014,-0.893,0.8142,0.9874
+"15(S)-HETrE",5,0.11,-0.896,0.8148,0.9874
+"1-organyl-2-lyso-sn-glycero-3-phosphocholine",18,-0.074,-0.898,0.8155,0.9874
+"lipoic acid",3,0.129,-0.898,0.8154,0.9874
+"L-valyl-tRNA(val)",14,0.148,-0.904,0.8169,0.9874
+"tRNA(val)",14,0.148,-0.904,0.8169,0.9874
+"vitamin D3",3,-0.159,-0.904,0.817,0.9874
+"sarcosine",6,-0.072,-0.905,0.8174,0.9874
+"5(S)-HETE",14,0.153,-0.907,0.8177,0.9874
+"20-COOH-LTB4",13,0.021,-0.908,0.8182,0.9874
+"L-glutamyl-tRNA(glu)",14,0.133,-0.908,0.818,0.9874
+"L-prolyl-tRNA(pro)",14,0.133,-0.908,0.818,0.9874
+"tRNA(glu)",14,0.133,-0.908,0.818,0.9874
+"tRNA(pro)",14,0.133,-0.908,0.818,0.9874
+"L-glutaminyl-tRNA(gln)",14,0.118,-0.91,0.8185,0.9874
+"tRNA(gln)",14,0.118,-0.91,0.8185,0.9874
+"4-androstene-3,17-dione",15,0.098,-0.92,0.8212,0.989
+"selenide",6,0.164,-0.921,0.8215,0.989
+"GDP-L-fucose",6,0.078,-0.922,0.8219,0.989
+"SAH",67,0.056,-0.925,0.8226,0.989
+"malate",11,0.263,-0.925,0.8226,0.989
+"dehydrocholic acid",3,0.306,-0.93,0.8239,0.989
+"hyocholic acid",3,0.306,-0.93,0.8239,0.989
+"omega-muricholic acid",3,0.306,-0.93,0.8239,0.989
+"tauro-hyodeoxycholic acid",3,0.306,-0.93,0.8239,0.989
+"1-phosphatidyl-1D-myo-inositol-3,4-bisphosphate",21,-0.14,-0.935,0.8252,0.9899
+"glycogenin G8",4,-0.011,-0.937,0.8255,0.9899
+"dihydrobiopterin",3,-0.122,-0.941,0.8266,0.9906
+"2-hydroxybutyrate",7,0.004,-0.942,0.827,0.9906
+"1-alkyl-2-acylglycerol",12,0.034,-0.946,0.8279,0.9912
+"3-decaprenyl-4-hydroxybenzoate",3,0.081,-0.949,0.8287,0.9915
+"5(S)-HPETE",9,0.093,-0.95,0.8291,0.9915
+"N-pantothenoylcysteine",3,-0.178,-0.953,0.8298,0.9915
+"2,6-Dodecadienoyl Coenzyme A",4,0.006,-0.956,0.8304,0.9915
+"2,7,10-Hexadecatrienoyl Coenzyme A",4,0.006,-0.956,0.8304,0.9915
+"calcidiol",7,-0.092,-0.961,0.8317,0.9917
+"2,6,9,12,15-Octadecapentenoyl Coenzyme A",4,0.164,-0.967,0.8333,0.9917
+"2,7,10,13,16,19-Docosahexenoyl Coenzyme A",4,0.164,-0.967,0.8333,0.9917
+"3,6,9,12,15-Octadecapentenoyl Coenzyme A",4,0.164,-0.967,0.8333,0.9917
+"Trans3,6Dodecadienoyl Coenzyme A",4,0.164,-0.967,0.8333,0.9917
+"lysine",33,0.095,-0.967,0.8333,0.9917
+"FAD",82,-0.014,-0.974,0.8351,0.9919
+"nLc8Cer",3,0.397,-0.975,0.8353,0.9919
+"UDP-xylose",3,0.114,-0.979,0.8361,0.9919
+"Xyl-L-Ser-[protein]",3,0.124,-0.984,0.8375,0.9919
+"chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 4",12,-0.097,-0.985,0.8378,0.9919
+"prostaglandin E1",9,0.296,-0.99,0.8388,0.9919
+"7-hydroxymethyl-12-methylbenz[a]anthracene",10,-0.281,-0.994,0.8398,0.9919
+"dolichyl-D-glucosyl-phosphate",5,-0.144,-1.003,0.842,0.9919
+"D-aspartate",5,0.085,-1.007,0.843,0.9919
+"linoleate",42,0.027,-1.008,0.8433,0.9919
+"12-Dehydrocholic acid; 12-Oxodeoxycholic acid; 12oxo-3alpha,7alpha-Dihydroxy-5beta-cholan-24-oic acid",8,0.192,-1.016,0.8453,0.9919
+"7-Dehydrochenodeoxycholic acid; 7oxo-3alpha-hydroxy-5beta-cholan-24-oic acid",8,0.192,-1.016,0.8453,0.9919
+"7-Dehydrocholic acid; 7-Oxodeoxycholic acid; 7oxo-3alpha,12alpha-Dihydroxy-5beta-cholan-24-oic acid",8,0.192,-1.016,0.8453,0.9919
+"Isochenodeoxycholic acid; 3beta,7alpha,12alpha-Trihydroxy-5beta-cholanic acid",8,0.192,-1.016,0.8453,0.9919
+"Isochenodeoxycholic acid; 3beta,7alpha-Dihydroxy-5beta-cholanic acid",8,0.192,-1.016,0.8453,0.9919
+"Ursocholic acid; 3alpha,7beta,12alpha-Trihydroxy-5beta-cholan-24-oic acid; 3alpha,7beta,12alpha-Trihydroxy-5beta-cholanic acid; 7beta-Hydroxyisocholic acid; 7-Epicholic acid",8,0.192,-1.016,0.8453,0.9919
+"kinetensin",3,0.497,-1.016,0.8453,0.9919
+"N-substituted amino acid",3,0.126,-1.017,0.8455,0.9919
+"N-substituted aminoacyl tRNA",3,0.126,-1.017,0.8455,0.9919
+"5-Dodecenoyl Coenzyme A",7,0.029,-1.024,0.8472,0.9919
+"dihydrolipoamide",5,0.071,-1.026,0.8476,0.9919
+"(24R,25R)3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl-CoA",4,-0.091,-1.033,0.8491,0.9919
+"(24R,25R)3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA",4,-0.091,-1.033,0.8491,0.9919
+"S-acetyldihydrolipoamide",4,0.038,-1.037,0.8502,0.9919
+"m2gacpail heparan sulfate",3,-0.095,-1.037,0.8501,0.9919
+"memgacpail heparan sulfate",3,-0.095,-1.037,0.8501,0.9919
+"L-methionyl-tRNA(met)",15,0.124,-1.041,0.8511,0.9919
+"13-Docosenoyl Coenzyme A",10,0.08,-1.047,0.8525,0.9919
+"GA1",14,0.116,-1.05,0.8532,0.9919
+"GM1",11,0.128,-1.055,0.8542,0.9919
+"7-Tetradecenoyl Coenzyme A",3,0.116,-1.057,0.8549,0.9919
+"Trans5,8Tetradecadienoyl Coenzyme A",3,0.116,-1.057,0.8549,0.9919
+"STAR",22,0.126,-1.058,0.855,0.9919
+"N(omega)-(ADP-D-ribosyl)-L-arginine",3,0.138,-1.062,0.856,0.9919
+"[protein]-omega-N-(ADP-D-ribosyl)-L-arginine",3,0.138,-1.062,0.856,0.9919
+"11-Octadecenoyl Carnitine",4,0.046,-1.065,0.8565,0.9919
+"Octadecenoyl Carnitine (Hypothetical, Position Of Double Bond Unknown)",4,0.046,-1.065,0.8565,0.9919
+"L-seryl-tRNA(ser)",14,0.121,-1.069,0.8575,0.9919
+"tRNA(ser)",14,0.121,-1.069,0.8575,0.9919
+"16,18-oxo-18-CoA-dinor-LTE4",3,-0.044,-1.075,0.8589,0.9919
+"D-glucitol",7,0.156,-1.075,0.8588,0.9919
+"(3S)-3-hydroxy-cis,cis-palmito-7,10-dienoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"(3S)-3-hydroxylinoleoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"(S)-3-hydroxy-11-cis-octadecenoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"(S)-3-hydroxy-7-hexadecenoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"(S)-3-hydroxyhexadecanoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"(S)-3-hydroxyoleyleoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"(S)-3-hydroxypalmitoleoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"20-CoA-20-oxo-18r-hydroxy-LTB4",8,0.117,-1.076,0.859,0.9919
+"3(S),12(R)-dihydroxy-5-oxo-eicosa-(8E,10E,14Z)-trienoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"3(S),12(S)-dihydroxy-5-oxo-eicosa-(8E,10E,14Z)-trienoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"3(S),5(S),12(R)-trihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"3(S)-hydroxy-(5Z,8Z)-tetradecadienoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"3(S)-hydroxy-(6Z,9Z,12Z)-octadecatrienoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"3(S)-hydroxy-dihomo-gamma-linolenoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"cis-(3S)-hydroxytetradec-5-enoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"cis-(3S)-hydroxytetradec-7-enoyl-CoA",8,0.117,-1.076,0.859,0.9919
+"N-acetylputrescine",6,-0.108,-1.081,0.8601,0.9925
+"Pristanoyl Coenzyme A",7,0.028,-1.083,0.8606,0.9925
+"2-arachidonoylglycerol",11,0.094,-1.086,0.8612,0.9925
+"25(R)TetraHCA-CoA",3,-0.104,-1.091,0.8624,0.9925
+"3,7,24THCA-CoA",3,-0.104,-1.091,0.8624,0.9925
+"L-tyrosyl-tRNA(tyr)",13,0.185,-1.098,0.8639,0.9925
+"tRNA(tyr)",13,0.185,-1.098,0.8639,0.9925
+"4-(n-nitrosomethylamino)-1-(3-pyridyl)-1-butanone",20,0.012,-1.103,0.8649,0.9925
+"L-alanyl-tRNA(ala)",14,0.122,-1.105,0.8654,0.9925
+"tRNA(ala)",14,0.122,-1.105,0.8654,0.9925
+"(S)-3-Hydroxyoctadecanoyl Coenzyme A",5,0.094,-1.114,0.8675,0.9925
+"3-Hydroxy Tetradecenoyl-7 Coenzyme A",5,0.094,-1.114,0.8675,0.9925
+"3-Hydroxy Trans5,8Tetradecadienoyl Coenzyme A",5,0.094,-1.114,0.8675,0.9925
+"3-Hydroxy Trans7,10-Hexadecadienoyl Coenzyme A",5,0.094,-1.114,0.8675,0.9925
+"3-Hydroxyhexadecanoyl Coenzyme A",5,0.094,-1.114,0.8675,0.9925
+"3-Hydroxyhexadecenoyl Coenzyme A",5,0.094,-1.114,0.8675,0.9925
+"3-Hydroxyoctadecadienoyl Coenzyme A",5,0.094,-1.114,0.8675,0.9925
+"3-Hydroxyoctadecenoyl Coenzyme A",5,0.094,-1.114,0.8675,0.9925
+"PNP",8,0.012,-1.121,0.8689,0.9925
+"aflatoxin M1",10,-0.258,-1.122,0.8691,0.9925
+"maltose",3,-0.054,-1.123,0.8693,0.9925
+"maltotriose",3,-0.054,-1.123,0.8693,0.9925
+"3,6,9-Dodecatrienoyl Coenzyme A",9,0.05,-1.132,0.8711,0.994
+"dehydroascorbic acid",8,-0.05,-1.145,0.874,0.9942
+"coproporphyrin I",3,-0.203,-1.151,0.8752,0.9942
+"fructoseglycine",3,0.13,-1.151,0.8751,0.9942
+"fructoseglycine-ketone-3-phosphate",3,0.13,-1.151,0.8751,0.9942
+"1,2-diacylglycerol-LD-PI pool",26,0.098,-1.153,0.8755,0.9942
+"glycolithocholate",6,-0.346,-1.154,0.8758,0.9942
+"tetrahydrobiopterin",3,-0.071,-1.159,0.8769,0.9942
+"2,6,9,12-Octadecatetraenoyl Coenzyme A",7,0.075,-1.165,0.8779,0.9942
+"2,7,10,13,16-Docosapentenoyl Coenzyme A",7,0.075,-1.165,0.8779,0.9942
+"2,7,10,13-Hexadecatetraenoyl Coenzyme A",7,0.075,-1.165,0.8779,0.9942
+"(S)-hydroxydecanoyl-CoA",12,0.103,-1.166,0.8782,0.9942
+"Ca2+",11,-0.059,-1.167,0.8784,0.9942
+"5-aminolevulinate",4,0.066,-1.171,0.8793,0.9942
+"L-phenylalanyl-tRNA(phe)",15,0.131,-1.176,0.8802,0.9942
+"tRNA(phe)",15,0.131,-1.176,0.8802,0.9942
+"(3R)-phytanoyl-CoA",4,-0.065,-1.178,0.8806,0.9942
+"3alpha,7alpha-dihydroxy-5beta-cholestanate",17,0.039,-1.183,0.8816,0.9942
+"des-isoproylpropionic-acid-fluvastatin-CoA",5,-0.063,-1.188,0.8826,0.9942
+"fluvastatin-CoA form",5,-0.063,-1.188,0.8826,0.9942
+"succinyl-CoA",19,0.022,-1.195,0.884,0.9942
+"12(S)-HPETE",7,0.089,-1.197,0.8844,0.9942
+"13(S)-HODE",7,0.089,-1.197,0.8844,0.9942
+"13(S)-HPODE",7,0.089,-1.197,0.8844,0.9942
+"15(S)-HETE",7,0.089,-1.197,0.8844,0.9942
+"ursodeoxycholate",10,0.024,-1.197,0.8843,0.9942
+"3,7,24THCA",3,-0.07,-1.203,0.8854,0.9942
+"tetraHCA",3,-0.07,-1.203,0.8854,0.9942
+"3(S)-Phytanoyl Coenzyme A",3,-0.182,-1.205,0.8858,0.9942
+"3(S)-hydroxy-hexacosenoyl-CoA",12,0.086,-1.205,0.886,0.9942
+"3-hydroxyhexacosanoyl-CoA",12,0.086,-1.205,0.886,0.9942
+"3-hydroxytetracosanoyl-CoA",12,0.086,-1.205,0.886,0.9942
+"3-hydroxykynurenamine",3,-0.068,-1.206,0.8861,0.9942
+"5-hydroxykynurenamine",3,-0.068,-1.206,0.8861,0.9942
+"glycogenin G11",5,0.014,-1.217,0.8883,0.9951
+"aflatoxin B1",11,-0.218,-1.219,0.8886,0.9951
+"glycyl-tRNA(gly)",14,0.112,-1.22,0.8887,0.9951
+"tRNA(gly)",14,0.112,-1.22,0.8887,0.9951
+"deoxycholoyl-CoA",3,-0.088,-1.226,0.8899,0.996
+"taurodeoxycholate",5,0.139,-1.23,0.8907,0.9964
+"10,11-dihydro-12-oxo-LTB4",4,0.107,-1.234,0.8915,0.9966
+"(3R)-phytanic acid",3,-0.013,-1.238,0.8921,0.9966
+"CDP-diacylglycerol-CL pool",4,-0.21,-1.244,0.8933,0.9966
+"25(R)DHCA-CoA",4,-0.061,-1.25,0.8944,0.9966
+"7-Ketolithocholate",4,0.28,-1.25,0.8943,0.9966
+"1,2-diacylglycerol-LD-PE pool",23,0.129,-1.251,0.8945,0.9966
+"S-glutathionyl-2-4-dinitrobenzene",5,-0.32,-1.259,0.896,0.9966
+"glutathionyl-leukotriene C4",5,-0.32,-1.259,0.896,0.9966
+"L-cysteinyl-tRNA(cys)",10,0.173,-1.268,0.8976,0.9966
+"tRNA(cys)",10,0.173,-1.268,0.8976,0.9966
+"4-cholesten-7alpha,24(S)-diol-3-one",3,0.101,-1.272,0.8984,0.9966
+"4-cholesten-7alpha,27-diol-3-one",3,0.101,-1.272,0.8984,0.9966
+"D-4-phosphopantothenate",4,-0.167,-1.274,0.8987,0.9966
+"3'-S-hydroxy-pravastatin-CoA",7,-0.002,-1.286,0.9008,0.9966
+"3'-S-hydroxy-pravastatin-tetranor-CoA",7,-0.002,-1.286,0.9008,0.9966
+"4,7,10,13-Hexadecatetraenoyl Coenzyme A",7,-0.002,-1.286,0.9008,0.9966
+"5,8,11,14-Eicosatetraenoyl Coenzyme A",7,-0.002,-1.286,0.9008,0.9966
+"5,8,11-Tetradecatrienoyl Coenzyme A",7,-0.002,-1.286,0.9008,0.9966
+"1,3-diaminopropane",5,0.035,-1.287,0.901,0.9966
+"lc4Cer",4,0.02,-1.287,0.9009,0.9966
+"N-methylhistamine",6,-0.1,-1.288,0.9012,0.9966
+"[protein]-L-cysteine",4,0.06,-1.292,0.9017,0.9966
+"taurolithocholate",5,-0.47,-1.299,0.9031,0.9966
+"(R)-4-phosphopantothenoyl-cysteine",5,-0.093,-1.301,0.9035,0.9966
+"(S)-Glycerate",4,0.028,-1.308,0.9046,0.9966
+"2-Hydroxy-3-Methyl-Valerate",4,0.028,-1.308,0.9046,0.9966
+"2-Hydroxy-Isovalerate",4,0.028,-1.308,0.9046,0.9966
+"L-cystathionine",3,0.049,-1.308,0.9045,0.9966
+"(S)-3-hydroxydodecanoyl-CoA",13,0.083,-1.312,0.9052,0.9966
+"5-S-glutathionyl-L-dopa",21,-0.112,-1.321,0.9068,0.9966
+"L-asparaginyl-tRNA(asn)",13,0.084,-1.325,0.9073,0.9966
+"tRNA(asn)",13,0.084,-1.325,0.9073,0.9966
+"3-dehydro-Deoxycholate",8,-0.011,-1.326,0.9076,0.9966
+"3-dehydro-Lithocholate",8,-0.011,-1.326,0.9076,0.9966
+"Taurohyocholic acid; N-(3alpha,6alpha,7alpha-Trihydroxy-5beta-cholan-24-oyl)taurine",8,-0.011,-1.326,0.9076,0.9966
+"arachidonate",55,0.027,-1.334,0.909,0.9966
+"H2O2",79,0.049,-1.335,0.9091,0.9966
+"UTP",84,0.096,-1.337,0.9094,0.9966
+"L-aspartyl-tRNA(asp)",14,0.07,-1.344,0.9105,0.9966
+"tRNA(asp)",14,0.07,-1.344,0.9105,0.9966
+"GSH",64,-0.013,-1.346,0.9108,0.9966
+"3(S)-hydroxy-13-cis-eicosenoyl-CoA",14,0.098,-1.347,0.911,0.9966
+"3-hydroxydocosanoyl-CoA",14,0.098,-1.347,0.911,0.9966
+"3-hydroxyeicosanoyl-CoA",14,0.098,-1.347,0.911,0.9966
+"homocysteine-thiolactone",3,0.064,-1.349,0.9113,0.9966
+"25(R)THCA-CoA",4,-0.06,-1.353,0.912,0.9966
+"taurocholate",12,-0.025,-1.361,0.9133,0.9966
+"3alpha,7alpha-dihydroxy-5beta-cholest-24-enoyl-CoA",5,-0.047,-1.368,0.9143,0.9966
+"S-[2-carboxy-1-(1H-imidazol-4-yl)ethyl]glutathione",12,0.07,-1.376,0.9155,0.9966
+"3,6,9,12-Octadecatetraenoyl Coenzyme A",8,0.085,-1.385,0.9169,0.9966
+"FADH2",73,0.002,-1.385,0.917,0.9966
+"mitoACP",3,-0.088,-1.393,0.9181,0.9966
+"mgacpail heparan sulfate",4,-0.037,-1.399,0.9191,0.9966
+"S-glutathionyl-ethacrynic acid",4,-0.455,-1.402,0.9195,0.9966
+"cysteamine",3,-0.115,-1.404,0.9198,0.9966
+"6-deoxy-L-galactose",3,0.039,-1.426,0.9231,0.9966
+"dimethylglycine",5,0.008,-1.433,0.924,0.9966
+"coumarin",3,0.282,-1.443,0.9255,0.9966
+"umbelliferone",3,0.282,-1.443,0.9255,0.9966
+"1,2-diacylglycerol-LD-SM pool",17,0.147,-1.447,0.926,0.9966
+"2-O-acetyl-ADP-D-ribose",3,0.009,-1.447,0.9261,0.9966
+"alpha-NAD(+)",3,0.009,-1.447,0.9261,0.9966
+"[protein]-N6,N6,N6-trimethyl-L-lysine",31,0.043,-1.466,0.9287,0.9966
+"keratan sulfate I",5,-0.116,-1.469,0.9291,0.9966
+"glycocholate",11,0.005,-1.473,0.9297,0.9966
+"11,12-EET",48,0.031,-1.477,0.9301,0.9966
+"N-acetylglucosamine-1-phosphate",3,-0.072,-1.478,0.9302,0.9966
+"beta-1,4-mannose-N-acetylglucosamine",4,0.208,-1.485,0.9312,0.9966
+"Octadecenoyl Coenzyme A",5,0.076,-1.49,0.9319,0.9966
+"itaconate",3,0.019,-1.497,0.9328,0.9966
+"mesaconate",3,0.019,-1.497,0.9328,0.9966
+"mesaconyl-CoA",3,0.019,-1.497,0.9328,0.9966
+"L-leucyl-tRNA(leu)",14,0.084,-1.498,0.9329,0.9966
+"tRNA(leu)",14,0.084,-1.498,0.9329,0.9966
+"histone-L-lysine",40,0.027,-1.502,0.9335,0.9966
+"glycoursodeoxycholate",8,-0.158,-1.508,0.9342,0.9966
+"tauroursodeoxycholate",8,-0.158,-1.508,0.9342,0.9966
+"L-threonyl-tRNA(thr)",14,0.107,-1.526,0.9365,0.9966
+"tRNA(thr)",14,0.107,-1.526,0.9365,0.9966
+"1,2-diacylglycerol-LD-PC pool",21,0.09,-1.529,0.9369,0.9966
+"melatonin",6,-0.229,-1.531,0.9372,0.9966
+"14,15-EET",49,0.021,-1.535,0.9376,0.9966
+"(S)-3-hydroxytetradecanoyl-CoA",12,0.096,-1.548,0.9392,0.9966
+"tRNA-guanine",5,0.153,-1.567,0.9415,0.9966
+"1,2-diacylglycerol-LD-PS pool",19,0.115,-1.569,0.9417,0.9966
+"de-Fuc form of PA6",3,0.008,-1.572,0.9421,0.9966
+"keratan sulfate I, degradation product 1",3,0.008,-1.572,0.9421,0.9966
+"L-formylkynurenine",5,-0.119,-1.576,0.9425,0.9966
+"phenethylamine",5,-0.04,-1.585,0.9435,0.9966
+"5-hydroxy-N-formylkynurenine",3,-0.03,-1.588,0.9439,0.9966
+"pantetheine",6,-0.052,-1.599,0.9451,0.9966
+"7alpha,12alpha-dihydroxycholest-4-en-3-one",5,0.232,-1.61,0.9463,0.9966
+"5-S-glutathionyl-dopamine",20,-0.148,-1.622,0.9476,0.9966
+"methylamine",5,-0.044,-1.622,0.9476,0.9966
+"S-(9-deoxy-delta12-PGD2)-glutathione",19,-0.116,-1.635,0.9489,0.9966
+"S-(9-deoxy-delta9,12-PGD2)-glutathione",19,-0.116,-1.635,0.9489,0.9966
+"S-(PGJ2)-glutathione",19,-0.116,-1.635,0.9489,0.9966
+"prostaglandin J2",19,-0.116,-1.635,0.9489,0.9966
+"PA6",4,-0.1,-1.651,0.9507,0.9966
+"L-arginyl-tRNA(arg)",15,0.1,-1.692,0.9547,0.9966
+"tRNA(arg)",15,0.1,-1.692,0.9547,0.9966
+"cortisol",5,0.201,-1.693,0.9548,0.9966
+"pantothenate",6,-0.069,-1.694,0.9549,0.9966
+"ferricytochrome C",26,0.053,-1.699,0.9553,0.9966
+"ferrocytochrome C",26,0.053,-1.699,0.9553,0.9966
+"tryptamine",6,0.123,-1.714,0.9568,0.9966
+"L-lysyl-tRNA(lys)",14,0.098,-1.725,0.9577,0.9966
+"tRNA(lys)",14,0.098,-1.725,0.9577,0.9966
+"NH3",47,0.026,-1.735,0.9586,0.9966
+"cholesterol-STAR",7,0.066,-1.738,0.9589,0.9966
+"glucosaminyl-acylphosphatidylinositol",3,0.001,-1.745,0.9595,0.9966
+"7alpha-hydroxycholest-4-en-3-one",7,0.203,-1.746,0.9596,0.9966
+"serotonin",11,-0.126,-1.749,0.9599,0.9966
+"L-tryptophanyl-tRNA(trp)",14,0.097,-1.754,0.9603,0.9966
+"tRNA(trp)",14,0.097,-1.754,0.9603,0.9966
+"2-hydroxyestradiol-17beta",25,-0.063,-1.767,0.9614,0.9966
+"12-keto-LTB4",26,-0.039,-1.774,0.962,0.9966
+"hydroxypyruvate",7,0.055,-1.792,0.9635,0.9966
+"16alpha-hydroxyestrone",21,-0.112,-1.804,0.9644,0.9966
+"tyramine",12,0.073,-1.833,0.9666,0.9966
+"hepoxilin A3",31,-0.016,-1.857,0.9684,0.9966
+"10-HETE",28,-0.147,-1.898,0.9712,0.9966
+"4-hydroxy-4-(methylnitrosoamino)-1-(3-pyridinyl)-1-butanone",5,0.133,-1.969,0.9755,0.9966
+"retinoate",32,-0.067,-1.973,0.9757,0.9966
+"prostaglandin A1",22,-0.176,-1.988,0.9766,0.9966
+"11,12,15-THETA",22,-0.107,-2.028,0.9787,0.9966
+"11,14,15-THETA",22,-0.107,-2.028,0.9787,0.9966
+"11-HETE",22,-0.107,-2.028,0.9787,0.9966
+"11h-14,15-EETA",22,-0.107,-2.028,0.9787,0.9966
+"13-HETE",22,-0.107,-2.028,0.9787,0.9966
+"15H-11,12-EETA",22,-0.107,-2.028,0.9787,0.9966
+"16(R)-HETE",22,-0.107,-2.028,0.9787,0.9966
+"17-HETE",22,-0.107,-2.028,0.9787,0.9966
+"18-HETE",22,-0.107,-2.028,0.9787,0.9966
+"18-hydroxy-all-trans-retinoate",22,-0.107,-2.028,0.9787,0.9966
+"19(S)-HETE",22,-0.107,-2.028,0.9787,0.9966
+"6,7-dihydro-LTB4",22,-0.107,-2.028,0.9787,0.9966
+"7-HETE",22,-0.107,-2.028,0.9787,0.9966
+"9-HETE",22,-0.107,-2.028,0.9787,0.9966
+"12(13)-EpOME",24,-0.084,-2.073,0.9809,0.9966
+"5,6-EET",24,-0.084,-2.073,0.9809,0.9966
+"8,9-EET",24,-0.084,-2.073,0.9809,0.9966
+"9(10)-EpOME",24,-0.084,-2.073,0.9809,0.9966
+"[protein]-N6-methyl-L-lysine",24,0.045,-2.076,0.981,0.9966
+"[protein]-N6,N6-dimethyl-L-lysine",26,0.061,-2.095,0.9819,0.9966
+"histone-N6-methyl-L-lysine",26,0.061,-2.095,0.9819,0.9966
+"7,12-dimethylbenz[a]anthracene",21,-0.125,-2.123,0.9831,0.9966
+"benzo[a]pyrene",21,-0.125,-2.123,0.9831,0.9966
+"O2-",16,-0.083,-2.133,0.9835,0.9966
+"RNA",68,0.038,-2.134,0.9836,0.9966
+"aflatoxin B1-exo-8,9-epoxide",25,-0.17,-2.15,0.9842,0.9966
+"estrone",32,-0.058,-2.181,0.9854,0.9966
+"(1R,2S)-naphthalene 1,2-oxide",26,-0.157,-2.194,0.9859,0.9966
+"(1S,2R)-naphthalene 1,2-oxide",26,-0.157,-2.194,0.9859,0.9966
+"1-nitronaphthalene-5,6-oxide",26,-0.157,-2.194,0.9859,0.9966
+"benzo[a]pyrene-7,8-diol",26,-0.157,-2.194,0.9859,0.9966
+"bromobenzene-2,3-oxide",26,-0.157,-2.194,0.9859,0.9966
+"bromobenzene-3,4-oxide",26,-0.157,-2.194,0.9859,0.9966
+"17beta-estradiol-2,3-quinone",18,-0.171,-2.204,0.9862,0.9966
+"17beta-estradiol-3,4-quinone",18,-0.171,-2.204,0.9862,0.9966
+"2-hydroxy-17beta-estradiol-1-S-glutathione",18,-0.171,-2.204,0.9862,0.9966
+"2-hydroxy-17beta-estradiol-4-S-glutathione",18,-0.171,-2.204,0.9862,0.9966
+"2-hydroxyestrone-1-S-glutathione",18,-0.171,-2.204,0.9862,0.9966
+"2-hydroxyestrone-4-S-glutathione",18,-0.171,-2.204,0.9862,0.9966
+"3-hydroxykynurenine-O-beta-D-glucoside",18,-0.171,-2.204,0.9862,0.9966
+"4-hydroxy-17beta-estradiol-2-S-glutathione",18,-0.171,-2.204,0.9862,0.9966
+"4-hydroxyestrone-2-S-glutathione",18,-0.171,-2.204,0.9862,0.9966
+"5-S-glutathionyl-adrenochrome hydroquinone",18,-0.171,-2.204,0.9862,0.9966
+"5-S-glutathionyl-aminochrome reduced",18,-0.171,-2.204,0.9862,0.9966
+"5-S-glutathionyl-dopachrome hydroquinone",18,-0.171,-2.204,0.9862,0.9966
+"5-S-glutathionyl-noradrenochrome hydroquinone",18,-0.171,-2.204,0.9862,0.9966
+"9-deoxy-delta12-PGD2",18,-0.171,-2.204,0.9862,0.9966
+"L-dopaquinone",18,-0.171,-2.204,0.9862,0.9966
+"S-(PGA1)-glutathione",18,-0.171,-2.204,0.9862,0.9966
+"S-(PGA2)-glutathione",18,-0.171,-2.204,0.9862,0.9966
+"delta-12-prostaglandin J2",18,-0.171,-2.204,0.9862,0.9966
+"dopamine-O-quinone",18,-0.171,-2.204,0.9862,0.9966
+"estrone-2,3-quinone",18,-0.171,-2.204,0.9862,0.9966
+"estrone-3,4-quinone",18,-0.171,-2.204,0.9862,0.9966
+"glutathionyl-3-hydroxykynurenine glucoside",18,-0.171,-2.204,0.9862,0.9966
+"hepoxilin A3-c",18,-0.171,-2.204,0.9862,0.9966
+"8-HETE",21,-0.078,-2.218,0.9867,0.9966
+"1,1-dichloroethylene epoxide",25,-0.178,-2.324,0.9899,0.9966
+"1-nitronaphthalene-7,8-oxide",25,-0.178,-2.324,0.9899,0.9966
+"2,2-dichloroacetaldehyde",25,-0.178,-2.324,0.9899,0.9966
+"trichloroethene",25,-0.178,-2.324,0.9899,0.9966
+"15(S)-HPETE",30,-0.063,-2.335,0.9902,0.9966
+"6,7-dihydro-5-oxo-12-epi-LTB4",28,-0.068,-2.35,0.9906,0.9966
+"6,7-dihydro-5-oxo-LTB4",28,-0.068,-2.35,0.9906,0.9966
+"7,12-Dimethylbenz[A]Anthracene-3,4-Diol",21,-0.045,-2.352,0.9907,0.9966
+"(1R)-hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene",15,-0.136,-2.379,0.9913,0.9966
+"(1S)-hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene",15,-0.136,-2.379,0.9913,0.9966
+"1-nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene",15,-0.136,-2.379,0.9913,0.9966
+"1-nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene",15,-0.136,-2.379,0.9913,0.9966
+"1-nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene",15,-0.136,-2.379,0.9913,0.9966
+"1-nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene",15,-0.136,-2.379,0.9913,0.9966
+"2,3-dihydro-2-S-glutathionyl-3-hydroxy bromobenzene",15,-0.136,-2.379,0.9913,0.9966
+"2-(S-glutathionyl)acetyl chloride",15,-0.136,-2.379,0.9913,0.9966
+"2-(S-glutathionyl)acetyl glutathione",15,-0.136,-2.379,0.9913,0.9966
+"3,4-dihydro-3-hydroxy-4-S-glutathionyl bromobenzene",15,-0.136,-2.379,0.9913,0.9966
+"4,5-dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene",15,-0.136,-2.379,0.9913,0.9966
+"7,8-dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene",15,-0.136,-2.379,0.9913,0.9966
+"S-(1,2-dichlorovinyl)glutathione",15,-0.136,-2.379,0.9913,0.9966
+"S-(2,2-dichloro-1-hydroxy)ethyl glutathione",15,-0.136,-2.379,0.9913,0.9966
+"S-(2-chloroacetyl)glutathione",15,-0.136,-2.379,0.9913,0.9966
+"S-(formylmethyl)glutathione",15,-0.136,-2.379,0.9913,0.9966
+"aflatoxin B1-exo-8,9-epoxide-GSH",15,-0.136,-2.379,0.9913,0.9966
+"hydrochloride",15,-0.136,-2.379,0.9913,0.9966
+"prostaglandin A2",21,-0.09,-2.385,0.9915,0.9966
+"7,12-Dimethylbenz[A]Anthracene-3,4-Oxide",22,-0.035,-2.416,0.9922,0.9966
+"Benzo[A]Pyrene-2,3-Oxide",22,-0.035,-2.416,0.9922,0.9966
+"Dibenzo[A,L]Pyrene-11,12-Epoxide",22,-0.035,-2.416,0.9922,0.9966
+"2-bromoacetaldehyde",16,-0.136,-2.43,0.9925,0.9966
+"chloroacetyl chloride",24,-0.194,-2.43,0.9925,0.9966
+"benzo[a]pyrene-4,5-oxide",27,-0.153,-2.438,0.9926,0.9966
+"ubiquinol",58,-0.007,-2.444,0.9927,0.9966
+"ubiquinone",58,-0.007,-2.444,0.9927,0.9966
+"thiol",47,0.034,-2.483,0.9935,0.9966
+"ubiquitin C terminal thiolester",47,0.034,-2.483,0.9935,0.9966
+"5-oxo-(6E)-12-epi-LTB4",24,-0.096,-2.493,0.9937,0.9966
+"L-dopachrome",19,-0.168,-2.532,0.9943,0.9966
+"adrenochrome",19,-0.168,-2.532,0.9943,0.9966
+"dopaminochrome",19,-0.168,-2.532,0.9943,0.9966
+"noradrenochrome",19,-0.168,-2.532,0.9943,0.9966
+"L-histidyl-tRNA(his)",12,0.11,-2.547,0.9946,0.9966
+"tRNA(his)",12,0.11,-2.547,0.9946,0.9966
+"7,12-Dimethylbenz[A]Anthracene-3,4-Diol-1,2-Epoxide",19,-0.067,-2.548,0.9946,0.9966
+"Dibenzo[A,L]Pyrene",20,-0.054,-2.571,0.9949,0.9966
+"Dibenzo[A,L]Pyrene-11,12-Diol-13,14-Epoxide",20,-0.054,-2.571,0.9949,0.9966
+"glutathione episulfonium ion",16,-0.121,-2.6,0.9953,0.9966
+"Dibenzo[A,L]Pyrene-11,12-Diol",23,-0.04,-2.608,0.9954,0.9966
+"1,2-dibromoethane",17,-0.122,-2.668,0.9962,0.9966
+"hydrobromic acid",17,-0.122,-2.668,0.9962,0.9966
+"5-oxo-6-trans-LTB4",23,-0.033,-2.673,0.9962,0.9966
+"12-oxo-c-LTB3",20,-0.152,-2.72,0.9967,0.9967
