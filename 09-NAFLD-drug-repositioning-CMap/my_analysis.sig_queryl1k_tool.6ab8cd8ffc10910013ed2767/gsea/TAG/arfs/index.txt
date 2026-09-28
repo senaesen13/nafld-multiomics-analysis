@@ -1,0 +1,2 @@
+query_id	desc	url
+norm_cs	NAFLD381genes	NORM_CS
